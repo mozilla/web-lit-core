@@ -1,6 +1,6 @@
-# The Open Leadership Map white paper README
+# The WebLit Core Curriculum README
 
-Project lead and contact: [Chad Sansing](mailto:chad@mozillafoundation.org)
+Project lead and contact: [An-Me](mailto:anme@mozillafoundation.org)
 
 ## Description
 
