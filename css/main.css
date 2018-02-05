@@ -3,14 +3,14 @@
 }
 
 .home-card h1 {
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
   font-size: 1.9rem;
   color:#000;
 }
 
 .highlight {
   padding: 0.3em 0;
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
   background-color: #FA8CFF;
   font-weight:700;
   line-height: 1.9;
@@ -35,7 +35,7 @@
   color: white;
   display: inline;
   padding: .3em 0;
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: 0;
@@ -64,7 +64,7 @@
 
 h2 {
   margin: 1rem 0;
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
   color:black;
 }
 
@@ -77,7 +77,7 @@ h3 {
   margin-top: 3rem;
   margin-bottom: 2rem;
   font-size: 2rem;
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
   color: #A95FAD;
 }
 
@@ -247,21 +247,26 @@ html.no-js .sidebar .collapsible-content {
   overflow: hidden;
 }
 
+.sidebar-header a {
+  color: #000;
+}
+
 .sidebar-header a:hover,
 .sidebar-header a:focus {
   text-decoration: none;
 }
 
 .sidebar-header .moz-logo {
-  width:90px;
+  width:56px;
 }
 
-.sidebar-header span {
-  padding: 0.3em 0;
-  font-family: Arvo,sans-serif;
-  background-color: #FA8CFF;
-  font-weight:700;
-  line-height: 1.9;
+.sidebar-header h2 {
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0;
+  font-family: "Zilla Slab", serif;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 .sidebar-header .glyphicon-menu-hamburger {
@@ -455,7 +460,7 @@ html.no-js .sidebar .collapsible-content {
 
 #content h4 {
   margin:0;
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
 }
 
 
