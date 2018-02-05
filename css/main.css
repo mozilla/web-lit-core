@@ -244,7 +244,8 @@ html.no-js .sidebar .collapsible-content {
   position: relative;
   font-size: 1rem;
   padding: 1rem 1em;
-  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
 }
 
 .sidebar-header a {
@@ -518,7 +519,11 @@ td, th {
   border: 1px solid #e5e5e5;
 }
 
-a.btn {
+.btn {
+  font-family: "Nunito Sans";
+}
+
+a.btn-wl {
   border: 2px solid #3bb7ef;
   color: #000;
   transition: background 0.2s ease-in-out;
@@ -531,11 +536,34 @@ a.btn {
   text-transform: uppercase;
 }
 
-a.btn:hover {
+a.btn-wl:hover {
   opacity: 1;
   background: #00FFFF;
   border-color: #00FFFF;
   color: #000;
+}
+
+a.btn-pop {
+  background: #ffed00;
+  color: black;
+  -webkit-box-shadow: 4px 4px black;
+  box-shadow: 4px 4px black;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  border: 2px solid black;
+  position: relative;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+a.btn-pop:hover {
+  -webkit-box-shadow: 8px 8px black;
+  box-shadow: 8px 8px black;
+  -webkit-transform: translate(-4px, -4px);
+  transform: translate(-4px, -4px);
+  color: black;
+  background: #e7c121;
 }
 
 /* PASSING */
