@@ -8,6 +8,13 @@
   color:#000;
 }
 
+.hr-gradient {
+  height: 4px;
+  background: -webkit-gradient(linear, left top, right top, from(#3dfefd), to(#b7d43f));
+  background: linear-gradient(to right, #3dfefd, #b7d43f);
+  border: 0;
+  margin: 30px 0;
+}
 .highlight {
   padding: 0.3em 0;
   font-family: "Zilla Slab",sans-serif;
@@ -197,14 +204,10 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar {
   position: relative;
-  background-color: white;
-  position: relative;
   height: auto;
   color: #000;
   font-size: 1rem;
   padding: 0;
-  border-right: 1px solid #cfcfcf;
-  /*box-shadow: 0 5px 5px rgba(0,0,0,.5);*/
 }
 
 .sidebar a {
@@ -243,7 +246,6 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-header {
   position: relative;
   font-size: 1rem;
-  padding: 1rem 1em;
   display: flex;
   justify-content: space-between;
 }
@@ -285,6 +287,8 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu {
+  position: sticky;
+  top: 0;
   padding-bottom: 0;
   margin-bottom: 0;
 }
