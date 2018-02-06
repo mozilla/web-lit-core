@@ -205,14 +205,16 @@ html.no-js .sidebar .collapsible-content {
 .sidebar {
   position: relative;
   height: auto;
-  color: #000;
+  color: #979797;
   font-size: 1rem;
+  font-weight: 600;
 }
 
 .sidebar a {
   font-size: inherit;
   color: inherit;
   line-height: 1;
+  font-weight: 600;
 }
 
 .sidebar .collapsible-content {
@@ -338,6 +340,13 @@ html.no-js .sidebar .collapsible-content {
   border-bottom: 4px solid #FFED00;
 }
 
+.sidebar-menu li.selected span:before {
+  content: "\f105";
+  font-family: "FontAwesome";
+  display: inline-block;
+  text-decoration: none;
+}
+
 .sidebar-menu strong {
   display: inline;
   font-weight: 700;
@@ -409,8 +418,10 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-subitems {
-  overflow: hidden;
-  list-style: none;
+  /* list-style: decimal;
+  list-style-position: inside; */
+  counter-reset: item;
+  list-style-type: none;
 }
 
 .sidebar-subitems li {
@@ -418,24 +429,20 @@ html.no-js .sidebar .collapsible-content {
   padding-right:10px;
 }
 
+.sidebar-subitems li:before {
+  content: counter(item) " ";
+  counter-increment: item;
+  margin-right: 0.5em;
+}
+
 .sidebar-subitems li:last-child {
   margin-bottom: 0;
 }
 
-.sidebar-subitems li a::before {
-  content: "\f105";
-  font-family: "FontAwesome";
-  display: inline-block;
-  position: absolute;
-  left: 0rem;
-}
 
 .sidebar-subitems a {
-  position: relative;
   display: inline-block;
-  padding: 0 0 0 1rem;
   line-height: 1.25rem;
-  color: rgba(0,0,0,.6);
   font-size:1rem;
   transition: color .15s ease-out;
 }
