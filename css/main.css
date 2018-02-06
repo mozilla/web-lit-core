@@ -30,23 +30,11 @@
   box-shadow:0 0 .625em .3125em rgba(0,0,0,.08)
 }
 
-.hero-unit {
-  text-align: center;
-  padding: 4em 1em 3em;
-  background-image: url("/olm-whitepaper/images/Working-open-header.jpg");
-  background-size: cover;
-
-}
-
-.hero-unit h1 {
-  color: white;
-  display: inline;
-  padding: .3em 0;
-  font-family: "Zilla Slab",sans-serif;
-  font-weight: 700;
-  line-height: 1.5;
-  letter-spacing: 0;
-  background-color: black;
+h1 {
+  font-family: "Zilla Slab";
+  font-size: 56px;
+  color: #000000;
+  line-height: 68px;
 }
 
 .hero-unit p {
@@ -58,10 +46,6 @@
 .intro {
   letter-spacing: 0rem;
   margin:0.5em 0 2em;
-}
-
-.home-page .intro {
-  text-align: center;
 }
 
 .lesson-content .intro p {
@@ -230,10 +214,6 @@ html.no-js .sidebar .collapsible-content {
   padding-bottom: 0;
 }
 
-.lesson-content {
-  padding:1rem;
-}
-
 @media screen and (min-width: 992px) {
   .sidebar {
     transition: background-color 5ms;
@@ -336,11 +316,13 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected a {
+  color: #000;
   font-weight: 600;
   border-bottom: 4px solid #FFED00;
 }
 
 .sidebar-menu li.selected span:before {
+  color: #000;
   content: "\f105";
   font-family: "FontAwesome";
   display: inline-block;
@@ -700,12 +682,6 @@ a.btn-pop:hover {
     padding-right: 1.25rem;
     margin-bottom: 0;
     margin-right: 1.25rem;
-  }
-  .lesson-content {
-    padding: 2rem 3.5rem;
-  }
-  .hero-unit h1 {
-/*    font-size: 4.5rem;*/
   }
 }
 
