@@ -8,6 +8,8 @@ ol li, ul li {
 
 .lesson-content ol {
   background: rgba(255,237,0,.25);
+  list-style-position: inside;
+  padding: 20px;
 }
 
 .project {

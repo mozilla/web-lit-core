@@ -78,11 +78,8 @@ If the Issue Tracker is too difficult to use, contact Chad. He will work with yo
 Here are some steps you can take to get started on GitHub if you'd like to try it.
 
 1. First, create an account on [GitHub](https://github.com).
-
 2. Then visit [our repo](https://github.com/mozilla/olm-whitepaper) to contribute to the white paper.
-
 3. Next, click on the "Issues" tab near the top of the page.
-
 4. Finally, click on the green "New Issue" button to the left of the page. You can then title your issue and add content. Specificity helps.
 
 Before you submit your issue, label it. You can choose one from the "Labels" dropdown menu to the right of your issue.
