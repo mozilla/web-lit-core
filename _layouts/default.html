@@ -18,7 +18,7 @@
     </head>
 
     <body>
-      <div class="page container-fluid">
+      <div class="container">
         <div class="row">
           <div class="col-xs-12 p-t-2">
             <div class="sidebar-header">
@@ -33,6 +33,8 @@
             <hr class="hr-gradient m-t-1"/>
           </div>
         </div>
+      </div>
+      <div class="container">
         <div class="row">
           {% assign post_count = site.posts|size %}
           <div id="navigation" class="col-md-3 col-xs-12 sidebar" role="navigation">
@@ -42,7 +44,8 @@
             {{ content }}
           </div>
         </div>
-
+      </div>
+      <div class="container-fluid">
         <div class="row">
         {% include footer.html %}
         </div>
