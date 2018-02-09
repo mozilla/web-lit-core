@@ -51,7 +51,19 @@
         </div>
       </div>
       <script>
-      function WebAnalytics() {
+      (function enableSmoothAnchorScrolling() {
+        var jumpLinks = [].slice.call(document.querySelectorAll('.jump-link'));
+
+        jumpLinks.forEach((link) => {
+          link.addEventListener('click', (event) => {
+            event.preventDefault();
+            var targetAnchor = link.getAttribute('href').split('#')[1];
+            document.getElementById(targetAnchor).scrollIntoView({behavior: 'smooth', block: 'start'});
+          });
+        });
+      })();
+
+      (function enableWebAnalytics() {
        var _dntStatus = navigator.doNotTrack || navigator.msDoNotTrack;
        var fxMatch = navigator.userAgent.match(/Firefox\/(\d+)/);
        var ie10Match = navigator.userAgent.match(/MSIE 10/i);
@@ -71,8 +83,7 @@
         ga('create', 'UA-87658599-3', 'auto');
         ga('send', 'pageview');
        }
-      }
-      WebAnalytics();
+       })();
       </script>
     </body>
 </html>

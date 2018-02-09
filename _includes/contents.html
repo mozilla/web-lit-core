@@ -16,6 +16,7 @@
 {% for p in item.toc %}
   <li>
     <a
+      class="jump-link"
       href="{{ p | slugify | prepend: '#' | prepend: item.url | prepend: site.baseurl }}">{{ p }}
     </a>
   </li>

@@ -3,6 +3,7 @@ layout: page
 title: "White Paper"
 toc:
 - "Overview"
+- "Sample Pathway"
 - "More info"
 ---
 
