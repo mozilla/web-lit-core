@@ -15,7 +15,9 @@
       {% endif %}
   </li>
   {% if subpage.toc %}
+  {% if page.url contains subpage.url %}
     {% include contents.html item=subpage %}
+  {% endif %}
   {% endif %}
 {% endfor %}
 
