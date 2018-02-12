@@ -177,6 +177,10 @@ h3 .assignment:before {
   margin: .5rem 0;
 }
 
+#markdown-toc li ul {
+  margin-left: 1rem;
+}
+
 pre, code, pre code {
   border: none;
   border-radius: 0;
