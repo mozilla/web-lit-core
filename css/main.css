@@ -1,16 +1,37 @@
+body {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+ol li, ul li {
+  margin: 10px 0;
+}
+
+.lesson-content ol {
+  background: rgba(255,237,0,.25);
+  list-style-position: inside;
+  padding: 20px;
+}
+
 .project {
   padding-bottom: 2em;
 }
 
 .home-card h1 {
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
   font-size: 1.9rem;
   color:#000;
 }
 
+.hr-gradient {
+  height: 4px;
+  background: -webkit-gradient(linear, left top, right top, from(#3dfefd), to(#b7d43f));
+  background: linear-gradient(to right, #3dfefd, #b7d43f);
+  border: 0;
+  margin: 30px 0;
+}
 .highlight {
   padding: 0.3em 0;
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
   background-color: #FA8CFF;
   font-weight:700;
   line-height: 1.9;
@@ -23,23 +44,11 @@
   box-shadow:0 0 .625em .3125em rgba(0,0,0,.08)
 }
 
-.hero-unit {
-  text-align: center;
-  padding: 4em 1em 3em;
-  background-image: url("/olm-whitepaper/images/Working-open-header.jpg");
-  background-size: cover;
-
-}
-
-.hero-unit h1 {
-  color: white;
-  display: inline;
-  padding: .3em 0;
-  font-family: Arvo,sans-serif;
-  font-weight: 700;
-  line-height: 1.5;
-  letter-spacing: 0;
-  background-color: black;
+h1 {
+  font-family: "Zilla Slab";
+  font-size: 56px;
+  color: #000000;
+  line-height: 68px;
 }
 
 .hero-unit p {
@@ -53,10 +62,6 @@
   margin:0.5em 0 2em;
 }
 
-.home-page .intro {
-  text-align: center;
-}
-
 .lesson-content .intro p {
   font-size: 1.3rem;
   line-height: 2rem;
@@ -64,7 +69,7 @@
 
 h2 {
   margin: 1rem 0;
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
   color:black;
 }
 
@@ -77,8 +82,7 @@ h3 {
   margin-top: 3rem;
   margin-bottom: 2rem;
   font-size: 2rem;
-  font-family: Arvo,sans-serif;
-  color: #A95FAD;
+  font-family: "Zilla Slab",sans-serif;
 }
 
 h5 {
@@ -173,6 +177,10 @@ h3 .assignment:before {
   margin: .5rem 0;
 }
 
+#markdown-toc li ul {
+  margin-left: 1rem;
+}
+
 pre, code, pre code {
   border: none;
   border-radius: 0;
@@ -197,20 +205,17 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar {
   position: relative;
-  background-color: white;
-  position: relative;
   height: auto;
-  color: #000;
+  color: #979797;
   font-size: 1rem;
-  padding: 0;
-  border-right: 1px solid #cfcfcf;
-  /*box-shadow: 0 5px 5px rgba(0,0,0,.5);*/
+  font-weight: 600;
 }
 
 .sidebar a {
   font-size: inherit;
   color: inherit;
   line-height: 1;
+  font-weight: 600;
 }
 
 .sidebar .collapsible-content {
@@ -226,10 +231,6 @@ html.no-js .sidebar .collapsible-content {
   padding-bottom: 0;
 }
 
-.lesson-content {
-  padding:1rem;
-}
-
 @media screen and (min-width: 992px) {
   .sidebar {
     transition: background-color 5ms;
@@ -243,8 +244,12 @@ html.no-js .sidebar .collapsible-content {
 .sidebar-header {
   position: relative;
   font-size: 1rem;
-  padding: 1rem 1em;
-  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sidebar-header a {
+  color: #000;
 }
 
 .sidebar-header a:hover,
@@ -253,15 +258,16 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-header .moz-logo {
-  width:90px;
+  width:56px;
 }
 
-.sidebar-header span {
-  padding: 0.3em 0;
-  font-family: Arvo,sans-serif;
-  background-color: #FA8CFF;
-  font-weight:700;
-  line-height: 1.9;
+.sidebar-header h2 {
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0;
+  font-family: "Zilla Slab", serif;
+  font-size: 25px;
+  font-weight: 600;
 }
 
 .sidebar-header .glyphicon-menu-hamburger {
@@ -279,12 +285,16 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu {
+  position: sticky;
+  top: 0;
   padding-bottom: 0;
   margin-bottom: 0;
+  font-family: "Zilla Slab", sans-serif;
 }
 
 .sidebar-menu li {
   font-size: 1rem;
+  border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 
 .sidebar-menu a {
@@ -296,6 +306,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu > li > a {
   opacity: .8;
+  display: inline-block;
 }
 
 
@@ -306,10 +317,10 @@ html.no-js .sidebar .collapsible-content {
 }
 
 
-.sidebar-menu > li > a:hover,
-.sidebar-menu > li > a:focus {
-  background-color: #66FFFF;
-  color:black;
+.sidebar-menu li a:hover,
+.sidebar-menu li a:focus {
+  background-color: #ffed00;
+  color: #000;
   transition: background-color 3ms;
 }
 
@@ -319,7 +330,20 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-menu li.selected {
-  background-color: #A6FFFF;
+}
+
+.sidebar-menu li.selected a {
+  color: #000;
+  font-weight: 600;
+  border-bottom: 4px solid #FFED00;
+}
+
+.sidebar-menu li.selected span:before {
+  color: #000;
+  content: "\f105";
+  font-family: "FontAwesome";
+  display: inline-block;
+  text-decoration: none;
 }
 
 .sidebar-menu strong {
@@ -346,11 +370,7 @@ html.no-js .sidebar .collapsible-content {
 
 .sidebar-menu li {
   margin:0;
-  padding: 0;
-}
-
-.sidebar-menu>li>a{
-  padding: 20px 20px;
+  padding: 10px 0;
 }
 
 .sidebar-line {
@@ -397,9 +417,10 @@ html.no-js .sidebar .collapsible-content {
 }
 
 .sidebar-subitems {
-  overflow: hidden;
-  list-style: none;
-  padding: .25rem .5rem 1.5rem 2rem;
+  /* list-style: decimal;
+  list-style-position: inside; */
+  counter-reset: item;
+  list-style-type: none;
 }
 
 .sidebar-subitems li {
@@ -407,24 +428,20 @@ html.no-js .sidebar .collapsible-content {
   padding-right:10px;
 }
 
+.sidebar-subitems li:before {
+  content: counter(item) " ";
+  counter-increment: item;
+  margin-right: 0.5em;
+}
+
 .sidebar-subitems li:last-child {
   margin-bottom: 0;
 }
 
-.sidebar-subitems li a::before {
-  content: "\f105";
-  font-family: "FontAwesome";
-  display: inline-block;
-  position: absolute;
-  left: 0rem;
-}
 
 .sidebar-subitems a {
-  position: relative;
   display: inline-block;
-  padding: 0 0 0 1rem;
   line-height: 1.25rem;
-  color: rgba(0,0,0,.6);
   font-size:1rem;
   transition: color .15s ease-out;
 }
@@ -444,7 +461,6 @@ html.no-js .sidebar .collapsible-content {
 }
 
 #content {
-  padding:0;
   max-width:1400px;
 }
 
@@ -455,12 +471,12 @@ html.no-js .sidebar .collapsible-content {
 
 #content h4 {
   margin:0;
-  font-family: Arvo,sans-serif;
+  font-family: "Zilla Slab",sans-serif;
 }
 
 
 strong {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 blockquote {
@@ -475,10 +491,6 @@ blockquote {
 .lesson-content blockquote p {
   font-size: 1.25rem;
   color: rgba(0, 0, 0, 0.5);
-}
-
-body ul, body ol {
-  padding-left: 32px;
 }
 
 body.rtl {
@@ -513,7 +525,11 @@ td, th {
   border: 1px solid #e5e5e5;
 }
 
-a.btn {
+.btn {
+  font-family: "Nunito Sans";
+}
+
+a.btn-wl {
   border: 2px solid #3bb7ef;
   color: #000;
   transition: background 0.2s ease-in-out;
@@ -526,11 +542,34 @@ a.btn {
   text-transform: uppercase;
 }
 
-a.btn:hover {
+a.btn-wl:hover {
   opacity: 1;
   background: #00FFFF;
   border-color: #00FFFF;
   color: #000;
+}
+
+a.btn-pop {
+  background: #ffed00;
+  color: black;
+  -webkit-box-shadow: 4px 4px black;
+  box-shadow: 4px 4px black;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  border: 2px solid black;
+  position: relative;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+a.btn-pop:hover {
+  -webkit-box-shadow: 8px 8px black;
+  box-shadow: 8px 8px black;
+  -webkit-transform: translate(-4px, -4px);
+  transform: translate(-4px, -4px);
+  color: black;
+  background: #e7c121;
 }
 
 /* PASSING */
@@ -660,12 +699,6 @@ a.btn:hover {
     padding-right: 1.25rem;
     margin-bottom: 0;
     margin-right: 1.25rem;
-  }
-  .lesson-content {
-    padding: 2rem 3.5rem;
-  }
-  .hero-unit h1 {
-/*    font-size: 4.5rem;*/
   }
 }
 

@@ -12,30 +12,58 @@
       <link href="{{ site.baseurl }}/css/mofo-bootstrap.css" rel="stylesheet">
       <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
       <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-      <link rel="stylesheet" href="http://flukeout.github.io/mozmaker-icon-font/cdn/mozmaker-icons.css">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,300i">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Zilla+Slab:300,400,500,600">
     </head>
 
     <body>
-
-      <div class="page container-fluid">
+      <div class="container">
+        <div class="row">
+          <div class="col-xs-12 p-t-2">
+            <div class="sidebar-header">
+              <a href="{{ site.baseurl }}/">
+                <img src="{{ site.baseurl }}/images/moz-logo-main-rgb.png" alt="Mozilla" class="moz-logo" />
+                <h2>Web Literacy</h2>
+              </a>
+              <div>
+                <a class="btn btn-pop" href="https://github.com/{{ site.github.repo }}"><i class="fa fa-github" aria-hidden="true"></i>&nbsp;GitHub</a></i>
+              </div>
+            </div>
+            <hr class="hr-gradient m-t-1"/>
+          </div>
+        </div>
+      </div>
+      <div class="container">
         <div class="row">
           {% assign post_count = site.posts|size %}
-          <div id="navigation" class="col-md-2 col-sm-3 col-xs-12 sidebar" role="navigation">
+          <div id="navigation" class="col-md-3 col-xs-12 sidebar" role="navigation">
             {% include navigation.html %}
           </div>
-          <div id="content" class="col-md-10 col-sm-9 col-xs-12">
+          <div id="content" class="col-md-9 col-xs-12">
             {{ content }}
           </div>
         </div>
-
+      </div>
+      <div class="container-fluid">
         <div class="row">
         {% include footer.html %}
         </div>
       </div>
       <script>
-      function WebAnalytics() {
+      (function enableSmoothAnchorScrolling() {
+        var jumpLinks = [].slice.call(document.querySelectorAll('.jump-link'));
+
+        jumpLinks.forEach((link) => {
+          link.addEventListener('click', (event) => {
+            event.preventDefault();
+            var targetAnchor = link.getAttribute('href').split('#')[1];
+            document.getElementById(targetAnchor).scrollIntoView({behavior: 'smooth', block: 'start'});
+          });
+        });
+      })();
+
+      (function enableWebAnalytics() {
        var _dntStatus = navigator.doNotTrack || navigator.msDoNotTrack;
        var fxMatch = navigator.userAgent.match(/Firefox\/(\d+)/);
        var ie10Match = navigator.userAgent.match(/MSIE 10/i);
@@ -55,12 +83,7 @@
         ga('create', 'UA-87658599-3', 'auto');
         ga('send', 'pageview');
        }
-      }
-      WebAnalytics();
+       })();
       </script>
-
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.2.2/anchor.js"></script>
-      <script>anchors.add('h3,h4');</script>
-
     </body>
 </html>

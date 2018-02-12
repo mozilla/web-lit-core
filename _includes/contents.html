@@ -4,7 +4,7 @@
   {% assign item = site.pages | where: "path", "contents.html" | first %}
 {% endif %}
 
-<ul class="sidebar-subitems">
+<ol class="sidebar-subitems">
 {% for path in item.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
   <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
@@ -16,8 +16,9 @@
 {% for p in item.toc %}
   <li>
     <a
+      class="jump-link"
       href="{{ p | slugify | prepend: '#' | prepend: item.url | prepend: site.baseurl }}">{{ p }}
     </a>
   </li>
 {% endfor %}
-</ul>
+</ol>

@@ -1,18 +1,12 @@
-<div class="sidebar-header">
-  <a href="{{ site.baseurl }}/">
-    <img src="{{ site.baseurl }}/images/moz-logo-main-rgb.png" alt="Mozilla" class="moz-logo" /><br />
-    <span>WebLit Core Curriculum</span>
-  </a>
-  <!-- <button aria-label="toggle" class="glyphicon glyphicon-menu-hamburger hidden-lg hidden-md"></button> -->
-</div>
 
 <ul class="sidebar-menu list-unstyled">
-  <li {% if page.url == "/" %} class="selected"{% endif %}><a href="{{ site.baseurl }}/" >README</a></li>
+  <li {% if page.url == "/" %} class="selected"{% endif %}><span></span> <a href="{{ site.baseurl }}/">Overview</a></li>
 
   {% assign item = site.pages | where: "path", "contents.html" | first %}
 {% for path in item.contents %}
   {% assign subpage = site.articles | where: "path", path | first %}
   <li{% if page.url contains subpage.url %} class="selected"{% endif %}>
+    <span></span>
     <a href="{{ subpage.url | prepend: site.baseurl }}">{% if subpage.module %}{{ subpage.module }}.{% endif %} {{ subpage.title }}</a>
       {% if page.url contains subpage.url %}
         {% if subpage.contents %}
@@ -21,13 +15,11 @@
       {% endif %}
   </li>
   {% if subpage.toc %}
+  {% if page.url contains subpage.url %}
     {% include contents.html item=subpage %}
+  {% endif %}
   {% endif %}
 {% endfor %}
 
 
-<footer>
-  <a target="_blank" href="https://github.com/{{ site.github.repo }}">See the Code on GitHub</a>
-</footer>
 </ul>
-
