@@ -16,11 +16,11 @@ toc:
 
 In this offline storytelling/discussion activity, learners reflect on and share observations, ideas, and feelings about their own web use, and what the web means to their communities. What do they love or hate about the web? What are they curious about? What kinds of things would they like to do on/with the web? Facilitators use insights from this activity to contextualize the rest of the curriculum for their group of learners. This group activity should also help learners get to know each other and feel connected. 
 
-## Learning Objectives
+#### Learning Objectives
 
-## Time Required
+#### Time Required
 
-### Sample Pathway
+## Sample Pathway
 
 1. **Discovery** - Sees poster advertising study group around campus.
 2. **First Contact** - Attends a meeting of the group, and is encouraged to return in a follow up email.
