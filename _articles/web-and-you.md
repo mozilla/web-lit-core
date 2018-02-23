@@ -5,7 +5,6 @@ toc:
 - "Overview"
 - "Opening Circle"
 - "Introducing the Web"
-- "
 ---
 
 * TOC
