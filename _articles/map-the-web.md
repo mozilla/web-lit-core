@@ -1,15 +1,22 @@
-#### Map the Web, Perform the Web
+---
+layout: page
+title: "Map the Web, Perform the Web"
+---
+
+
+# Map the Web, Perform the Web
 In this discussion/mapping/performance activity, learners share what they already know about the web, and collaborate to fill in gaps and answer questions. They work together to organize this information into a visual and spatial “map” that shows the relationships between lots of elements of the web, from servers to websites to tweets to mobile phones. In a final section of the activity, learners “perform the net” by acting out relationships. 
 
-## Learning Objectives
+#### Learning Objectives
 Explain how parts of the internet are related 
 Demonstrate how information travels across the web using manipulatives, sketches or through physical movement
 Locate an IP address and explain what information it conveys.
 
-Time Required: 45 minutes to 1 hour depending on group size
+#### Time Required: 45 minutes to 1 hour depending on group size
 
-Audience
+#### Audience
 Can be tailored for audiences from 13 up; with varying levels of experience with the web.
+
 Materials
 Sticky notes
 Pencils, markers
