@@ -3,8 +3,9 @@ layout: page
 title: "The Web and You"
 toc:
 - "Overview"
-- "Sample Pathway"
-- "More info"
+- "Opening Circle"
+- "Introducing the Web"
+- "
 ---
 
 * TOC
@@ -17,8 +18,11 @@ toc:
 In this offline storytelling/discussion activity, learners reflect on and share observations, ideas, and feelings about their own web use, and what the web means to their communities. What do they love or hate about the web? What are they curious about? What kinds of things would they like to do on/with the web? Facilitators use insights from this activity to contextualize the rest of the curriculum for their group of learners. This group activity should also help learners get to know each other and feel connected. 
 
 #### Learning Objectives
+* Describe how they and others use and interact on the web
+
 
 #### Time Required
+*  45 minutes to 1 hour depending on group size
 
 #### Audience
 * Can be tailored for audiences from 13 up; with varying levels of experience with the web.
@@ -37,23 +41,20 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 
 #### No Digital Badges for this activity
 
-## 1. Introductions/Opening Circle [3-5 mins]
-The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
-Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
+## Opening Circle [6-10 mins]
+* The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 Tip! The facilitator should model a short introduction, so learners know what this looks like, and especially, how much time they have for their introduction. 
-
-## 2. Ground Rules/Shared Agreements [3-5 mins]
-The facilitator explains that participants will be learning together-- sharing perspectives and ideas, working together in small groups or pairs, and as a large group. Each person is encouraged to share actively. 
+* Establish ground rules/shared agreements. Explain that participants will be learning together-- sharing perspectives and ideas, working together in small groups or pairs, and as a large group. Each person is encouraged to share actively. 
 * Facilitator asks: what can we do to work and learn better together?  Solicit ideas from the group, and make a list of positive behaviors for group work. 
 Tip! Facilitator can add important points if the group does not come up with them. These may include…
-Listen actively
-Don’t interrupt 
-Be respectful of other members
-Be open to perspectives that are different from yours
-If you usually talk a lot in groups, try listening more
-If you usually listen, try speaking up and sharing your thoughts
+* Listen actively
+* Don’t interrupt 
+* Be respectful of other members
+* Be open to perspectives that are different from yours
+* If you usually talk a lot in groups, try listening more
+* If you usually listen, try speaking up and sharing your thoughts
 
-3. Introducing the Web [3 to 5 mins]
+## Introducing the Web [3 to 5 mins]
 The facilitator explains that learners will be thinking and talking about the internet and the world wide web-- the tools and technologies we use when we are “online.” 
 The facilitator asks the group to share kinds of things they do “online”
 Tip! For this round of sharing, the facilitator can encourage learners to raise their hands and wait to be called on to speak, or ask learners to share “popcorn style”-- where they spontaneous call out examples that occur to them. Choose the sharing style that works best for your group.
@@ -80,6 +81,3 @@ Facilitator points out that there are many different ways to be online, many rea
 5. **Networked Participation** - Invites some of his colleagues from his lab to a session.
 6. **Leadership** - Agrees to present an intro session on Java, and creates a learning resource to contribute to the group's repo.
 
-## More info
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
