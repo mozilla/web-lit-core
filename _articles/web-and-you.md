@@ -21,7 +21,7 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 *  45 minutes to 1 hour depending on group size
 
 #### Audience
-* Can be tailored for audiences from 13 up; with varying levels of experience with the web.
+* Can be tailored for audiences from 13 up; with varying levels of experience with the web
 
 #### Materials
 * Sticky notes
@@ -45,7 +45,7 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 * Establish ground rules/shared agreements. Explain that participants will be learning together-- sharing perspectives and ideas, working together in small groups or pairs, and as a large group. Each person is encouraged to share actively. 
 * Facilitator asks: what can we do to work and learn better together?  Solicit ideas from the group, and make a list of positive behaviors for group work. 
 
-> Tip! Facilitator can add important points if the group does not come up with them. These may include…
+> Tip! Facilitator can add important points if the group does not come up with them. These may include:
 > * Listen actively
 > * Don’t interrupt 
 > * Be respectful of other members
