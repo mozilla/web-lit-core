@@ -42,7 +42,7 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 
 ## Opening Circle [6-10 mins]
 * The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
-Tip! The facilitator should model a short introduction, so learners know what this looks like, and especially, how much time they have for their introduction. 
+'' Tip! The facilitator should model a short introduction, so learners know what this looks like, and especially, how much time they have for their introduction. ''
 * Establish ground rules/shared agreements. Explain that participants will be learning together-- sharing perspectives and ideas, working together in small groups or pairs, and as a large group. Each person is encouraged to share actively. 
 * Facilitator asks: what can we do to work and learn better together?  Solicit ideas from the group, and make a list of positive behaviors for group work. 
 Tip! Facilitator can add important points if the group does not come up with them. These may include…
