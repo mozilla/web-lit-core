@@ -19,6 +19,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Eiuro, inquit adridens,
 
 Re mihi non aeque satisfacit, et quidem locis pluribus. Universa enim illorum ratione cum tota vestra confligendum puto. Invidiosum nomen est, infame, suspectum. Me igitur ipsum ames oportet, non mea, si veri amici futuri sumus. Diodorus, eius auditor, adiungit ad honestatem vacuitatem doloris. Quid enim est a Chrysippo praetermissum in Stoicis? Nihilne est in his rebus, quod dignum libero aut indignum esse ducamus? Quid autem habent admirationis, cum prope accesseris? Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet.
 
+> Sample blockquote text.
+
 ### Sample Pathway
 
 1. **Discovery** - Sees poster advertising study group around campus.
