@@ -7,9 +7,6 @@ toc:
 - "Introducing the Web"
 ---
 
-* TOC
-{:toc}
-
 # The Web and You
 
 ## Description
@@ -57,7 +54,7 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 > * If you usually listen, try speaking up and sharing your thoughts
 
 ## Introducing the Web [3 to 5 mins]
-The facilitator explains that learners will be thinking and talking about the internet and the world wide web-- the tools and technologies we use when we are “online.” 
+* The facilitator explains that learners will be thinking and talking about the internet and the world wide web-- the tools and technologies we use when we are “online.” 
 The facilitator asks the group to share kinds of things they do “online”
 Tip! For this round of sharing, the facilitator can encourage learners to raise their hands and wait to be called on to speak, or ask learners to share “popcorn style”-- where they spontaneous call out examples that occur to them. Choose the sharing style that works best for your group.
 Tip! If the group doesn’t come up with many examples-- or if the group does not have prior web experience-- facilitator can provide ones that seem appropriate for this group. Examples of online activity might include
@@ -72,14 +69,4 @@ gaming
 shopping
 Facilitator points out that there are many different ways to be online, many reasons people use the web. The group will be exploring these together in a storytelling exercise.
 
-
-
-## Sample Pathway
-
-1. **Discovery** - Sees poster advertising study group around campus.
-2. **First Contact** - Attends a meeting of the group, and is encouraged to return in a follow up email.
-3. **Participation** - Asks and answers questions during the help session.
-4. **Sustained Participation** - Attends several "hackathons" sessions throughout the semester.
-5. **Networked Participation** - Invites some of his colleagues from his lab to a session.
-6. **Leadership** - Agrees to present an intro session on Java, and creates a learning resource to contribute to the group's repo.
 
