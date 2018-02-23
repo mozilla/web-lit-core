@@ -47,13 +47,14 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 
 * Establish ground rules/shared agreements. Explain that participants will be learning together-- sharing perspectives and ideas, working together in small groups or pairs, and as a large group. Each person is encouraged to share actively. 
 * Facilitator asks: what can we do to work and learn better together?  Solicit ideas from the group, and make a list of positive behaviors for group work. 
-Tip! Facilitator can add important points if the group does not come up with them. These may include…
-* Listen actively
-* Don’t interrupt 
-* Be respectful of other members
-* Be open to perspectives that are different from yours
-* If you usually talk a lot in groups, try listening more
-* If you usually listen, try speaking up and sharing your thoughts
+
+> Tip! Facilitator can add important points if the group does not come up with them. These may include…
+> * Listen actively
+> * Don’t interrupt 
+> * Be respectful of other members
+> * Be open to perspectives that are different from yours
+> * If you usually talk a lot in groups, try listening more
+> * If you usually listen, try speaking up and sharing your thoughts
 
 ## Introducing the Web [3 to 5 mins]
 The facilitator explains that learners will be thinking and talking about the internet and the world wide web-- the tools and technologies we use when we are “online.” 
