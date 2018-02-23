@@ -70,7 +70,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
 
 ## Define Web Terms  [5 mins]
 * If some of the terms the group has generated are unfamiliar, take some time to define them together. Facilitator can refer to this Glossary for definitions and context. 
-> * Tip! The web mechanics speed dating activity is a great way to work through some of these definitions
+> * Tip! The [web mechanics speed dating activity](https://mozilla.github.io/curriculum-final/offline-icebreakers/session01-web-mechanics-speed-dating.html#overview) is a great way to work through some of these definitions
 
 ## Assemble the Map or Model  [5 mins]
 * By placing sticky notes on a board, the group works together to create a diagram of the internet. To help them do so, use the following prompts.
@@ -85,7 +85,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
 * The web is the interconnected system of sites and pages, stored in various computers around the world. 
 * We use a web browser, like Firefox, to access pages on the Web. 
 * Anytime you ask the Internet to do something- entering a web address into a browser, watching a video on YouTube, or check an email on your smartphone-- your request "hops" through several network devices, like routers and switches and servers, on its way from your device to the website’s server.
-* Show this introductory video to give learners a little more context 
+* Show this [introductory video](https://www.youtube.com/watch?v=ewrBalT_eBM) to give learners a little more context 
 * After watching the video, take a few minutes and ask participants to compare and contrast what they learned from watching the video compared to what they hypothesized together beforehand.  How close were we? What did we leave out? What surprised us? 
 * Facilitator explains to the group that in order to help understand this path, they are going to act out a human version of information moving through the internet, in an obstacle course.
 * The information will travel from a 
@@ -109,40 +109,38 @@ when they are “online” what kind of technology do you use-- what’s immedia
     * The local network devices then send the packet to the Internet.
 * Have the learner walk to and explain the next hop: After a packet gets to the Internet service provider (ISP) it is sent all the way to one of YouTube’s routers.
     * Have the learner walk to and explain the next hop, Once the packet gets through YouTube's router, it is sent to a server in the company's headquarters that will stream my video. Explain:
-at the server, In order to get the video to stream on my computer, YouTube’s computer converts my video into packets too, which travel all the way back to my computer on the same path of network devices it took to get to YouTube. 
-Ask the example learner to walk back to you, making sure to pause at each hop on the way back.
-Now, let’s increase the complexity of the network-- after all, we have millions and millions of servers and clients out there, not just a few!  Let’s assign 2 or 3 (or more students) to act as “hop 3” -- the server. And let’s get a few more users making requests from client computers, and more students assigned to be packets.
-Assign each server a role-- for example, a server could be a YourBank.com, or Amazon.com, or Tickets.com or the local library’s online catalog
-Tip! You can brainstorm these by asking learners which sites they use, and the kinds of things they request from those sites. 
-Write the server names on cards and ask the servers to hold them.
-Have the users write requests, such as “list of cat toys for sale on Amazon”, or “Beyonce tickets on Tickets.com” on cards-- they will hand these to the “packets”
-Tip: Ask students if they want to create an identifier on the their request to make sure the request gets back to the right computer
+    * at the server, In order to get the video to stream on my computer, YouTube’s computer converts my video into packets too, which travel all the way back to my computer on the same path of network devices it took to get to YouTube. 
+* Ask the example learner to walk back to you, making sure to pause at each hop on the way back.
+* Now, let’s increase the complexity of the network-- after all, we have millions and millions of servers and clients out there, not just a few!  Let’s assign 2 or 3 (or more students) to act as “hop 3” -- the server. And let’s get a few more users making requests from client computers, and more students assigned to be packets.
+* Assign each server a role-- for example, a server could be a YourBank.com, or Amazon.com, or Tickets.com or the local library’s online catalog
+> * Tip! You can brainstorm these by asking learners which sites they use, and the kinds of things they request from those sites. 
+* Write the server names on cards and ask the servers to hold them.
+* Have learners write requests, such as “list of cat toys for sale on Amazon”, or “Beyonce tickets on Tickets.com” on cards-- they will hand these to the “packets”
+> * Tip: Ask participants if they want to create an identifier on the their request to make sure the request gets back to the right computer.
+* Now it's time for everyone to try the obstacle course! Explain:
+    * Have the computer users/client computers hand their requests to the "packets" 
+    * Packets must stop at each "hop" before moving on to the next one.
+* ut wait, there's a twist! Before the packets can get from one hop to the next, they need to show their request to the stop, which is a kind of gatekeeper.
+* At the ISP hop, the learner acting as an ISP will need to direct the packets to the correct servers; on the way back s/he will need to direct the packet to the correct client. 
+* The servers have a short time to mark or change the packet’s card with the requested info before sending the packet back to the client
+* Ask the packets to form a single-file line and move through the obstacle course as quick as they can! You can have someone time how long it takes everyone to get through the course to see who makes it the fastest.
+> * Tip: to make the obstacle course more interesting, you might place "government spies" between hops. This resource from the EFF explains how third parties might intercept data between hops. Talk with your learners about what data is protected, what's vulnerable, and to whom.
+> * Tip: if your group is large enough, flood the ISP with requests for a certain server
+> * Tip! During the activity, you may ask learners the following questions:
+>    * What happens at each “hop”?
+>    * Do you think a packet in real life moves faster through the Internet than you did?
+* Note:  If you don’t have the physical space for this activity, learners can create their understanding of how the parts of the web interact by using objects such as play-doh, straws, strings, or other objects. 
 
-Now it's time for everyone to try the obstacle course! Explain:
-Have the computer users/client computers hand their requests to the "packets" 
-Packets must stop at each "hop" before moving on to the next one.
-But wait, there's a twist! Before the packets can get from one hop to the next, they need to show their request to the stop, which is a kind of gatekeeper
-At the ISP hop, the student acting as an ISP will need to direct the packets to the correct servers; on the way back he or she will need to direct the packet to the correct client. 
-The servers have a short time to mark or change the packet’s card with the requested info before sending the packet back to the client
-Ask the packets to form a single-file line and move through the obstacle course as quick as they can! You can have someone time how long it takes everyone to get through the course to see who makes it the fastest.
-Tip: to make the obstacle course more interesting, you might place "government spies" between hops. This resource from the EFF explains how third parties might intercept data between hops. Talk with your learners about what data is protected, what's vulnerable, and to whom.
-Tip: if your group is large enough, flood the ISP with requests for a certain server
-Tip! During the activity, you may ask learners the following questions:
-What happens at each “hop”?
-Do you think a packet in real life moves faster through the Internet than you did?
-
-Note:  If you don’t have the physical space for this activity, learners can create their understanding of how the parts of the web interact by using objects such as play-doh, straws, strings, or other objects. 
-
-6.Optional Discussion: Internet Protocol Addresses [5 mins]
-Ask if the group how many computers or devices are connected to the internet.
-How do you think each computer is identified or located in the network? 
-Discuss the idea of an address-- what makes an address (like a street address, or an email address) useful? 
-Explain that it’s important that the address is unique-- it points to a specific home or apartment or person, a message sent there goes to that place or person only
-Introduce the concept of IP addresses: every device or computer in a network or online has an IP (or "Internet Protocol") address.
- It’s a computer friendly way of describing a website address-- computers like numbers! 
-IP addresses have 4 sets of numbers in a string.
-If we type this into a browser, it resolves into human-friendly web address. 
-Tip! If a computer is available, demo how entering an IP address takes you to a human friendly domain name 
+## Optional Discussion: Internet Protocol Addresses [5 mins]
+* Ask the group how many computers or devices are connected to the internet.
+* How do you think each computer is identified or located in the network? 
+* Discuss the idea of an address-- what makes an address (like a street address, or an email address) useful? 
+* Explain that it’s important that the address is unique-- it points to a specific home or apartment or person, a message sent there goes to that place or person only. 
+* Introduce the concept of IP addresses: every device or computer in a network or online has an IP (or "Internet Protocol") address.
+* It’s a computer friendly way of describing a website address-- computers like numbers! 
+* IP addresses have 4 sets of numbers in a string.
+* If we type this into a browser, it resolves into human-friendly web address. 
+> * Tip! If a computer is available, demo how entering an IP address takes you to a human friendly domain name 
 
 7. Reflection/Review [5 mins]
 In closing, facilitator may ask reflection questions like: 
