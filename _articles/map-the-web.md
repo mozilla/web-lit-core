@@ -21,15 +21,15 @@ toc:
 In this discussion/mapping/performance activity, learners share what they already know about the web, and collaborate to fill in gaps and answer questions. They work together to organize this information into a visual and spatial “map” that shows the relationships between lots of elements of the web, from servers to websites to tweets to mobile phones. In a final section of the activity, learners “perform the net” by acting out relationships. 
 
 #### Learning Objectives
-Explain how parts of the internet are related 
-Demonstrate how information travels across the web using manipulatives, sketches or through physical movement
-Locate an IP address and explain what information it conveys.
+* Explain how parts of the internet are related 
+* Demonstrate how information travels across the web using manipulatives, sketches or through physical movement
+* Locate an IP address and explain what information it conveys.
 
 #### Time Required
-45 minutes to 1 hour depending on group size
+* 45 minutes to 1 hour depending on group size
 
 #### Audience
-Can be tailored for audiences from 13 up; with varying levels of experience with the web.
+* Can be tailored for audiences from 13 up; with varying levels of experience with the web.
 
 #### Materials
 * Sticky notes
@@ -40,7 +40,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 "Hop 3: The Server" 
 
 #### Web Literacy Skills
-This activity precedes learning specific web literacy skills
+* This activity precedes learning specific web literacy skills
 
 #### 21st Century Skills
 * Collaboration
@@ -48,7 +48,7 @@ This activity precedes learning specific web literacy skills
 * Problem-Solving
 
 #### Earning Digital Badges
-Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
+* Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
 
 ## Introduction/Discussion 
