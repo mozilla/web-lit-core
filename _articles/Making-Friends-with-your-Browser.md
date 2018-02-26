@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Making Friend with your Browser"
+title: "Make Friends with your Browser"
 toc:
 - "Description"
 - "Introduction"
