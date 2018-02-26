@@ -19,7 +19,8 @@ toc:
 * Create a simple web page
 * Transfer web page online
 
-#### Time Required: 45 minutes to 1 hour depending on group size
+#### Time Required
+45 minutes to 1 hour depending on group size
 
 #### Audience
 * Can be tailored for audiences from 13 up; with varying levels of experience with the web
