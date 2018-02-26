@@ -1,39 +1,52 @@
-Make Friends with your Browser
+---
+layout: page
+title: "Making Friend with your Browser"
+toc:
+- "Description"
+- "Introduction"
+- "Content Generation/Storytelling"
+- "Get Tagging!"
+- "Go Online!"
+- "Learning Experience Reflection"
+---
+
+# Make Friends with your Browser
 An internet browser, also known as a web browser or simply a browser, is a software program that you use to access the internet and view web pages on your computer. You can think of your browser as your gateway to the internet. Learners will reflect on the tools they use to navigate a website and build on their existing knowledge. 
 
-Learning Objectives
-Describe the difference between a web browser and a search engine
-Locate principal tools of a web browser
-Label parts of a web page
-Navigate a website 
+#### Learning Objectives
+* Describe the difference between a web browser and a search engine
+* Locate principal tools of a web browser
+* Label parts of a web page
+* Navigate a website 
 
-Time Required: 30 - 45 minutes depending on group size
+#### Time Required
+* 30-45 minutes depending on group size
 
-Audience
-Can be tailored for audiences from 13 up; with varying levels of experience with the web.
+#### Audience
+* Can be tailored for audiences from 13 up; with varying levels of experience with the web.
 
-Materials: 
-Sticky notes
-Paper and pencil
-Laptop with internet connection
+#### Materials 
+* Sticky notes
+* Paper and pencil
+* Laptop with internet connection
 
-Web Literacy Skills
-Navigate
-Synthesize
+#### Web Literacy Skills
+* Navigate
+* Synthesize
 
-21st Century Skills
-Collaboration
-Communication
+#### 21st Century Skills
+* Collaboration
+* Communication
 
-Earning Digital Badges
-Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
+#### Earning Digital Badges
+* Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
+## Online Activity: Enter the World Wide Web
+[10 min]
 
-1. Online Activity: Enter the World Wide Web  [10 min]
-
-Part I
-Connect to prior knowledge by asking learners: 
-What is the difference between a web browser and a search engine? 
+## Part I
+* Connect to prior knowledge by asking learners: 
+    * What is the difference between a web browser and a search engine? 
 What are the names of popular web browsers? 
 What is the most popular search engine?
 Clarify any misconceptions
