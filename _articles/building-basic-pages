@@ -1,30 +1,40 @@
-## Building Basic Pages 
-In this activity, users will create their first web page using a basic text editor and a browser to view the results. They’ll interview each other to get content for a personal (or fictional) “About” page, organize and write up the content, and mark it up using HTML. Users can upload these files to a server (if available) and get their content on the web! 
+---
+layout: page
+title: "Building Basic Pages"
+toc:
+- "Overview"
+- "Opening Circle"
+- "Introducing the Web"
 
-Learning Objectives
-Create a simple web page
-Transfer web page online
+# Building Basic Pages 
 
-Time Required: 45 minutes to 1 hour depending on group size
+## Description
+* In this activity, users will create their first web page using a basic text editor and a browser to view the results. They’ll interview each other to get content for a personal (or fictional) “About” page, organize and write up the content, and mark it up using HTML. Users can upload these files to a server (if available) and get their content on the web! 
 
-Audience
-Can be tailored for audiences from 13 up; with varying levels of experience with the web.
-Materials
-Laptop with internet connection
-Web Literacy Skills
-Compose
-Code
-Design
-Revise
-Share (if they upload content to the Web)
-21st Century Skills
-Communication
-Collaboration
-Earning Digital Badges
-Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
+#### Learning Objectives
+* Create a simple web page
+* Transfer web page online
 
+#### Time Required: 45 minutes to 1 hour depending on group size
 
-1. Introduction [10 mins]
+#### * Audience
+Can be tailored for audiences from 13 up; with varying levels of experience with the web
+
+#### Materials
+* Laptop with internet connection
+
+#### Web Literacy Skills
+* Revise
+* Share (if they upload content to the Web)
+
+#### 21st Century Skills
+* Communication
+* Collaboration
+
+#### Earning Digital Badges
+* Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
+
+## Introduction [10 mins]
 Tip! Remind learners of their experience with Tags in the previous lesson (Recommend completing Tagging 101 with learners prior to this activity).
 Explain to learners that any web page you visit is actually an HTML file, which is just a text file-- a bunch of words--with HyperText or Markup Language added to the content. HTML is the language we use to write tags.
 Tip! If needed, provide a short tour of browser such address bar, home buttons, bookmarks, history.
@@ -35,7 +45,7 @@ HTML file + Browser, like Firefox  = WEB PAGE AMAZINGNESS FOR YOU (hopefully).
 Tip! To show this idea, open a simple, static page and look. Explain: Let’s look! We can see what a web page looks like behind the scenes, before the browser gets to it, by exploring the “view source.” 
 Because HTML files are just text, they can be written in a basic text editor, and viewed in a browser. If you have a browser and a text editor on your computer-- and nearly EVERYONE does-- you can build a web page!
 Your pages won’t be ON the web-- for that to happen you need to take the file you create and to upload this to a server so people can access it there, via the URL or web address. 
-Tip! Remind people, maybe through a diagram, that client computers (web users like you) connect to the Internet and access pages that live on server computers out there on the internet. Servers are designed to “serve up” pages to users. The web pages are HTML files viewed in a browser, so they look great
+Tip! Remind people, maybe through a diagram, that client computers (web users like you) connect to the Internet and access pages that live on server computers out there on the internet. Servers are designed to “serve up” pages to users. The web pages are HTML files viewed in a browser, so they look great* 
 BUT, for now, you can practice making web pages right here, on your computer. They won’t be on a server on the internet, but you can still create the files and view them in the browser on your own machine. 
 Tip! Here you can point to the diagram, and show that you’re making a page on a client computer, one that’s not sharing files like a server!
 To get started, we need CONTENT-- because the web is all about communication and sharing of information and ideas. Let’s generate some content together!
