@@ -2,9 +2,11 @@
 layout: page
 title: "The Web and You"
 toc:
-- "Overview"
+- "Description"
 - "Opening Circle"
 - "Introducing the Web"
+- "Storytelling: The Web and You"
+-  "Reflection/Exploration/Closing"
 ---
 
 # The Web and You
@@ -37,7 +39,8 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 
 #### No Digital Badges for this activity
 
-## Opening Circle [6-10 min]
+## Opening Circle 
+* [6-10 min]
 * The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 
 > Tip! The facilitator should model a short introduction, so learners know what this looks like, and especially, how much time they have for their introduction. 
@@ -53,7 +56,8 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 > * If you usually talk a lot in groups, try listening more
 > * If you usually listen, try speaking up and sharing your thoughts
 
-## Introducing the Web [3 to 5 mins]
+## Introducing the Web 
+* [3 to 5 mins]
 * The facilitator explains that learners will be thinking and talking about the internet and the world wide web-- the tools and technologies we use when we are “online.” 
 The facilitator asks the group to share kinds of things they do “online”
 Tip! For this round of sharing, the facilitator can encourage learners to raise their hands and wait to be called on to speak, or ask learners to share “popcorn style”-- where they spontaneous call out examples that occur to them. Choose the sharing style that works best for your group.
@@ -69,7 +73,8 @@ Tip! For this round of sharing, the facilitator can encourage learners to raise 
 > * shopping
 * Facilitator points out that there are many different ways to be online, many reasons people use the web. The group will be exploring these together in a storytelling exercise.
 
-## Storytelling: The Web and You [20-25 mins]
+## Storytelling: The Web and You 
+* [20-25 mins]
 * In this exercise, the facilitator splits learners into groups of 3 to 4 to tell and listen to stories. Explain that each learner will have 3-4 minutes to tell their own story of their web experience and what it means to them while other group members listen.  
 > Tip! Here are some pointers to give to the learners for the storytelling exercise
 > * Storytellers should take their full 3 or 4 minutes. If the storyteller is done before their time is up, that’s OK-- take the time to sit quietly together and think about the story.
@@ -92,7 +97,8 @@ Tip! For this round of sharing, the facilitator can encourage learners to raise 
     * What is similar? 
 * Remind participants to thank each speaker for their story. 
 
-## Reflection/Exploration/Closing [10-15 mins]
+## Reflection/Exploration/Closing 
+* [10-15 mins]
 * Now that learners have shared their individual stories, the facilitator asks the group to reflect on what they heard (in their own story, and others’ stories) and document and/or discuss all the different ways the group uses the web. 
 > * Tip! If time is tight, the facilitator may opt to do either the word map exercise, or pose some exploration questions.  
     * Word Map: Using sticky notes or note cards, learners making lists of words learners heard in the stories. Learners should write one word per sticky note. 
@@ -113,7 +119,8 @@ Tip! For this round of sharing, the facilitator can encourage learners to raise 
 > * Tip! Always be respectful of varied viewpoints, ideas, and perspectives when referring to content that the learners share. 
 At the end of the session, thank the learners for their participation, questions, and insights! 
 
-## Learning Experience Reflection [5 mins]
+## Learning Experience Reflection 
+[5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
