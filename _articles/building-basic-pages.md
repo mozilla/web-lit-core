@@ -3,8 +3,11 @@ layout: page
 title: "Building Basic Pages"
 toc:
 - "Description"
-- "Opening Circle"
-- "Introducing the Web"
+- "Introduction"
+- "Content Generation/Storytelling"
+- "Get Tagging!"
+- "Go Online!"
+- "Learning Experience Reflection"
 ---
 
 # Building Basic Pages
