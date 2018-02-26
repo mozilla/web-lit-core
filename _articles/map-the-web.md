@@ -40,7 +40,8 @@ This activity precedes learning specific web literacy skills
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
 
-## Introduction/Discussion [5-10 mins]
+## Introduction/Discussion 
+[5-10 mins]
 * If group members are new to each other, the facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
 > * Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 > * Tip! The facilitator should model a short intro, so learners know what this looks like, and especially, how much time they have for their introduction. 
@@ -56,7 +57,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * Which metaphors work best for you? 
     * Can you propose new ones? 
 
-## Brainstorm Map Elements [5 mins]
+## Brainstorm Map Elements 
+[5 mins]
 * Facilitator explains that learners can think of the internet as a system, a collection of parts that create a functional whole. Learners can work together to make a map of this system!
 * The facilitator hands out sticky notes to the group, or if the group is small enough, they can brainstorm together. 
 * Learners write down different components of the system, each on one sticky note
@@ -68,7 +70,8 @@ when they are “online” what kind of technology do you use-- what’s immedia
 * What are other things that may be connected to the web that they haven’t yet mentioned? (think emerging IOT space-- self driving cars, fridges, fitness trackers, security systems, traffic lights, etc)
 > * Tip! Facilitator should make sure key terms are present: client computer, server, web site, web page, smartphone, email, network, etc.
 
-## Define Web Terms  [5 mins]
+## Define Web Terms  
+[5 mins]
 * If some of the terms the group has generated are unfamiliar, take some time to define them together. Facilitator can refer to this Glossary for definitions and context. 
 > * Tip! The [web mechanics speed dating activity](https://mozilla.github.io/curriculum-final/offline-icebreakers/session01-web-mechanics-speed-dating.html#overview) is a great way to work through some of these definitions
 
@@ -142,17 +145,17 @@ when they are “online” what kind of technology do you use-- what’s immedia
 * If we type this into a browser, it resolves into human-friendly web address. 
 > * Tip! If a computer is available, demo how entering an IP address takes you to a human friendly domain name 
 
-7. Reflection/Review [5 mins]
-In closing, facilitator may ask reflection questions like: 
-What happens on the Internet when you type a Web address and hit enter?
-What are the "parts" of the Internet?
-How do large amounts of information ever make it through low-bandwidth parts of the Net?
-What's the difference between the Internet and the World Wide Web?
-Be sure to thank learners for their participation, ideas, and insights. 
+## Reflection/Review [5 mins]
+* In closing, facilitator may ask reflection questions like: 
+    * What happens on the Internet when you type a Web address and hit enter?
+    * What are the "parts" of the Internet?
+    * How do large amounts of information ever make it through low-bandwidth parts of the Net?
+    * What's the difference between the Internet and the World Wide Web?
+* Be sure to thank learners for their participation, ideas, and insights. 
 
-8. Learning Experience Reflection
-What did you like about this activity?
-If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
+** Learning Experience Reflection [5 mins]
+* What did you like about this activity?
+* If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 
 
