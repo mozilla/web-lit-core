@@ -3,11 +3,12 @@ layout: page
 title: "The Web and You"
 toc:
 - "Description"
-- Earning Digital Badges"
-- "Opening Circle"
+- "Earning Digital Badges"
+- "Introduction/Opening Circle"
 - "Introducing the Web"
 - "Storytelling: The Web and You"
--  "Reflection/Exploration/Closing"
+- "Reflection/Review"
+- "Learning Experience Reflection"
 ---
 
 # The Web and You
@@ -41,7 +42,7 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 #### Earning Digital Badges
 * No Digital Badges for this activity
 
-## Opening Circle 
+## Introduction/Opening Circle 
 [6-10 min]
 * The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 
@@ -99,7 +100,7 @@ Tip! For this round of sharing, the facilitator can encourage learners to raise 
     * What is similar? 
 * Remind participants to thank each speaker for their story. 
 
-## Reflection/Exploration/Closing 
+## Reflection/Review 
 [10-15 mins]
 * Now that learners have shared their individual stories, the facilitator asks the group to reflect on what they heard (in their own story, and others’ stories) and document and/or discuss all the different ways the group uses the web. 
 > * Tip! If time is tight, the facilitator may opt to do either the word map exercise, or pose some exploration questions.  
