@@ -22,10 +22,10 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 
 
 #### Time Required
-*  45 minutes to 1 hour depending on group size
+45 minutes to 1 hour depending on group size
 
 #### Audience
-* Can be tailored for audiences from 13 up; with varying levels of experience with the web
+Can be tailored for audiences from 13 up; with varying levels of experience with the web
 
 #### Materials
 * Sticky notes
@@ -33,14 +33,14 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 * Timer for keeping time during storytelling
 
 #### Web Literacy Skills
-* This activity precedes learning specific web literacy skills
+This activity precedes learning specific web literacy skills
 
 #### 21st Century Skills
 * Communication
 * Collaboration 
 
 #### Earning Digital Badges
-* No Digital Badges for this activity
+No Digital Badges for this activity
 
 ## Introduction/Opening Circle 
 [6-10 min]
@@ -63,7 +63,7 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 [3 to 5 mins]
 * The facilitator explains that learners will be thinking and talking about the internet and the world wide web-- the tools and technologies we use when we are “online.” 
 The facilitator asks the group to share kinds of things they do “online”
-Tip! For this round of sharing, the facilitator can encourage learners to raise their hands and wait to be called on to speak, or ask learners to share “popcorn style”-- where they spontaneous call out examples that occur to them. Choose the sharing style that works best for your group.
+> Tip! For this round of sharing, the facilitator can encourage learners to raise their hands and wait to be called on to speak, or ask learners to share “popcorn style”-- where they spontaneous call out examples that occur to them. Choose the sharing style that works best for your group.
 > Tip! If the group doesn’t come up with many examples-- or if the group does not have prior web experience-- facilitator can provide ones that seem appropriate for this group. Examples of online activity might include
 > * sending or receiving email
 > * using the web to connect with distant family members 
@@ -92,8 +92,8 @@ Tip! For this round of sharing, the facilitator can encourage learners to raise 
     * How could being connected with lots of different people around the globe change your life? 
 * The selected question should be posted somewhere in the room where it is visible; the group gets a minute or two of quiet time to think about their story before the exercise starts.
 * Facilitator should model a story to set the tone and depth of the story. If the facilitator tells a light, less personal story, learners will take that as a cue. If the facilitator goes deeper, or tells a more personal story, s/he gives learner permission and space to do the same. 
-> * Tip! This should be a personal story, so as facilitator you should draw on your own experience in modeling a story. But an example of the KIND of story the facilitator could model would be something like this (with more detail, to fill 3 minutes):
-    * The internet had changed my life because I’ve been able to use it to connect with people around my love of of music, which is one of the most important things in my life. I use online communities (bulletin boards, mailing lists in the beginning to Facebook sites and social media platforms now) to learn about music, deepening my appreciation and understanding of it in ways that I never imagined. And I’ve also made so many friends along the way! These connections started me traveling-- The first two countries I ever traveled to outside the United States were Japan and Brazil, and I went to visit friends I made in the online music community. We finally got to meet and attend events and concerts together in real life. After 20 years, I still have those friendships I made online!  
+> Tip! This should be a personal story, so as facilitator you should draw on your own experience in modeling a story. But an example of the KIND of story the facilitator could model would be something like this (with more detail, to fill 3 minutes):
+>    * The internet had changed my life because I’ve been able to use it to connect with people around my love of of music, which is one of the most important things in my life. I use online communities (bulletin boards, mailing lists in the beginning to Facebook sites and social media platforms now) to learn about music, deepening my appreciation and understanding of it in ways that I never imagined. And I’ve also made so many friends along the way! These connections started me traveling-- The first two countries I ever traveled to outside the United States were Japan and Brazil, and I went to visit friends I made in the online music community. We finally got to meet and attend events and concerts together in real life. After 20 years, I still have those friendships I made online!  
 * In between each story, facilitator should remind learners to take a breath, pause, and let that story sink in.
 * Between each story, ask learners to reflect quietly:
     * What is different about this from their own story? 
@@ -103,7 +103,7 @@ Tip! For this round of sharing, the facilitator can encourage learners to raise 
 ## Reflection/Review 
 [10-15 mins]
 * Now that learners have shared their individual stories, the facilitator asks the group to reflect on what they heard (in their own story, and others’ stories) and document and/or discuss all the different ways the group uses the web. 
-> * Tip! If time is tight, the facilitator may opt to do either the word map exercise, or pose some exploration questions.  
+> Tip! If time is tight, the facilitator may opt to do either the word map exercise, or pose some exploration questions.  
     * Word Map: Using sticky notes or note cards, learners making lists of words learners heard in the stories. Learners should write one word per sticky note. 
     * VERBS: what we do or would like to do on the web-- (examples might be  connect, learn, shop)
     * ADJECTIVES: what is the experience like for us, and for others? (examples: exciting, fun, overwhelming, confusing)
@@ -118,8 +118,8 @@ Tip! For this round of sharing, the facilitator can encourage learners to raise 
     * Are YOU on the web? How and where are you represented on the web? 
     * How do you express yourself online? Who are your different audiences-- who’s looking or watching? What do you choose to share?
 * Put sticky notes again on the wall, and again invite learners to look and discuss. 
-> * Tip! The facilitator can use responses to stories and exploration questions to shape the rest of the program-- return to the questions for context, examples, and to address gaps in knowledge and understanding, or leverage special expertise-- ie “we had a question about how a browser works, so let’s explore that now” or “some of you are active youtube users-- what can you tell us about the platform?”   
-> * Tip! Always be respectful of varied viewpoints, ideas, and perspectives when referring to content that the learners share. 
+> Tip! The facilitator can use responses to stories and exploration questions to shape the rest of the program-- return to the questions for context, examples, and to address gaps in knowledge and understanding, or leverage special expertise-- ie “we had a question about how a browser works, so let’s explore that now” or “some of you are active youtube users-- what can you tell us about the platform?”   
+> Tip! Always be respectful of varied viewpoints, ideas, and perspectives when referring to content that the learners share. 
 At the end of the session, thank the learners for their participation, questions, and insights! 
 
 ## Learning Experience Reflection 
