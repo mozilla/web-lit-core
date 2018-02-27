@@ -62,9 +62,9 @@ No Digital Badges for this activity
 ## Introducing the Web 
 [3 to 5 mins]
 * The facilitator explains that learners will be thinking and talking about the internet and the world wide web-- the tools and technologies we use when we are “online.” 
-The facilitator asks the group to share kinds of things they do “online”
+The facilitator asks the group to share kinds of things they do “online.”
 > Tip! For this round of sharing, the facilitator can encourage learners to raise their hands and wait to be called on to speak, or ask learners to share “popcorn style”-- where they spontaneous call out examples that occur to them. Choose the sharing style that works best for your group.
-> Tip! If the group doesn’t come up with many examples-- or if the group does not have prior web experience-- facilitator can provide ones that seem appropriate for this group. Examples of online activity might include
+> Tip! If the group doesn’t come up with many examples-- or if the group does not have prior web experience-- facilitator can provide ones that seem appropriate for this group. Examples of online activity might include:
 > * sending or receiving email
 > * using the web to connect with distant family members 
 > * using an application on a smart phones-- for example, maps app to help you navigate
