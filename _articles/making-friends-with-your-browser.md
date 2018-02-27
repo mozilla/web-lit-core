@@ -23,10 +23,10 @@ An internet browser, also known as a web browser or simply a browser, is a softw
 * Navigate a website 
 
 #### Time Required
-* 30-45 minutes depending on group size
+30-45 minutes depending on group size
 
 #### Audience
-* Can be tailored for audiences from 13 up; with varying levels of experience with the web.
+Can be tailored for audiences from 13 up; with varying levels of experience with the web.
 
 #### Materials 
 * Sticky notes
@@ -42,7 +42,7 @@ An internet browser, also known as a web browser or simply a browser, is a softw
 * Communication
 
 #### Earning Digital Badges
-* Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
+Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
 ## Online Activity: Enter the World Wide Web
 
