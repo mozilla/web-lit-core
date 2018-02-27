@@ -79,7 +79,7 @@ The facilitator asks the group to share kinds of things they do “online”
 ## Storytelling: The Web and You 
 [20-25 mins]
 * In this exercise, the facilitator splits learners into groups of 3 to 4 to tell and listen to stories. Explain that each learner will have 3-4 minutes to tell their own story of their web experience and what it means to them while other group members listen.  
-> Tip! Here are some pointers to give to the learners for the storytelling exercise
+> Tip! Here are some pointers to give to the learners for the storytelling exercise.
 > * Storytellers should take their full 3 or 4 minutes. If the storyteller is done before their time is up, that’s OK-- take the time to sit quietly together and think about the story.
 > * Listeners should practice active listening-- focus on the storyteller, not what you’re going to say. 
 * Facilitator should select one of the following questions to use with the group. All storytellers should respond to the same question. 
