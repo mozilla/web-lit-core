@@ -3,10 +3,11 @@ layout: page
 title: "Making Friends with your Browser"
 toc:
 - "Description"
+- "Earning Digital Badges"
 - "Enter the World Wide Web"
 - "Part I"
 - "Part II"
-- "Reflection and Wrap Up"
+- "Reflection/Review"
 - "Learning Experience Reflection"
 ---
 
@@ -94,7 +95,7 @@ An internet browser, also known as a web browser or simply a browser, is a softw
     * Go to the X page and list 3 pieces of information on this page
     * What web browser are you using? 
 
-## Reflection and Wrap Up 
+## Reflection/Review 
 [5 mins]
 * Facilitator asks learners: how does what you learned today change how you think about web searches, and search results?
 
