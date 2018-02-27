@@ -33,7 +33,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * Timer for keeping time during storytelling
 
 #### Web Literacy Skills
-This activity precedes learning specific web literacy skills
+This is an introductory activity to web literacy skills.
 
 #### 21st Century Skills
 * Communication
