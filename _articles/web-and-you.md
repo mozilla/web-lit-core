@@ -105,7 +105,7 @@ The facilitator asks the group to share kinds of things they do “online.”
 [10-15 mins]
 * Now that learners have shared their individual stories, the facilitator asks the group to reflect on what they heard (in their own story, and others’ stories) and document and/or discuss all the different ways the group uses the web. 
 > Tip! If time is tight, the facilitator may opt to do either the word map exercise, or pose some exploration questions.  
-    * Word Map: Using sticky notes or note cards, learners making lists of words learners heard in the stories. Learners should write one word per sticky note. 
+> * Word Map: Using sticky notes or note cards, learners making lists of words learners heard in the stories. Learners should write one word per sticky note. 
     * VERBS: what we do or would like to do on the web-- (examples might be  connect, learn, shop)
     * ADJECTIVES: what is the experience like for us, and for others? (examples: exciting, fun, overwhelming, confusing)
     * NOUNS: things that happen/are found online, or what we use to connect (examples: communities, music, cell phone, modem)
