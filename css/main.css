@@ -6,10 +6,14 @@ ol li, ul li {
   margin: 10px 0;
 }
 
-.lesson-content ol {
+.lesson-content blockquote {
   background: rgba(255,237,0,.25);
   list-style-position: inside;
   padding: 20px;
+}
+
+.lesson-content blockquote p {
+  margin-bottom: 0;
 }
 
 .project {
@@ -477,20 +481,6 @@ html.no-js .sidebar .collapsible-content {
 
 strong {
   font-weight: 600;
-}
-
-blockquote {
-  padding: 0 1.5rem;
-  margin-bottom: 2rem;
-  line-height: 2.2rem;
-  font-size: 1.25rem;
-  border-left: 2px solid rgba(0, 0, 0, 0.3);
-  color: rgba(0, 0, 0, 0.5);
-}
-
-.lesson-content blockquote p {
-  font-size: 1.25rem;
-  color: rgba(0, 0, 0, 0.5);
 }
 
 body.rtl {
