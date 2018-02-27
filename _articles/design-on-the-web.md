@@ -78,15 +78,15 @@ Digital badges collect evidence and are the demonstration of learned web literac
 ## Visual Design Elements 
 [5 mins]
 * For many web users (with exception of visually impaired users, those using screen readers) websites have a strong visual component. Ask users: what are some elements of visual design? 
-> * Tip! Here, you can use an example to get learners started, or brainstorm a list together first. Some elements might include:
->    * Color 
->    * Size
->    * Shape
->    * Space
->    * Position (alignment, proximity)
->    * Repetition
->    * Variety
->    * Harmony
+> Tip! Here, you can use an example to get learners started, or brainstorm a list together first. Some elements might include:
+> * Color 
+> * Size
+> * Shape
+> * Space
+> * Position (alignment, proximity)
+> * Repetition
+> * Variety
+> * Harmony
 * Look at examples-- what is the intention of the site? how is designed used? 
 * For each example, what do you see? What do you see first? What visual design elements are there? What stands out?
 * Two examples to compare and contrast:
@@ -120,14 +120,14 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 
 
 
-> * Tip! If you are browsing live, you can try switching into responsive design mode (Tools > Web Developer > Responsive Design Mode) which allows you to see how the site will appear on different devices. 
+> Tip! If you are browsing live, you can try switching into responsive design mode (Tools > Web Developer > Responsive Design Mode) which allows you to see how the site will appear on different devices. 
 * Which elements of the site disappear when screen space is smaller, and which are still present? 
 * Seeing a site in this mode can help learners understand what aspects of the site the designer thinks is most important. 
 
 ## User Goals, Site Goals
 [5 minutes]
 * Let’s consider the goals that a web site (or the company/organization the site represents) have for interactions on their site, vs. goals of the user. Select an actual site as an example. 
-> * Tip! Pick a few common sites, like Amazon.com, or Youtube.com, or any sites frequently used in your audience’s community. You can assign the sites, or let learners select. 
+> Tip! Pick a few common sites, like Amazon.com, or Youtube.com, or any sites frequently used in your audience’s community. You can assign the sites, or let learners select. 
 * Ask learners:
     * What are goals users might have related to the site?
     * What are goals the site/company/org might have?
