@@ -36,9 +36,9 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * Sticky notes
 * Pencils, markers
 * Pre-made signs with the following labels:
-"Hop 1: Local Router" 
-"Hop 2: Internet Service Provider”
-"Hop 3: The Server" 
+    * "Hop 1: Local Router" 
+    * "Hop 2: Internet Service Provider”
+    * "Hop 3: The Server" 
 
 #### Web Literacy Skills
 * This is an introductory activity to the web literacy skills
