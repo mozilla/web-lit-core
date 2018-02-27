@@ -3,6 +3,7 @@ layout: page
 title: "Building Basic Pages"
 toc:
 - "Description"
+- "Earning Digital Badges"
 - "Introduction"
 - "Content Generation/Storytelling"
 - "Get Tagging!"
