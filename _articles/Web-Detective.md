@@ -5,9 +5,9 @@ toc:
 - "Description"
 - "Earning Digital Badges"
 - "Introduction"
-- "Content Generation/Storytelling"
-- "Get Tagging!"
-- "Go Online!"
+- "Co-create a list of rules/criteria"
+- "Research and evaluate evidence"
+- "Take your detecting skills into the wild"
 - "Learning Experience Reflection"
 ---
 
@@ -133,9 +133,9 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 [6 mins]
 * Let’s see how your list from above compares to other lists and fact-checking processes. 
 * Break up learners into groups of 3-4 and ask learners to examine: 
-       * [How to Spot Fake News from FactCheck.org](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
-       * [7 Steps to Better Fact Checking from Politifact](http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/)
-       * [How to Fact-Check the Atlantic from the Atlantic](https://www.theatlantic.com/notes/2018/01/how-to-fact-check-the-atlantic/551477/)
+    * [How to Spot Fake News from FactCheck.org](http://www.factcheck.org/2016/11/how-to-spot-fake-news/)
+    * [7 Steps to Better Fact Checking from Politifact](http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/)
+    * [How to Fact-Check the Atlantic from the Atlantic](https://www.theatlantic.com/notes/2018/01/how-to-fact-check-the-atlantic/551477/)
 * Ask learners: 
     * How did these lists compare with your own list? 
     * What did you learn that you didn’t know before?  
