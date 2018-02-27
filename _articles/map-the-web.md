@@ -3,6 +3,7 @@ layout: page
 title: "Map the Web, Perform the Web"
 toc:
 - "Description"
+- "Earning Digital Badges"
 - "Introduction/Discussion"
 - "Brainstorm Map Elements"
 - "Define Web Terms"
