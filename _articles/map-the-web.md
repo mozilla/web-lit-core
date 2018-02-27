@@ -4,7 +4,7 @@ title: "Map the Web, Perform the Web"
 toc:
 - "Description"
 - "Earning Digital Badges"
-- "Introduction/Discussion"
+- "Introduction/Opening Circle"
 - "Brainstorm Map Elements"
 - "Define Web Terms"
 - "Assemble the Map or Model" 
@@ -52,7 +52,7 @@ In this discussion/mapping/performance activity, learners share what they alread
 * Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
 
-## Introduction/Discussion 
+## Introduction/Opening Circle 
 [5-10 mins]
 * If group members are new to each other, the facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
 > * Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
