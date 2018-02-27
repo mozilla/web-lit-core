@@ -3,10 +3,12 @@ layout: page
 title: "Search Party!"
 toc:
 - "Description"
-- "Introduction"
-- "Content Generation/Storytelling"
-- "Get Tagging!"
-- "Go Online!"
+- "Earning Digital Badges"
+- "Introduction/Opening Circle"
+- "Short discussion/Framing: Searching the Web"
+- "Offline Activity: Be the crawler!"
+- "Re-Frame"
+- "Online Activity"
 - "Learning Experience Reflection"
 ---
 
@@ -46,9 +48,9 @@ toc:
 #### Earning Digital Badges
 * Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introductions/Opening Circle 
-[2-3 minutes, depending on group size]
-The facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
+## Introduction/Opening Circle
+[3-5 mins]
+* The facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
 > * Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 > * Tip! The facilitator should model a short intro, so learners know what this looks like, and especially, how much time they have for their introduction. 
 
