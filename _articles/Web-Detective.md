@@ -117,7 +117,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 * Share results of the research question-- what are their answers? How did the list of rules help?
 * Conclusion: Given these stories, we can say that the kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is probably NOT real. In the first story, a rock island is mistaken for a kraken. In the second story, video has been shot of a giant squid, but it is much smaller and shyer than the kraken we are looking for, though it may have inspired the legends. 
 
-## ake your Detecting Skills into the wild! 
+## Take your detecting skills into the wild 
 [15-20 mins] 
 * Explain to learners that they’ve tested their list on a set of curated resources-- news items that were picked in advance. Now, they can test out their lists on news and info sources that they find, “in the wild.” 
 * Brainstorm with learners, or assign a question that is controversial-- either from the news or pop culture.
@@ -129,13 +129,13 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
     * Which sources were reliable? Which sources did you decide were unreliable?
     * Is there anything you’d add or change to your list?
 
-## Check your Checklist! 
+## Check your Checklist 
 [6 mins]
 * Let’s see how your list from above compares to other lists and fact-checking processes. 
 * Break up learners into groups of 3-4 and ask learners to examine: 
-       * How to Spot Fake News from FactCheck.org
-       * 7 Steps to Better Fact Checking from Politifact 
-       * How to Fact-Check the Atlantic from the Atlantic
+       * How to Spot Fake News from FactCheck.org [http://www.factcheck.org/2016/11/how-to-spot-fake-news/]
+       * 7 Steps to Better Fact Checking from Politifact [http://www.politifact.com/truth-o-meter/article/2014/aug/20/7-steps-better-fact-checking/]
+       * How to Fact-Check the Atlantic from the Atlantic [https://www.theatlantic.com/notes/2018/01/how-to-fact-check-the-atlantic/551477/]
 * Ask learners: 
     * How did these lists compare with your own list? 
     * What did you learn that you didn’t know before?  
