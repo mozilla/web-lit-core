@@ -47,107 +47,109 @@ toc:
 #### Earning Digital Badges
 * Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
+## Introduction & Discussion  
+[10mins]
+* Facilitator introduces the idea that the web is a designed space. Everything you experience on the web is a result of a human decision, and a human intention--
+    * A button or search bar in a certain spot
+    * Text at a certain size
+    * Color choices
+    * Images, text, etc.
+* Facilitator asks learners, what does it mean to design something? 
+    * Let’s think of design in the physical world. Let’s take buildings, for example (faciliator chooses 2 contrasting examples): 
+        * haunted house/government building/nightclub
+        * vs. cozy cottage/daycare center/library?
+    * Have you been in spaces like these? How might these environments look or feel different? 
+    * What are the different feelings you want your building’s users to have?
+    * What are different actions you want your buildings users to do?
+* Designers make choices to create an outcome-- in action or feeling for the user. All designers have plans and intentions.
+* As a user, you respond to design with feelings and actions (or not). 
+* Facilitator connects the discussion about physical spaces with the web: like a physical space, most websites are designed with an intention-- there’s something the designer wants users to do.
+* Discuss with learners, or do a think/pair/share activity about the following questions: 
+    * What sites do you use most often? Each learner thinks of a site (Youtube, Facebook, Google, Amazon, Library site etc. etc) 
+    * What is the goal of the site? What does the creator of the site intend for you to do? (Could be: buy things, look at ads, etc) 
+    * What are you doing there? What do you want to do?
+    * Is your aim different from what the site designer wants? If so, how?
+    * Have you had an experience of visiting a site intending to do one thing, and ending up doing something different? How or why did this happen? 
+    * Have you had the experience of visiting a site and not being able to do or find the thing you came there for? 
+* Facilitator explains that the better the design of the site, the more likely you’ll do what the designer intends.
 
-1. Introduction & Discussion  [10mins]
-Facilitator introduces the idea that the web is a designed space. Everything you experience on the web is a result of a human decision, and a human intention--
-A button or search bar in a certain spot
-Text at a certain size
-Color choices
-Images, text, etc.
-Facilitator asks learners, what does it mean to design something? 
-Let’s think of design in the physical world. Let’s take buildings, for example:
-Facilitator chooses 2 contrasting examples:  
-haunted house/government building/nightclub
-vs. cozy cottage/daycare center/library?
-Have you been in spaces like these? How might these environments look or feel different? 
-What are the different feelings you want your building’s users to have?
-What are different actions you want your buildings users to do?
-Designers make choices to create an outcome-- in action or feeling for the user. All designers have plans and intentions!
-As a user, you respond to design with feelings and actions (or not)
-Facilitator connects the discussion about physical spaces with the web: like a physical space, most websites are designed with an intention-- there’s something the designer wants users to do
-Discuss with learners, or do a think/pair/share activity about the following questions: 
-What sites do you use most often? Each learner thinks of a site (Youtube, Facebook, Google, Amazon, Library site etc. etc) 
-What is the goal of the site? What does the creator of the site intend for you to do?
-Could be: buy things, look at ads, etc
-What are you doing there? What do you want to do?
-Is your aim different from what the site designer wants? If so, how?
-Have you had an experience of visiting a site intending to do one thing, and ending up doing something different? How or why did this happen? 
-Have you had the experience of visiting a site and not being able to do or find the thing you came there for? 
-Facilitator explains that the better the design of the site, the more likely you’ll do what the designer intends.
+## Discussion: Visual Design Elements  
+[5 mins]
+* For many web users (with exception of visually impaired users, those using screen readers) websites have a strong visual component. Ask users: what are some elements of visual design? 
+> * Tip! Here, you can use an example to get learners started, or brainstorm a list together first. Some elements might include:
+>    * Color 
+>    * Size
+>    * Shape
+>    * Space
+>    * Position (alignment, proximity)
+>    * Repetition
+>    * Variety
+>    * Harmony
+* Look at examples-- what is the intention of the site? how is designed used? 
+* For each example, what do you see? What do you see first? What visual design elements are there? What stands out?
+* Two examples to compare and contrast:
 
-2.Discussion: Visual Design Elements  [5 mins]
-For many web users (with exception of visually impaired users, those using screen readers) websites have a strong visual component. Ask users: what are some elements of visual design? 
-Tip! Here, you can use an example to get learners started, or brainstorm a list together first. Some elements might include:
-Color 
-Size
-Shape
-Space
-Position (alignment, proximity)
-Repetition
-Variety
-Harmony
-Look at examples-- what is the intention of the site? how is designed used? 
-For each example, what do you see? What do you see first? What visual design elements are there? What stands out?
-Two examples to compare and contrast:
+# TWO VISUALS
 
 
+* Let learners look and discuss. Here are some of the the things that they or the facilitator might mention:
+    * In the Google example: 
+        * The focus  is the search bar- it’s almost the only thing on the page. 
+        * The colorful Google logo pops out against the white background.
+        * Lots of white space on the page helps us focus.
+    * In Amazon example:
+        * So many things to see and click on --
+        * Some things are larger-- the Echo Dot ad gets lots of space, so it’s likely important.
+        * The pop-up LOG IN button is floating on top of the rest of the design, calling attention to itself. 
+        * The “Explore” button also visually pops out. 
+        * The search bar is prominent and easy to find-- see the yellow magnifying glass.
+        * The repeating circles give users the sense that they can choose among many groupings of products to buy.
+        * The little product images up top are playful and fun, they’re evenly sized, you get the sense that there’s lots of them.
 
-
-Let learners look and discuss. Here are some of the the things that they or the facilitator might mention:
-In the Google example, 
-The focus  is the search bar- it’s almost the only thing on the page! 
-The colorful Google logo pops out against the white background
-Lots of white space on the page helps us focus
-In Amazon,
-So many things to see and click on
-Some things are larger-- the Echo Dot ad gets lots of space, so it’s likely important
-The pop-up LOG IN button is floating on top of the rest of the design, calling attention to itself 
-The “Explore” button also visually pops out! 
-The search bar is prominent and easy to find-- see the yellow magnifying glass
-The repeating circles give users the sense that they can choose among many groupings of products to buy
-The little product images up top are playful and fun, they’re evenly sized, you get the sense that there’s lots of them 
-
-3.Discussion: Interaction Design Elements [5 mins]
-Ask users: what elements make a website interactive?
-Examples might include: 
+## Discussion: Interaction Design Elements 
+[5 mins]
+* Ask users: what elements make a website interactive?
+* Examples might include: 
 Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, status update boxes, lists of items to scroll through, mouse-overs for pop-ups
-Look at some examples with learners, and discuss what they see. Ask learners: how do visual design elements (like size, color, shape, placement) work with interaction elements?
-Learners might notice that designers use color, size and placement to draw attention to buttons they want users to push, or a search bar, etc
+* Look at some examples with learners, and discuss what they see. Ask learners: how do visual design elements (like size, color, shape, placement) work with interaction elements?
+* Learners might notice that designers use color, size and placement to draw attention to buttons they want users to push, or a search bar, etc
+
+# 2 Images
 
 
 
+> * Tip! If you are browsing live, you can try switching into responsive design mode (Tools > Web Developer > Responsive Design Mode) which allows you to see how the site will appear on different devices. 
+* Which elements of the site disappear when screen space is smaller, and which are still present? 
+* Seeing a site in this mode can help learners understand what aspects of the site the designer thinks is most important. 
 
+## Discussion: user goals, site goals 
+[5 minutes]
+* Let’s consider the goals that a web site (or the company/organization the site represents) have for interactions on their site, vs. goals of the user. Select an actual site as an example. 
+> * Tip! Pick a few common sites, like Amazon.com, or Youtube.com, or any sites frequently used in your audience’s community. You can assign the sites, or let learners select. 
+* Ask learners:
+    * What are goals users might have related to the site?
+    * What are goals the site/company/org might have?
+* Try to list three or more potential goals for each. For example: 
+    * Youtube.com might have the goal of encouraging users to watch lots of content. A secondary goal might be for users see click on ads. A third goal might be to encourage users to comment on videos. 
+    * A user of Youtube.com might stop by to watch just a single specific video. Or a user may also want to find many videos of about one subject. And a user might want to upload her own content to YouTube. 
+* Are the users’ and the site’s goals in conflict? How?
+* What happens when user and site goals are in conflict?
+* Explain to learners that by documenting their experience with sites, they can see how the design of the site works to meet sites’ goals and user’s goals… or not!
 
-Tip! If you are browsing live, you can try switching into responsive design mode (Tools > Web Developer > Responsive Design Mode) which allows you to see how the site will appear on different devices. 
-Which elements of the site disappear when screen space is smaller, and which are still present? 
-Seeing a site in this mode can help learners understand what aspects of the site the designer thinks is most important. 
-
-4. Discussion: user goals, site goals [5 minutes]
-Let’s consider the goals that a web site (or the company/organization the site represents) have for interactions on their site, vs. goals of the user. Select an actual site as an example. 
-Tip! Pick a few common sites, like Amazon.com, or Youtube.com, or any sites frequently used in your audience’s community. You can assign the sites, or let learners select. 
-Ask learners:
-What are goals users might have related to the site?
-What are goals the site/company/org might have?
-Try to list three or more potential goals for each. For example: 
-Youtube.com might have the goal of encouraging users to watch lots of content. A secondary goal might be for users see click on ads. A third goal might be to encourage users to comment on videos. 
-A user of Youtube.com might stop by to watch just a single specific video. Or a user may also want to find many videos of about one subject. And a user might want to upload her own content to YouTube. 
-Are the users’ and the site’s goals in conflict? How?
-What happens when user and site goals are in conflict?
-Explain to learners that by documenting their experience with sites, they can see how the design of the site works to meet sites’ goals and user’s goals… or not!
-
-5. Activity: Site investigations/User Journeys [15 minutes]
-In this activity, learners will pair up and work together to document their own user journeys with a specific site. The aim is to notice how they’re interacting with the site’s design. Ideally each pair of learners should have a computer to work on. 
-Facilitator splits group into pairs. Facilitator can select sites for learners to work with, or users can select their own sites. 
-Ask learners to go to the site with an intention or goal in mind 
-For example: I’m going to Amazon to search for books about kittens; I’m going to look for an intro html lesson on YouTube.
-One person in the pair is the user who is navigating around the site, and talking out loud/telling the story of  what they are doing “ie. I am going to type ‘kittens’ into the search bar” or “I’m going to scroll down and read these comments”
-The other member of the pair is listening to/documenting the user journey. The listener should notice and/or take notes about the user’s experience. 
-For example, the listener should document 
-What is the user’s plan or goal in using the site? 
-What’s the first thing they see on the site? What pops up?
-What are do they click on?  
-Do they look/watch/listen to content they weren’t looking for (ads, suggested videos or items, etc) 
-Why did this happen? 
+## Activity: Site investigations/User Journeys 
+[15 minutes]
+* In this activity, learners will pair up and work together to document their own user journeys with a specific site. The aim is to notice how they’re interacting with the site’s design. Ideally each pair of learners should have a computer to work on. 
+* Facilitator splits group into pairs. Facilitator can select sites for learners to work with, or users can select their own sites. 
+* Ask learners to go to the site with an intention or goal in mind.  
+    * For example: I’m going to Amazon to search for books about kittens; I’m going to look for an intro html lesson on YouTube.
+* One person in the pair is the user who is navigating around the site, and talking out loud/telling the story of  what they are doing “ie. I am going to type ‘kittens’ into the search bar” or “I’m going to scroll down and read these comments”
+* The other member of the pair is listening to/documenting the user journey. The listener should notice and/or take notes about the user’s experience. 
+* For example, the listener should document: 
+    * What is the user’s plan or goal in using the site? 
+    * What’s the first thing they see on the site? What pops up?
+    * What do they click on?  
+    * Do they look/watch/listen to content they weren’t looking for (ads, suggested videos or items, etc) 
+    * Why did this happen? 
 How does the site feel? cold, friendly, fancy, sleek, etc
 What annoyed them? What was fun? 
 Did they stick to their original goal for the session, or did they get sidetracked? 
