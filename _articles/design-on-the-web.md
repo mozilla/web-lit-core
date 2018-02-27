@@ -4,10 +4,12 @@ title: "Design on the Web"
 toc:
 - "Description"
 - "Earning Digital Badges"
-- "Introduction"
-- "Content Generation/Storytelling"
-- "Get Tagging!"
-- "Go Online!"
+- "Introduction/Discussion"
+- "Visual Design Elements"
+- "Interactive Design Elements"
+- "User Goals, Site Goals"
+- "Activity: Site investigations/User Journeys"
+- "Reflection/Review"
 - "Learning Experience Reflection"
 
 ---
@@ -15,7 +17,7 @@ toc:
 # Design on the Web
 
 ## Description
-* In this discussion and online activity, learners explore and experience how visual design works on the web, and how web designers use their skills to encourage certain behaviors. Learners compare and contrast the visual and interactive elements of different pages and platforms. In pairs, they narrate and document “user journeys” through a website-- a process that real-life web designers use to test and improve sites.  
+In this discussion and online activity, learners explore and experience how visual design works on the web, and how web designers use their skills to encourage certain behaviors. Learners compare and contrast the visual and interactive elements of different pages and platforms. In pairs, they narrate and document “user journeys” through a website-- a process that real-life web designers use to test and improve sites.  
 
 #### Learning Objectives
 * Explain how visual design works on the web
@@ -23,10 +25,10 @@ toc:
 * Critique and document reactions to a website
 
 #### Time Required
-* 45 minutes to 1 hour, depending on group size
+45 minutes to 1 hour, depending on group size
 
 #### Audience
-* Can be tailored for audiences from 13 up; with varying levels of experience with the web.
+Can be tailored for audiences from 13 up; with varying levels of experience with the web.
 
 #### Materials
 * Sticky notes
@@ -45,10 +47,10 @@ toc:
 * Problem-solving
 
 #### Earning Digital Badges
-* Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
+Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction & Discussion  
-[10mins]
+## Introduction/Discussion  
+[10 mins]
 * Facilitator introduces the idea that the web is a designed space. Everything you experience on the web is a result of a human decision, and a human intention--
     * A button or search bar in a certain spot
     * Text at a certain size
@@ -73,7 +75,7 @@ toc:
     * Have you had the experience of visiting a site and not being able to do or find the thing you came there for? 
 * Facilitator explains that the better the design of the site, the more likely you’ll do what the designer intends.
 
-## Discussion: Visual Design Elements  
+## Visual Design Elements 
 [5 mins]
 * For many web users (with exception of visually impaired users, those using screen readers) websites have a strong visual component. Ask users: what are some elements of visual design? 
 > * Tip! Here, you can use an example to get learners started, or brainstorm a list together first. Some elements might include:
@@ -106,7 +108,7 @@ toc:
         * The repeating circles give users the sense that they can choose among many groupings of products to buy.
         * The little product images up top are playful and fun, they’re evenly sized, you get the sense that there’s lots of them.
 
-## Discussion: Interaction Design Elements 
+## Interactive Design Elements 
 [5 mins]
 * Ask users: what elements make a website interactive?
 * Examples might include: 
@@ -122,7 +124,7 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * Which elements of the site disappear when screen space is smaller, and which are still present? 
 * Seeing a site in this mode can help learners understand what aspects of the site the designer thinks is most important. 
 
-## Discussion: user goals, site goals 
+## User Goals, Site Goals
 [5 minutes]
 * Let’s consider the goals that a web site (or the company/organization the site represents) have for interactions on their site, vs. goals of the user. Select an actual site as an example. 
 > * Tip! Pick a few common sites, like Amazon.com, or Youtube.com, or any sites frequently used in your audience’s community. You can assign the sites, or let learners select. 
@@ -150,24 +152,26 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
     * What do they click on?  
     * Do they look/watch/listen to content they weren’t looking for (ads, suggested videos or items, etc) 
     * Why did this happen? 
-How does the site feel? cold, friendly, fancy, sleek, etc
-What annoyed them? What was fun? 
-Did they stick to their original goal for the session, or did they get sidetracked? 
-What did they spend the most time doing on the site?
-Each learner should take about 5-7 minutes browsing a site as a user, and 5-7 minutes documenting their partner’s experience as the listener/note taker
-Tip! Offline version of above activity: Facilitators could print out a web page for learners to mark up. Both an internal page and the site's home page could be provided (in order to investigate whether the internal page effectively helps a user navigate the rest of the site).  As a follow-on, learners could use a blank sheet of paper to create a prototype of a web page that effectively addresses any issues they see in the handouts provided.
+    * How does the site feel? cold, friendly, fancy, sleek, etc
+    * What annoyed them? What was fun? 
+    * Did they stick to their original goal for the session, or did they get sidetracked? 
+    * What did they spend the most time doing on the site?
+* Each learner should take about 5-7 minutes browsing a site as a user, and 5-7 minutes documenting their partner’s experience as the listener/note taker.
+> Tip! Offline version of above activity: Facilitators could print out a web page for learners to mark up. Both an internal page and the site's home page could be provided (in order to investigate whether the internal page effectively helps a user navigate the rest of the site).  As a follow-on, learners could use a blank sheet of paper to create a prototype of a web page that effectively addresses any issues they see in the handouts provided.
 
-6. Reflection/Wrap-Up [5 mins]
-Facilitator leads a short discussion/reflection session about user journeys. 
-Facilitator explains that user journeys are a tool that designers use when they test out sites and applications-- they might get users to try using the site and document what they do at each step of the process, to help refine the design.
-What did learners discover from the user journey exercise? 
-What did you notice during the activity? What was new, unexpected?
-Did you notice visual design or interaction design elements playing a role in your behavior? 
-Did you notice any tension between the things you wanted to do or get from your experience on the site, and what the site design was suggesting you do? 
-How did this make you feel? 
-Do you think you will notice or do anything differently when you’re browsing in the future? 
+## Reflection/Review
+[5 mins]
+* Facilitator leads a short discussion/reflection session about user journeys. 
+* Facilitator explains that user journeys are a tool that designers use when they test out sites and applications-- they might get users to try using the site and document what they do at each step of the process, to help refine the design.
+* What did learners discover from the user journey exercise? 
+* What did you notice during the activity? What was new, unexpected?
+* Did you notice visual design or interaction design elements playing a role in your behavior? 
+* Did you notice any tension between the things you wanted to do or get from your experience on the site, and what the site design was suggesting you do? 
+* How did this make you feel? 
+* Do you think you will notice or do anything differently when you’re browsing in the future? 
 
-6. Learning Experience Reflection [5 mins]
-What did you like about this activity?
-If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
+## Learning Experience Reflection 
+[5 mins]
+* What did you like about this activity?
+* If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
