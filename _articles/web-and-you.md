@@ -3,6 +3,7 @@ layout: page
 title: "The Web and You"
 toc:
 - "Description"
+- Earning Digital Badges"
 - "Opening Circle"
 - "Introducing the Web"
 - "Storytelling: The Web and You"
@@ -37,7 +38,8 @@ In this offline storytelling/discussion activity, learners reflect on and share 
 * Communication
 * Collaboration 
 
-#### No Digital Badges for this activity
+#### Earning Digital Badges
+* No Digital Badges for this activity
 
 ## Opening Circle 
 [6-10 min]
