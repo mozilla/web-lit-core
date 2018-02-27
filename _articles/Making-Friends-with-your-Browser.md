@@ -58,17 +58,17 @@ An internet browser, also known as a web browser or simply a browser, is a softw
     * Ask learners to open one of the web browsers on their computer.  It will be much easier for all learners to open the same web browser as names and options differ slightly among browsers.  This lesson is based on the Firefox browser. 
     * Explain that when they open a browser, they land on that browser’s homepage, which is a web page.  Users can select the homepage of their web browsers.  
     * Ask learners to hover over the icons on the top of the screen (the toolbar) and write down the words that appear on sticky notes.                  They can also click and see what the function is. They should find:
-    * Open a new tab
-    * Close tab
-    * Go back one page
-    * Go forward one page
-    * Reload
-    * Start/home page
-    * Show history
-    * Open menu
-    * Search or enter address
-    * Search
-    * Scroll bar
+        * Open a new tab
+        * Close tab
+        * Go back one page
+        * Go forward one page
+        * Reload
+        * Start/home page
+        * Show history
+        * Open menu
+        * Search or enter address
+        * Search
+        * Scroll bar
 * Ask learners to categorize the tools. Which tools allow the user to navigate the page?  Which tools relate to searching for a website? 
 * Ask learners to open and close new tabs. Elicit reasons for keeping several tabs open. The point is to eliminate confusion between closing the browser and closing a webpage. You may want to revisit this point after learners have several different web pages open. 
 * Learners may want to write down the words from their sticky notes and draw the icon next to each word or sketch the homepage of the browser and fill in the tools. 
