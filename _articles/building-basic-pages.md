@@ -83,7 +83,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 ## Get Tagging! 
 [10 mins ]
 * Explain to users that they’ll be marking up their story-- the .html version-- with HTML, to make it ready for display in the browser. Explain that since coding HTML and thinking of and writing content are two different ways of thinking, they should always have content written before they mark it up, rather than write and mark-up at the same time. 
-> * Tip! A great way to help learners do this, if you have access to an instructor’s computer and projector, is to do the activity on your own content along with learners, and project the results so everyone can see what you’re doing. 
+> Tip! A great way to help learners do this, if you have access to an instructor’s computer and projector, is to do the activity on your own content along with learners, and project the results so everyone can see what you’re doing. 
 * Start the file with a doctype tag-- this is one of the only tags that doesn’t have content inside, and no closing tag-- it’s a lonely single tag, reminding the browser, again that we’re writing html<!DOCTYPE html>
 * Add an <html> and </html> tags that wrap around the ENTIRE page-- so everything inside can get tagged with markup language. 
 * After this, make a section with a set of tags called <head> </head> at the top of the page, before all your written content. We’ll put one bit of content in here for the browser, but we won’t see it appear on the main page itself. This is the page title, which:
