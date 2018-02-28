@@ -91,7 +91,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * For each example, what do you see? What do you see first? What visual design elements are there? What stands out?
 * Two examples to compare and contrast:
 
-# TWO VISUALS
+![google search page](../images/google.png)
+![amazon home page](../images/amazon.png)
 
 
 * Let learners look and discuss. Here are some of the the things that they or the facilitator might mention:
@@ -116,8 +117,8 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * Look at some examples with learners, and discuss what they see. Ask learners: how do visual design elements (like size, color, shape, placement) work with interaction elements?
 * Learners might notice that designers use color, size and placement to draw attention to buttons they want users to push, or a search bar, etc
 
-# 2 Images
-
+![youtube page with ads](../images/youtube-ads.png)
+![youtube page with playlist](../images/youtube-playlist.png)
 
 
 > Tip! If you are browsing live, you can try switching into responsive design mode (Tools > Web Developer > Responsive Design Mode) which allows you to see how the site will appear on different devices. 
