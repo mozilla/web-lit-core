@@ -4,12 +4,11 @@ title: "Tagging 101"
 toc:
 - "Description"
 - "Earning Digital Badges"
-- "Introduction/Discussion"
-- "Visual Design Elements"
-- "Interactive Design Elements"
-- "User Goals, Site Goals"
-- "Activity: Site investigations/User Journeys"
-- "Reflection/Review"
+- "Introduction"
+- "Content & Tags"
+- "Offline Activity: Tag The World"
+- "Offline Activity: Tag Tag Revolution"
+- "Offline and ONLINE activity: HTML Tags In Action!"
 - "Learning Experience Reflection"
 
 ---
@@ -76,11 +75,14 @@ Digital badges collect evidence and are the demonstration of learned web literac
 
 * Explain: When web designers write HTML, they take chunks of content and “mark them up” with tags to tell the browser how to show that content. They put a tag at the beginning of the content (the opening tag), and a tag at the end (the closing tag), so the browser knows when to start and stop. 
 * Explain the rules for tagging are:
+
     > Tip! Visuals are really useful here-- write or project an example (as below) where everyone can see it.
+    
     * When we want to tag some content, we surround it with a matching pair of words, each word surrounded by  a set of brackets “< >”. 
     * Here’s an example tag: <title> Tag the World </title>
     
     > Tip! ask learners, in this example, what is the title? 
+    
     * When tags are used online, the brackets alert the browser software that it’s a tag. The word or character inside each bracket tells the browser important information about what’s inside. <title> is an opening tag-- signaling that the tagged content starts here. 
     * You can see there’s something different about the second word- bracket set  </title>  the backslash means it’s a CLOSING tag-- telling the browser the tag is finished. 
     * We ALWAYS use opening and closing tags to surround content.
@@ -116,7 +118,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * After all the tags have been used, you could have the players with tags move around one at a time to change up who is doing what. This will help help learners understand how tags are applied to content, how they open and close, in HTML.
 * Here in the real world, you have complete freedom to make their own tags names-- later we’ll see that in the coding language HTML, we use a restricted set of tags names that everyone agrees upon, that make sense for web content. But for now, make up whatever tag you want.
 
-## Offline OR ONLINE activity: HTML Tags In Action! 
+## Offline and ONLINE activity: HTML Tags In Action! 
 [15 mins]
 * Introduction: Explain that we’ve seen what tags look like, and how they work with content (what’s inside the tags). Now let’s practice using some real tags that are part of the HyperText Markup Language (HTML). 
 * First, let’s check out a simple HTML document-- guess what-- from a web designer and developer, when they are building web pages, what they are working with is HTML code in a simple text file. 
