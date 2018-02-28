@@ -5,10 +5,9 @@ toc:
 - "Description"
 - "Earning Digital Badges"
 - "Introduction"
-- "Discussion: Pixels"
-- "Discussion: Screens, Bitmaps, and Resolution"
-- "Offline Activity: Analog Pixel Art"
-- "Online Activity: Digital Pixel Art"
+- "Offline Activity: Analog Crowdsourcing"
+- "Online Activity- Zooniverse"
+- "Reflection/wrap up"
 - "Learning Experience Reflection"
 ---
 
@@ -126,8 +125,4 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * How many other people have contributed?
     * How do you feel about your contribution? 
 
-## Activity Reflection 
-[5 mins]
-* What did you like about this activity?
-* Thinking about an audience you may be teaching this activity, what would you change to better meet the needs of that audience? 
-
+## 
