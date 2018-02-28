@@ -12,7 +12,9 @@ toc:
 ---
 
 # Safety First!
-In this mix of online and offline activities, Safety First, Part 1 unpacks the ways in which our everyday online activities can be tracked. Learners will first work on a privacy audit, during which they will uncover the ways in which their personal activities can be viewed by external parties. Learners will learn about metadata and what it can reveal about us. Finally, learners will develop an awareness of the mechanisms in place for tracking our activities online. In Part 2, learners will walk through recommended steps to protect their privacy online. They will learn how to set good passwords, secure their browsers, download privacy-enhancing extensions, practice good wifi hygiene, and protect their personal data.
+In this mix of online and offline activities, Safety First, Part 1 unpacks the ways in which our everyday online activities can be tracked. Learners will first work on a privacy audit, during which they will uncover the ways in which their personal activities can be viewed by external parties. Learners will learn about metadata and what it can reveal about us. Finally, learners will develop an awareness of the mechanisms in place for tracking our activities online. 
+
+In Part 2, learners will walk through recommended steps to protect their privacy online. They will learn how to set good passwords, secure their browsers, download privacy-enhancing extensions, practice good wifi hygiene, and protect their personal data.
 
 #### Learning Objectives
 * Identify privacy choices you make everyday.
@@ -43,25 +45,26 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
 ## Introduction
+[10 mins]
 * Start a discussion with learners about their experiences with online privacy. 
 > Tip! Depending on group size, these questions can be used for small group discussion or with the group as a whole. 
-> * When you hear the word “privacy,” what do you think about? How does the concept of privacy apply to your everyday life?
-> * How do the notions of privacy we just discussed work in the context of what we do on the web?
-> * Does privacy apply equally to your offline life and your time on the web? Why / why not?
-> * Remind learners that, as with any large-scale issue, we can take action with many small steps that accumulate into a protective effect.
+* When you hear the word “privacy,” what do you think about? How does the concept of privacy apply to your everyday life?
+* How do the notions of privacy we just discussed work in the context of what we do on the web?
+* Does privacy apply equally to your offline life and your time on the web? Why / why not?
+* Remind learners that, as with any large-scale issue, we can take action with many small steps that accumulate into a protective effect.
 * Ask learners: what are you doing already to protect your privacy? 
-* Make sure to touch base on the following topics, as they will come up later in this lesson: 
-    * Changing your privacy settings
-    * Clearing browsing history
-    * Creating strong passwords
-    * Enabling 2-factor identification
-    * Using password managers
-    * Practicing wifi hygiene 
-        * Enabling WPA or WPA2 on our wifi routers
-        * Avoiding public wifi
-    * Protecting personal information
-    * Being able to spot phishing schemes
-    * Keeping up with security updates on our devices
+> Tip! Make sure to touch base on the following topics, as they will come up later in this lesson: 
+> * Changing your privacy settings
+> * Clearing browsing history
+> * Creating strong passwords
+> * Enabling 2-factor identification
+> * Using password managers
+> * Practicing wifi hygiene 
+>        * Enabling WPA or WPA2 on our wifi routers
+>        * Avoiding public wifi
+>        * Protecting personal information
+>        * Being able to spot phishing schemes
+>        * Keeping up with security updates on our devices
     
 ## Part 1: Defining Privacy 
 [45 min - 1 hour]
@@ -105,7 +108,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Tell your learners: the information we leave behind as we travel through the web is what is known as a “digital footprint” or a “digital shadow.” Your digital footprint includes websites you visit, emails you send, and information you provide to online services. 
 * Let’s take a look at the kind of information you may be leaving behind in your digital footprint.
 
-## Discussion & Online Activity: What Information Can Be Collected? 
+### Discussion & Online Activity: What Information Can Be Collected? 
 [10 minutes]
 * Share with your learners that while it is not likely that their digital shadow contains the content of their online activities, their metadata is being left behind and tracked by all sorts of entities. 
 * Explain that metadata is, simply put, data about data. Here is an example: an image may include metadata that describes how large the picture is, the color depth, the image resolution, when the image was created, and other data. Another example can be found in a text files. Without viewing the contents, we can see how large the file is, what type of file it is, who the author is, and when the document was written.
@@ -125,7 +128,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Ask your learners: What else do you notice about Tony Stark’s profile?
 * Feel free to try this at home. MIT provides a secure login for most email applications: https://immersion.media.mit.edu/
 
-## Online Activity: Using Lightbeam 
+### Online Activity: Using Lightbeam 
 [15 mins]
 * Share with your learners that we’re going to take a look at who might be tracking us online.  
 * Explain to learners that we will be using Mozilla’s Lightbeam to see how companies use “cookies” - or special files saved by your web browser - to follow you around online.
@@ -148,7 +151,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * Did any of the sites you visited use common tracking software?
     * Are there important, “good” reasons to track people online that are worth losing some privacy over?
 
-## Offline Activity: Privacy Speed Dating 
+### Offline Activity: Privacy Speed Dating 
 [20 mins]
 * Break your learners into groups of 6 or so.
 * Provide your learners with “biographies” (see below) of various third party tracking devices.
@@ -177,7 +180,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 
 ## Part 2: Your Privacy Checklist 
 [45 min-1 hour]
-* Online Activity: Changing Your Privacy Settings [20 minutes]
+### Online Activity: Changing Your Privacy Settings 
+[20 minutes]
 * Tell learners: your browser is your portal to the internet. It’s where your steps to address your personal privacy begin. We’re going to take some steps today to clear up our browser settings. 
 * Say to learners: By show of hands, please share which browser you use. We will be getting into groups according to the browsers we commonly use to see what we can do today to make them more secure. 
 > Tip! This list assumes learners are able to bring their own device. This activity can be remixed for settings in which all participants are using a common browser. 
@@ -205,7 +209,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * Were the instructions you saw online easy to follow? 
     * Were the settings easy to find on your browser?
 
-## Online Activity: Clearing Your Browsing History 
+### Online Activity: Clearing Your Browsing History 
 [5 minutes]
 * Demo how to clear your browsing history on Google Chrome 
 > Tip! Sub in any browser you’d like. Google Chrome was selected for this activity because it is the most commonly used. 
@@ -222,7 +226,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Ask learners to give it a shot! 
 > Tip! Demo the process a few times while learners are practicing. 
 
-## Online Activity: Browser Extensions 
+### Online Activity: Browser Extensions 
 [10 minutes]
 * Explain to learners that there is a growing world of browser extensions that combat trackers. Today we’re going to explore one of them: Privacy Badger. 
 * Share with learners that Privacy Badger is available only to Google Chrome and Mozilla Firefox.  Ask learners to open either of those two browsers. 
@@ -234,7 +238,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Demonstrate how Privacy Badger’s icon changes colors as it works to block trackers. 
 * Ask users to add the Privacy Badger Extension, navigate to a few pages, and try it out for themselves!
 
-## Offline Activity: Creating Strong Passwords 
+### Offline Activity: Creating Strong Passwords 
 [15 minutes]
 
 # 1 IMAGE
