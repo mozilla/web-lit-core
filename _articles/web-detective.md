@@ -77,7 +77,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 [20 minutes]
 * Split learners into groups of 2 or 3. Explain that each group’s challenge is to examine the following seven sources for evidence that the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is real.
 
-# IMAGE of KRAKEN
+![Kraken attacks ship](../images/kraken.jpg)
 
 * NOTE: These represent two different sets of stories: 1-4 about a shape found in a google Earth image and 5-8 about new underwater video footage. Facilitator can limit to 1-4 or 5-8 as needed, or give each group a different set.
 
