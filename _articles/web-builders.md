@@ -14,9 +14,9 @@ toc:
 In this activity, we introduce learners to systems-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites with lots of different pages and frequently updated content, such as blogs or shopping sites. Learners do some data collection, and use analog (pen and paper) examples to explore how web builders work.  
 
 #### Learning Objectives
-* Define a website builder/content management systems
-* Identify four basic elements of website building tools
-* Describe how the elements of website builders work to create web pages
+* Define a website builder/content management systems.
+* Identify four basic elements of website building tools.
+* Describe how the elements of website builders work to create web pages.
 
 #### Time Required
 45 minutes to 1 hour depending on group size
@@ -51,7 +51,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 
 ## Introduction 
 [2 mins]
-Explain:
+* Explain:
 * Today we’re going to talk about some software tools-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites.
 * These tools pull together HTML and CSS (Cascading Style Sheets, used to add visual styles to web sites) along with other programming languages to speed the process of website creation. 
 * But first, let’s do a quick, fun data collection activity-- we’ll use this data to model how web builders work. 
