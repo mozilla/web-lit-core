@@ -94,36 +94,40 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * You don’t need special skills to help, just interest. The kinds of things you can do for each project are different.  For example: 
     * you might look at an image and tag a feature/item or count the number of items present. you might answer questions about the image evaluate an image for certain qualities. 
     * you might be transcribing information from the image into analog form. 
-* Note in this section about checking and verifiying-- that more than one person screens each image or piece of data
-Project Demo
-Tip! Facilitator should do this and if possible have their screen projected so all learners can see. 
-Navigate to Zooniverse, https://www.zooniverse.org
-Go to the project page:
+* Note in this section about checking and verifiying-- that more than one person screens each image or piece of data.
 
+* Project Demo
+> Tip! Facilitator should do this and if possible have their screen projected so all learners can see. 
+* Navigate to Zooniverse, https://www.zooniverse.org
+* Go to the project page:
+# IMAGE
 
-Explain to learners that zooniverse is a platform that hosts lots of research data that participants like you can help classify or evaluate, contributing to real world research!
-Select a project from among the options on the page and click to be taken to the project page-- For example, this is the home page of a project called Elephant Expedition. 
+* Explain to learners that zooniverse is a platform that hosts lots of research data that participants like you can help classify or evaluate, contributing to real world research!
+* Select a project from among the options on the page and click to be taken to the project page-- For example, this is the home page of a project called Elephant Expedition. 
+# IMAGE
 
-Since all projects are on the Zooniverse platform, the interface is similar for each project. 
-There is a tutorial pop-up with a number of steps. Use the arrow key to explore the steps.
-And there is a space for doing the classification work. 
+* Since all projects are on the Zooniverse platform, the interface is similar for each project. 
+* There is a tutorial pop-up with a number of steps. Use the arrow key to explore the steps.
+* And there is a space for doing the classification work. 
+# IMAGE
 
-Show the learners how you might complete a single evaluation task. 
-Point out that they can explore community conversations under “TALK”, and learn more about the project under “ABOUT”
-Do the activity! Give learners 15 to 20 minutes to contribute to one or more projects on Zooniverse.
+* Show the learners how you might complete a single evaluation task. 
+* Point out that they can explore community conversations under “TALK”, and learn more about the project under “ABOUT”
+* Do the activity! Give learners 15 to 20 minutes to contribute to one or more projects on Zooniverse.
 
-4. Reflection/wrap up [5-10 mins]
-Ask learners some questions about their experience, and encourage a discussion. Sample questions below: 
-What was it like to do this task? What was surprising? What was challenging? 
-Did you have any questions about the task? 
-Why do researchers need help like this? 
-Why are some tasks more suitable for humans? Do you think a computer could do this work? 
-How many images/files/videos did your project have?
-How many other people have contributed?
-How do you feel about your contribution? 
+## Reflection/wrap up 
+[5-10 mins]
+* Ask learners some questions about their experience, and encourage a discussion. Sample questions below: 
+    * What was it like to do this task? What was surprising? What was challenging? 
+    * Did you have any questions about the task? 
+    * Why do researchers need help like this? 
+    * Why are some tasks more suitable for humans? Do you think a computer could do this work? 
+    * How many images/files/videos did your project have?
+    * How many other people have contributed?
+    * How do you feel about your contribution? 
 
-
-5. Activity Reflection [5 mins]
-What did you like about this activity?
-Thinking about an audience you may be teaching this activity, what would you change to better meet the needs of that audience? 
+## Activity Reflection 
+[5 mins]
+* What did you like about this activity?
+* Thinking about an audience you may be teaching this activity, what would you change to better meet the needs of that audience? 
 
