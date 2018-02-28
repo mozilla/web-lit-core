@@ -1,71 +1,80 @@
-Project Playlist
+---
+layout: page
+title: "Project Playlist"
+toc:
+- "Description"
+- "Earning Digital Badges"
+- "Introduction"
+- "Discussion: Pixels"
+- "Discussion: Screens, Bitmaps, and Resolution"
+- "Offline Activity: Analog Pixel Art"
+- "Online Activity: Digital Pixel Art"
+- "Learning Experience Reflection"
+---
+
+# Project Playlist
 In this online activity learners consider how the selective sharing or “curation” of existing online assets-- images, video, sounds, text-- is part of everyday web use, and how the web is designed to encourage this kind of sharing. In groups or individually, learners curate their own set of songs or sounds from the music sharing site Soundcloud, and embed the media files on them on their own web pages as a playlist. They include commentary and descriptions that explain their selections-- how and why they curated this particular playlist-- to anyone visiting the page. 
 
+#### Learning Objectives
+* Curate list of information to create a song playlist
+* Embed curated information on a web page
 
-Learning Objectives
-Curate list of information to create a song playlist
-Embed curated information on a web page
+#### Time Required
+45 minutes to 1 hour depending on group size
 
-Time Required: 45 minutes to 1 hour depending on group size
-
-Audience
+#### Audience
 Can be tailored for audiences from 13 up; with varying levels of experience with the web.
 
-Materials
-Laptop with internet connection
-Paper and pencil
+#### Materials
+* Laptop with internet connection
+* Paper and pencil
 
-Web Literacy Skills
-Search
-Share
-Remix
-Code
-Protect
-Open Practice
+#### Web Literacy Skills
+* Search
+* Share
+* Remix
+* Code
+* Protect
+* Open Practice
 
+#### 21st Century Skills
+* Creativity
+* Communication
+* Collaboration
 
-21st Century Skills
-Creativity
-Communication
-Collaboration
-
-Earning Digital Badges
+#### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-1. Sharing, Curation, and the Web
-Introduction/Discussion [10 mins]
-Start with offline activity and discussion
-Ask learners: 
-What’s the last thing you found on the web that you were really excited about? What made you laugh, or think differently, what inspired you?
-Where did you find these things? What sites did you use? 
-What’s the last thing you shared with others online? Where did you find it? What’s the last thing you shared offline? (i.e. cut out an article, shared a comic strip or recipe) Where did you find it?
-How did you share it - what did you do in order to share it? 
-When you shared this thing, how did you decide to share it? What did you consider when making that decision?
-Explain that, as discussed, the web is an amazing tool and space space for information sharing and discovery! 
-The way web pages can link to other pages allows content like songs, photos, videos or text uploaded and hosted on the web in one pace to re-appear over and over in lots of other places. 
-You can add a link on a new page that points to the original content, or you can pull the content directly into the page using some special tags called “embed” tags. 
-
-
-Photos, videos, songs, and text can also be saved and downloaded on client computers by any user.  A client computer is an individual computer that accesses the information and programs stored on a server.
-Lots of popular sites or web apps have a curation element to them: 
-Sites like Facebook, YouTube, Instagram,Twitter, and especially Pinterest allow users to curate their own content.
-Sites like BoingBoing, Laughing Squid, Brain Pickings have full-time editors who curate content from other parts of the web. Lots of blogs work this way, too.
-Sometimes editors gather content and add in-depth commentary or review that reveals a new idea or perspective (on a blog like Brain Pickings for example) sometimes they just share something without any comment or very brief comments (on sites like Pinterest)
-Whether you know it or not, if you use sites like Instagram, Twitter, or facebook, you are curating content! You may be using your own content, or it could be content (like videos, memes, gifs, articles) that you found somewhere else on the web. 
-
-Ownership, Copyright, and Sharing on the Web
-Facilitator explains that whenever we share something on the web, we are “publishing” that content-- releasing it out into the world. 
-On social media sites, we might be able to use settings to limit who sees this content (for example, groups of “friends” only)
-If we don’t have restrictions on sharing, or if we’re publishing to a web page that everyone has access to,  anyone can see our content.
-Tip! Understanding what can happen to your own info, photos, etc when it's on the web
-What is default permissions on your materials
-What do you agree to when you share on some sites? 
-Ask learners: 
-What are the advantages of this linked nature of the web? What do you like about it? 
-What don’t you like about it? What questions do you have about it? 
-What are positive ways that material you share on the web could be used by others? What are some negative ways?
-Explain: we’re going to do a curation activity today, where we select a set of songs to create our own playlists.  We’ll  use HTML to add these to a page on the web (either their own homepage, or using Thimble). 
-We’ll use the music sharing site Soundcloud 
+## Sharing, Curation, and the Web
+* Introduction/Discussion [10 mins]
+* Start with offline activity and discussion
+* Ask learners: What’s the last thing you found on the web that you were really excited about? What made you laugh, or think differently, what inspired you?
+* Where did you find these things? What sites did you use? 
+* What’s the last thing you shared with others online? Where did you find it? What’s the last thing you shared offline? (i.e. cut out an article, shared a comic strip or recipe) Where did you find it?
+* How did you share it - what did you do in order to share it? 
+* When you shared this thing, how did you decide to share it? What did you consider when making that decision?
+* Explain that, as discussed, the web is an amazing tool and space space for information sharing and discovery! 
+* The way web pages can link to other pages allows content like songs, photos, videos or text uploaded and hosted on the web in one pace to re-appear over and over in lots of other places. 
+* You can add a link on a new page that points to the original content, or you can pull the content directly into the page using some special tags called “embed” tags. 
+* Photos, videos, songs, and text can also be saved and downloaded on client computers by any user.  A client computer is an individual computer that accesses the information and programs stored on a server.
+* Lots of popular sites or web apps have a curation element to them: 
+    * Sites like Facebook, YouTube, Instagram,Twitter, and especially Pinterest allow users to curate their own content.
+    * Sites like BoingBoing, Laughing Squid, Brain Pickings have full-time editors who curate content from other parts of the web. Lots of blogs work this way, too.
+* Sometimes editors gather content and add in-depth commentary or review that reveals a new idea or perspective (on a blog like Brain Pickings for example) sometimes they just share something without any comment or very brief comments (on sites like Pinterest)
+* Whether you know it or not, if you use sites like Instagram, Twitter, or facebook, you are curating content! You may be using your own content, or it could be content (like videos, memes, gifs, articles) that you found somewhere else on the web. 
+* Ownership, Copyright, and Sharing on the Web
+* Facilitator explains that whenever we share something on the web, we are “publishing” that content-- releasing it out into the world. 
+* On social media sites, we might be able to use settings to limit who sees this content (for example, groups of “friends” only)
+* If we don’t have restrictions on sharing, or if we’re publishing to a web page that everyone has access to,  anyone can see our content.
+> Tip! Understanding what can happen to your own info, photos, etc when it's on the web.
+* What is default permissions on your materials?
+* What do you agree to when you share on some sites? 
+* Ask learners: 
+    * What are the advantages of this linked nature of the web? What do you like about it? 
+    * What don’t you like about it? What questions do you have about it? 
+    * What are positive ways that material you share on the web could be used by others? What are some negative ways?
+* Explain: we’re going to do a curation activity today, where we select a set of songs to create our own playlists.  We’ll  use HTML to add these to a page on the web (either their own homepage, or using Thimble). 
+* We’ll use the music sharing site Soundcloud. 
 
 2. Planning Your Playlist
 Discussion/Reflection [5-7 mins]
