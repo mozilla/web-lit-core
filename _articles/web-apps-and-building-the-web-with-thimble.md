@@ -10,15 +10,14 @@ toc:
 - "Make your pages"
 - "Wrap-up & Optional Discussion Topics"
 - "Learning Experience Reflection"
-
 ---
 
 # Web Apps & Building the Web with Thimble
 In this online activity, learners consider how they’d like to represent themselves on the web. They get a crash course in the Thimble web development tool and use what they’ve learned in the previous two activities on HTML and tagging to remix a template into their own personal homepage on the web. This lesson revisits the concepts of web hosting, domain names, and urls. 
 
 #### Learning Objectives
-* Explain the difference between different web applications
-* Create a web page using Thimble web application
+* Explain the difference between different web applications.
+* Create a web page using Thimble web application.
 
 #### Time Required
 45 minutes to 1 hour depending on group size
@@ -76,18 +75,18 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > Tip! It’s best if users sign in/create an account so they can publish pages. However, if users don’t feel comfortable creating an account, they can play around with writing or editing HTML in the editor, and seeing how the results change in the preview window. They will not be able to publish pages.
 * Go to the [Thimble Home page](https://thimble.mozilla.org/en-US/), and click “Start a Project From Scratch”. Explain to users that we’ve now left the Thimble home page and we’re using Thimble as a web application to do something-- to make HTML pages. We’re doing this in the browser, which is pretty cool!
 * Ask learners, what do you see-- how does this page look different from the Thimble home page? How is the page divided up? What is each section or window for? What’s the relationship between the sections? Let learners talk and come up with answers, but be sure they understand the following: 
-    * At the top left, there’s an area where you can type in and change the filename from “untitled project” to a filename that makes sense for the page you want to create page
+    * At the top left, there’s an area where you can type in and change the filename from “untitled project” to a filename that makes sense for the page you want to create page.
     * On the left, there’s a space called FILES where we see two file names. These are the two files that we can work on and edit for this project. Learners can switch between them by clicking on the names. If learners create new files, they’ll appear here. 
-    * In the middle there’s space called EDITOR, where we can see the HTML code, and we can edit it there, too
+    * In the middle there’s space called EDITOR, where we can see the HTML code, and we can edit it there, too.
     * On the right, there’s a space called “PREVIEW” -- when we edit code, we see how it will look in a browser-- and the changes will happen as we type!
 > Tip! This is a cool feature, so give users some small tasks to do-- for example, changing the size of the heading, or editing the word “amazing.” 
 * Note that changes or additions that don’t follow HTML rules won’t appear in preview-- learners check for problems in the editor, where the mistake or “bug” will be highlighted in red in the editor window.
-* Also note the address in the browser bar, at the top of the screen-- if you are not signed in, there should be a blackslash following the address “https://thimble.mozilla.org/en-US/” and then “anonymous” and a backslash + string of letters and numbers -- this is a placeholder location on Mozilla’s server where your Thimble session will be stored temporarily
-* If learners are signed in, the web address will be https://thimble.mozilla.org/en-US/ + / username + /some random short set of numbers.        * This is a location (a URL)  the web app has created to store this learner’s work on the project, it’s the Thimble view of the project. * * Learners can also find their projects clicking on the user name in the top right and selecting “My Projects”
+* Also note the address in the browser bar, at the top of the screen-- if you are not signed in, there should be a blackslash following the address “https://thimble.mozilla.org/en-US/” and then “anonymous” and a backslash + string of letters and numbers -- this is a placeholder location on Mozilla’s server where your Thimble session will be stored temporarily.
+* If learners are signed in, the web address will be https://thimble.mozilla.org/en-US/ + / username + /some random short set of numbers.        * This is a location (a URL)  the web app has created to store this learner’s work on the project, it’s the Thimble view of the project. * * Learners can also find their projects clicking on the user name in the top right and selecting “My Projects.”
 * On top right, there’s a PUBLISH button. If a learner is signed in to Thimble and presses this button, their page will be saved on Mozilla’s servers, and be accessible on the web. Thimble will provide them with a web address that’s different from the one for the Thimble view. This publishes the address of their page, LIVE on the Web! Anyone, anywhere on the web can view their page at this address. 
 > Tip! You may need to clarify for users that people visiting this address will see just the page itself, NOT the working Thimble view with the editor window and all the options. Test it out, and compare the published address vs. the address of the Thimble view.
 
-## Make your pages 
+## Make your Pages 
 [15-20 mins]
 * For this part of the activity, facilitators have several options for content for these pages.
 * Learners can select an existing project to remix-- Common Tags is a great one to start with. This is a good option if time to generate new content is tight.  https://thimbleprojects.org/mozillalearning/213458/
@@ -116,27 +115,27 @@ Digital badges collect evidence and are the demonstration of learned web literac
 ## Wrap-up & Optional Discussion Topics 
 [10 mins]
 * Choose one of the topics below to wrap up the activity:
-##### Sharing Code & Remixing with Thimble
+#### Sharing Code & Remixing with Thimble
 * If learners worked with their own stories, introduce them to remixable projects and the Tutorial tab, and let them explore and play for 5 or 10 minutes. If they remixed an existing project, have a discussion about that experience. Ask learners:
     * What’s it like to see other people’s code? What did you find that’s new, surprising? Do you see things you’d like to try?
     * What can you learn from using thimble to explore and remix projects? 
     * How would you feel about someone remixing your project?
 * Even if a page isn’t in Thimble, in lots of browsers you can peek at the source code… In FireFox, go to Tools > Web Developer > Page Source to see the code behind any page. If a page is a web app, the code is likely to be complex! If it’s a static page, it will be easier to read. 
-##### Pros and Cons of Thimble vs Composing Offline
-* Revisit/explore the difference between composing and publishing with Thimble OR creating pages with a text editor/browser and saving to a personal computer. Facilitator asks learners the differences; some might be: 
-    * With Thimble you’re on the web right away! The page is saved to Mozilla’s server. And you can see your changes as you type.
-    * With a text editor/browser, you’re working on your local machine, not on the web. You need to save your file and refresh the browser to see changes. 
-    * With editor/browser, you’d have to upload to a server to get your page online where others can access it.
-    * You need a web connection to get to Thimble
-    * You don’t even have to be online to build sites with your browser and basic text editor.
-    * Thimble is designed for learning code, not for publishing sites over the long term. 
-    * There are space limitations for how many files you can have on Thimble. And the web address... 
-* How is the web address (URL) of your Thimble page different from the web address of your favorite blog or website…. If you had a business, would this work for a web address? 
+#### Pros and Cons of Thimble vs Composing Offline
+Revisit/explore the difference between composing and publishing with Thimble OR creating pages with a text editor/browser and saving to a personal computer. Facilitator asks learners the differences; some might be: 
+* With Thimble you’re on the web right away! The page is saved to Mozilla’s server. And you can see your changes as you type.
+* With a text editor/browser, you’re working on your local machine, not on the web. You need to save your file and refresh the browser to see changes. 
+* With editor/browser, you’d have to upload to a server to get your page online where others can access it.
+* You need a web connection to get to Thimble.
+* You don’t even have to be online to build sites with your browser and basic text editor.
+* Thimble is designed for learning code, not for publishing sites over the long term. 
+* There are space limitations for how many files you can have on Thimble. And the web address... 
+    * How is the web address (URL) of your Thimble page different from the web address of your favorite blog or website…. If you had a business, would this work for a web address? 
 > Tip! Learners should understand that Thimble project addresses are generic; they don’t express the content of your project. They are hard to remember. To get the awesome web address they want for their page, learners would have to purchase a domain name (such as superpage.com or awesomepage.biz) and pay for web hosting-- server space where their pages can be accessed online.
 * Thimble is really a learning tool-- for testing and trying pages.
 * The text editor/browser combo is an easy way to start, and can take you far in building pages and sites
 * For more complex sites you might use an app designed specifically to build and host pages quickly-- check out the “Web Builder” activity.  
-##### The evolution of the web
+#### The Evolution of the Web
 * Explain: in the early days of the web, many pages were static. There was lots of information sharing, but not much interaction.
 * Show an example of the early web using the Internet Archive’s wayback machine: https://archive.org/web/ and search for apple site link.
 * Compare, for example, apple.com in 1996 with apple.com today (or find your own examples).
