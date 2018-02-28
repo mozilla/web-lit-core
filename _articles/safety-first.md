@@ -213,15 +213,15 @@ Digital badges collect evidence and are the demonstration of learned web literac
 
 ### Online Activity: Clearing Your Browsing History 
 [5 minutes]
-* Demo how to clear your browsing history on Google Chrome 
+* Demo how to clear your browsing history on Google Chrome
+    * history → 
+    * show full history →
+    * clear browsing data → 
+    * select the beginning of time and check: all the items you want to be cleared → 
+    * clear browsing data
 > Tip! Sub in any browser you’d like. Google Chrome was selected for this activity because it is the most commonly used. 
-> Tip! Ask for learners to watch your demo carefully before trying themselves.
-* history → 
-* show full history →
-* clear browsing data → 
-* select the beginning of time and check: all the items you want to be cleared → 
-* clear browsing data
 
+> Tip! Ask for learners to watch your demo carefully before trying themselves.
 * Point out that we can check the box for clearing cookies in the course of clearing our browsers. 
 * Tell your learners: Trackers can read your browsing history. To practice good privacy hygiene, it is important to regularly clear your browsing history. Try to make clearing your history a habit before logging off each day. 
 * Share with learners: In the case of Google, even when you're in Incognito Mode, your history and cookies will not be deleted until you close the browser completely. 
