@@ -126,21 +126,21 @@ Available to Adopt (yes/no):
 * Let’s see how this is done, for our pet site, on paper. First we need our 4 ingredients!
     * Content in the database
 * We’ll cut our sheets up, because we’re going to want to access pieces of data separately.
-# 2 IMAGEs
+![pet profiles](../images/petprofiles.JPG)
+![pet data cut up](../images/petdata.jpg)
 
 * Create an HTML template for the pet page. We’ll leave some blanks where the content will go.
 * See example:
-# 2 IMAGES
+![html page](../images/pethtml.JPG)
+
 
 * Create some very style rules (different for cats, dogs, lizards).
 * Background color of the page
-# 1 IMAGE
-
 * Font size and color
-# 1 IMAGE
+![stylesheet](../images/petcss.jpg)
 
 * Drop some code instructions into the HTML template to tell the computer how to put it all together. We’ll write these where the blue sticky notes are, where we want our data to go. It’s a bit like fill-in-the blank, or mad libs! 
-# 1 IMAGE
+![html with codeboxes](../images/pethtml-codebox.jpg)
 
 * If we were developers working on this web site on a computer, we’d do write this in programming language, but here we’ll just write basic instructions, called “pseudo-code.” It’s not the actual wording we’d need for an actual programming language,  but it expresses the intent of the instructions.
 * What are the instructions? Let’s write another algorithm. This can be whatever we want in terms of what content to add where, but here’s an example:
@@ -151,11 +151,11 @@ Available to Adopt (yes/no):
     * Put the image name in the img tag
     * Put the traits in the final paragraph
 * Write the instructions you came up with on the sticky notes
-# 1 IMAGE
+![add instructions](../images/html-code.jpg)
 
 * Now, be the code! 
 * Have a learner try assembling the page by following the sticky note instructions-- this is what the code does! 
-# 1 IMAGE
+![fill in the content](../images/codefill.jpg)
 * When a client’s browser requests this page for a particular pet (say, Pet #2) the server-side code will pull together the info from the database, assign the correct stylesheet, and send it all along to your browser. It makes the page on the fly! So a page for each pet doesn’t exist in a static way, but is made on-demand. 
 
 * This is what happens behind the scenes in any of the content management systems/ web builder platforms, like Wordpress or SquareSpace or Wix. 
