@@ -119,7 +119,9 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * Learners might notice that designers use color, size and placement to draw attention to buttons they want users to push, or a search bar, etc
 
 ![youtube page with ads](../images/youtube-ads.png)
-###.
+
+
+
 ![youtube page with playlist](../images/youtube-playlist.png)
 
 
