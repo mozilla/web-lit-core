@@ -131,7 +131,7 @@ Available to Adopt (yes/no):
 
 * Create an HTML template for the pet page. We’ll leave some blanks where the content will go.
 * See example:
-![html page](../images/pethtml.JPG)
+![html page](../images/pethtml.jpg)
 
 
 * Create some very style rules (different for cats, dogs, lizards).
