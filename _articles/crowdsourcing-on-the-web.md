@@ -125,4 +125,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * How many other people have contributed?
     * How do you feel about your contribution? 
 
-## 
+## Learning Experience Reflection 
+[5 mins]
+* What did you like about this activity?
+* If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience?
+
