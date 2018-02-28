@@ -4,11 +4,11 @@ title: "Project Playlist"
 toc:
 - "Description"
 - "Earning Digital Badges"
-- "Introduction"
-- "Discussion: Pixels"
-- "Discussion: Screens, Bitmaps, and Resolution"
-- "Offline Activity: Analog Pixel Art"
-- "Online Activity: Digital Pixel Art"
+- "Sharing, Curation, and the Web"
+- "Planning Your Playlist"
+- "Search Soundcloud"
+- "Create Your Playlist Page"
+- "Wrap-Up and Reflection"
 - "Learning Experience Reflection"
 ---
 
@@ -92,7 +92,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > * WHO is this playlist for? What audience do they want to reach, and what should they know about each song our soundfile?
 > Tip! Explain to learners that as part of this activity, they will write short commentary about each song or sound-- just a line or two is fine, to explain what’s important about the song or sound, why they picked it. 
 
-## Search Soundcloud! 
+## Search Soundcloud 
 [20 mins]
 * To introduce learners to the platform, the facilitator should open a browser window and navigate to Soundcloud to give everyone a sense of how the interface works. This will work best if you have a projector and screen handy, so everyone can see. Spend about 3-5 minutes here. 
 * There are a variety of possible search terms:
@@ -103,7 +103,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Search! Ask learners to bookmark selected songs or copy and paste the URLs - or Web addresses - into another document so they can get back to them easily.  Demonstrate how to bookmark. 
 * Ask learners to write their song descriptions along with the links. Suggest that learners use a simple text editor and provide a demo. * Also remind learners to include attributions, and discuss the importance of citing creators. 
 
-## Create Your Playlist page! 
+## Create Your Playlist Page 
 [15 mins]
 * For this part of the activity, users need a web page. They can: 1) use the basic pages created in Building Basic Pages (even though these pages are not hosted on a server, as long as the computer is connected to the internet, the embed code will work 2) use Thimble or another Integrated Development Environment. The code will work the same way, and of course these pages created using an IDE are hosted as part of the platform. 
 > Tip! If using option 1, remind learners again that their pages are only on the client computer, and not yet hosted on the internet. In either case, the following template is suggested as a starting point. Learners can integrate their commentary about each selection into the playlist itself. 
