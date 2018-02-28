@@ -32,10 +32,13 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * A computer/projector set up and internet connection
 * A whiteboard, chalkboard, or flip chart pad for writing notes that the whole group can see
 * highlighters, pen or pencil
+* Create worksheets (content below) as needed
 * Sticky notes
 
 #### Web Literacy Skills
 * Protect
+* Search
+* Navigate
 * Open Practice
 
 #### 21st Century Skills
