@@ -1,13 +1,12 @@
-
 ---
 layout: page
-title: "Web Apps and Building the Web with Thimble"
+title: "Web Apps & Building the Web with Thimble"
 toc:
 - "Description"
 - "Earning Digital Badges"
 - "Introduction/discussion: What are web applications?"
 - "Meet Thimble, Take A Tour "
-- "Make your pages"
+- "Make your Pages"
 - "Wrap-up & Optional Discussion Topics"
 - "Learning Experience Reflection"
 ---
@@ -115,13 +114,13 @@ Digital badges collect evidence and are the demonstration of learned web literac
 ## Wrap-up & Optional Discussion Topics 
 [10 mins]
 * Choose one of the topics below to wrap up the activity:
-* #### Sharing Code & Remixing with Thimble
+#### Sharing Code & Remixing with Thimble
 * If learners worked with their own stories, introduce them to remixable projects and the Tutorial tab, and let them explore and play for 5 or 10 minutes. If they remixed an existing project, have a discussion about that experience. Ask learners:
     * What’s it like to see other people’s code? What did you find that’s new, surprising? Do you see things you’d like to try?
     * What can you learn from using thimble to explore and remix projects? 
     * How would you feel about someone remixing your project?
 * Even if a page isn’t in Thimble, in lots of browsers you can peek at the source code… In FireFox, go to Tools > Web Developer > Page Source to see the code behind any page. If a page is a web app, the code is likely to be complex! If it’s a static page, it will be easier to read. 
-* #### Pros and Cons of Thimble vs Composing Offline
+#### Pros and Cons of Thimble vs Composing Offline
 Revisit/explore the difference between composing and publishing with Thimble OR creating pages with a text editor/browser and saving to a personal computer. Facilitator asks learners the differences; some might be: 
 * With Thimble you’re on the web right away! The page is saved to Mozilla’s server. And you can see your changes as you type.
 * With a text editor/browser, you’re working on your local machine, not on the web. You need to save your file and refresh the browser to see changes. 
@@ -135,7 +134,7 @@ Revisit/explore the difference between composing and publishing with Thimble OR 
 * Thimble is really a learning tool-- for testing and trying pages.
 * The text editor/browser combo is an easy way to start, and can take you far in building pages and sites
 * For more complex sites you might use an app designed specifically to build and host pages quickly-- check out the “Web Builder” activity.  
-* #### The Evolution of the Web
+#### The Evolution of the Web
 * Explain: in the early days of the web, many pages were static. There was lots of information sharing, but not much interaction.
 * Show an example of the early web using the Internet Archive’s wayback machine: https://archive.org/web/ and search for apple site link.
 * Compare, for example, apple.com in 1996 with apple.com today (or find your own examples).
