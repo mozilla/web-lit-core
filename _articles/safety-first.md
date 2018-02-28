@@ -5,9 +5,10 @@ toc:
 - "Description"
 - "Earning Digital Badges"
 - "Introduction"
-- "Content Generation/Storytelling"
-- "Get Tagging!"
-- "Go Online!"
+- "Part 1: Defining Privacy"
+- "Part 2: Your Privacy Checklist"
+- "Putting It All Together: Hacker Cards"
+- "Wrap-Up and Reflection"
 - "Learning Experience Reflection"
 ---
 
@@ -68,7 +69,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
     
 ## Part 1: Defining Privacy 
 [45 min - 1 hour]
-* Offline Activity: Data Trails Timeline [20 minutes]
+### Offline Activity: Data Trails Timeline 
+[20 minutes]
 * Share with your learners that, in our next activity, we’re going to do a quick recap of their day so far today. 
 * Ask learners to think through all the things they did, from waking up to making it here to this session. 
 > Tip! If this activity is taking place in the morning, it may be more fruitful to ask learners to reflect on the previous day. 
@@ -268,7 +270,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > * San Jose Public Library Virtual Privacy Lab https://www.sjpl.org/privacy
 > * Lebanon Public Library https://www.leblibrary.com/online-self-defense
 
-## Putting It All Together -- Activity: Hacker Cards 
+## Putting It All Together: Hacker Cards 
 [10 minutes]
 * Now let’s put our knowledge to the test!
 * Give this Privacy Card Game: https://thimbleprojects.org/mozillalearning/308795/
