@@ -101,7 +101,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > * Social Media.
 >    * All those +1s, Retweets, and Facebook comments (even private ones) leave a record. Make sure you know what the default privacy settings are for your social media accounts, and keep an eye on them. Sites often introduce new policies and settings that increase the visibility of your data. They may rely on you just clicking “OK” to whatever terms they are introducing, without reading them.
 > * Mobile Phones, Tablets, or Laptops.
-    * Some websites will build a list of different devices you have used to visit those sites. While this can often be used as a way to help secure your account, it is important to understand the information being collected about your habits.
+>    * Some websites will build a list of different devices you have used to visit those sites. While this can often be used as a way to help secure your account, it is important to understand the information being collected about your habits.
 * Discussion: Ask learners:
     * Did the number of tasks for which you relied on technology surprise you?
     * Who do you think might be noticing your online habits? 
