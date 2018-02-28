@@ -153,179 +153,131 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Break your learners into groups of 6 or so.
 * Provide your learners with “biographies” (see below) of various third party tracking devices.
 
-Analytics Tracking: I work for the website owner to see how many people are visiting the site (visits and unique visitors; new and returning), or where they're coming from. I help a website owner understand a customer's website experience. I'm a persistent, usually first party, cookie that is set the first time when you visit the website, and I remain there for the duration that the website determines, often 18 months.
-Session Management Tracking: I'm a cookie that is needed to make the website function technically. I'm set when you visit the site and I disappear when you leave. I'm a transient cookie, stored on the client side in temporary memory and not on your hard drive. I'm happy to date, but am not looking for a long-term relationship and I won't invade your privacy.
-Ecommerce Tracking: I'm used for shopping cart management and "quick checkout" options when you buy something on your favorite website. My cookies store ID values that help the website keep track of you as you add different things to your cart. Everything you add to your cart gets stored with your ID value, so that when you check out, the website knows what is in your cart. I can be a session cookie that disappears when you leave, or a persistent cookie that keeps your shopping cart items for you when you return later. Without me, online shopping would be far less convenient.
-Location Tracking: I'm the spy in your pocket. I'm on your computers, mobile phones, and tablets. Since I often go with you, I can record your location all the time, even when you're not connected to the Internet. I can can reveal not just where you live and work, but also where you visit. I can make your daily routine and any deviations from it clear. I can also be used to infer your relationships to other people.
-Third Party Tracking: I get stored on your device when you visit a website. You often won't know I'm there. The website decides how many of my friends are invited. I often have a lot of friends. There may be 60 of us or more on one page. But I'm sometimes seen alone or not seen at all. I like to track your browsing habits and tell others. I guess you could say I'm a bit of a gossip. One of my jobs is to work for companies who want to build up a profile of who you are: how old you are, where you live, what you read, and what you're interested in. The companies I work for can package and sell this information to thers: advertisers, other companies, or governments. I'm often hidden, but when I work for well known companies, you can see me as a brightly colored button.
-Browser Fingerprinting: I started out in banking to help prevent fraud, but now I work in lots of areas. My friends tell me things about you, like your IP address, browser history, screen size, time-zone, plug-ins, and operating system. I pull together information that alone doesn't seem identifying, but because I put all these things together, I can identify you across the Internet and can be used as an alternative to cookies. The more uniquely your system is configured, the easier it for me to identify you. Don't believe me? Try Panopticlick . EFF has been measuring me since 2010.
-
-
-
-Ask your learners to take a little time to read the biography they were given. Share with your learners that they should adopt the “personality” of the tracker listed on their card. Once the activity begins, they will have two minutes to learn meet and get to know the others in the room.
-Set a timer to 2 minute intervals. Start the timer and ask everyone to find a partner. 
-Tip! If there are an odd number of participants, let learners know that one group of three at a time is perfectly acceptable. 
-Tell your learners that they have two minutes to introduce themselves to each other and ask each other any of the short questions below. After the two minutes is up ask them to find another person and do the same thing. Keep going until everyone has had a chance to meet each other.
-
-
-What do you do?
-What are your friends like?
-How do we connect?
-How old are you?
-Where are you from?
-
-After ten minutes, call your learners back to their seats. 
-Have a discussion with your learners: 
-What surprised you the most when it comes to these online trackers?
-When learning about a new type of tracker, could you see who might be benefitting from the information that is being picked up about your browsing habits?
-Are you concerned about the type of information that is being shared about you? Why or why not?
-Now that we’ve identified the problems, let’s talk solutions!
-Part 2: Your Privacy Checklist [45 min-1 hour]
-
-5. Online Activity: Changing Your Privacy Settings [20 minutes]
-Tell learners: your browser is your portal to the internet. It’s where your steps to address your personal privacy begin. We’re going to take some steps today to clear up our browser settings. 
-Say to learners: By show of hands, please share which browser you use. We will be getting into groups according to the browsers we commonly use to see what we can do today to make them more secure. Tip! This list assumes learners are able to bring their own device. This activity can be remixed for settings in which all participants are using a common browser. 
-Google Chrome
-Mozilla Firefox
-Microsoft Internet Explorer
-Apple Safari
-Now let’s break into groups to work on our browser settings. 
-Tip! Point to areas of the room where your groups should sit. 
-Direct learners to online resources based on their groups:
-Google Chrome: https://myshadow.org/how-to-increase-your-privacy-on-chrome
-Mozilla Firefox: https://myshadow.org/how-to-increase-your-privacy-on-firefox
-Microsoft Internet Explorer: https://support.microsoft.com/en-us/help/17479/windows-internet-explorer-11-change-security-privacy-settings
-Apple Safari: https://support.apple.com/guide/safari/privacy-preferences-sfri35610/mac
-Provide each group with a Browser Privacy Checklist. Reminder users that, while they may see additional security tips on the web pages they have been assigned, they should plan to working on the worksheet only at this time, as we will be going through other steps as a group. Tip! Review and remix this worksheet, as settings are apt to change. Tip! Remix this worksheet to reflect settings in which everyone is using the same browser by removing the second column and adjusting tasks so that they suit the browser in question.
-
-Browser Privacy Checklist
-Use this checklist to guide you through the process of updating the privacy settings in your browser! 
-
-Task
-Is this task supported by your browser (y/n) 
-Steps needed to complete this task 
-Task complete
-Do Not Track
-
-
-
-
-
-
-Private browsing mode / Incognito mode
-
-
-
-
-
-
-Location settings
-
-
-
-
-
-
-Prevent third party tracking
-
-
-
-
-
-
-Block cookies
-
-
-
-
-
-
-Pop-up blocker
-
-
-
-
-
-
-
-
-
-
-
-Discussion: After 15 minutes, bring learners together to discuss.
-How did you find the process of adjusting your browser settings?
-Were the instructions you saw online easy to follow? 
-Were the settings easy to find on your browser?
-
-6. Online Activity: Clearing Your Browsing History [5 minutes]
-Demo how to clear your browsing history on Google Chrome Tip! Sub in any browser you’d like. Google Chrome was selected for this activity because it is the most commonly used. Tip! Ask for learners to watch your demo carefully before trying themselves.
-
-    history → 
-    show full history →
-clear browsing data → 
-select the beginning of time and check: all the items you want to be cleared → 
-clear browsing data
-
-Point out that we can check the box for clearing cookies in the course of clearing our browsers. 
-Tell your learners: Trackers can read your browsing history. To practice good privacy hygiene, it is important to regularly clear your browsing history. Try to make clearing your history a habit before logging off each day. 
-Share with learners: In the case of Google, even when you're in Incognito Mode, your history and cookies will not be deleted until you close the browser completely. 
-
-Ask learners to give it a shot! Tip! Demo the process a few times while learners are practicing. 
-
-7. Online Activity: Browser Extensions [10 minutes]
-
-Explain to learners that there is a growing world of browser extensions that combat trackers. Today we’re going to explore one of them: Privacy Badger. 
-Share with learners that Privacy Badger is available only to Google Chrome and Mozilla Firefox.  Ask learners to open either of those two browsers. 
-Go to the webpage for Privacy Badger: https://www.eff.org/privacybadger
-Tell your learners: Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from tracking where you go and what pages you look at on the web. If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser. To the advertiser, it's like you suddenly disappeared.
-Demonstrate to your users how to click the “install button” to install Privacy Badger. Tip! Make sure your computer does not already have Privacy Badger installed by removing it from Chrome before this activity.
-Ask learners to review the Privacy Badger intro slides with you. Review what the different colored sliders mean. Navigate to a few community-appropriate sites to get Privacy Badger going, then check back to see what trackers have been blocked.
-Demonstrate how Privacy Badger’s icon changes colors as it works to block trackers. 
-Ask users to add the Privacy Badger Extension, navigate to a few pages, and try it out for themselves!
-
-8. Offline Activity: Creating Strong Passwords [15 minutes]
-
-
-
-
-Share the above xkcd comic strip with your learners. Share that what makes a password easily guessable by machines (and hard to remember for humans!) is the selection of common words, even if you are substituting numbers for letter.
-Encourage your learners to try this passphrase generator. Let learners know they can also do this offline by selecting four random common words from the dictionary and putting them together. 
-Discuss what you can do to make sure the words are really random. For example, one could try noun, verb, adjective, noun.
-Tip! If you can make a pair of dice hand, give Diceware a try. Their word list includes 8,000 English words, preceded by 5 digit numbers. How it works: roll a pair of dice 5 times and add the corresponding word to your passphrase. Repeat several more times to add more words and make your password less crackable.
-Have a discussion with your learners. 
-Which passphrases are easier to remember? Why?
-Which might be easier to guess? Why?
-What other tips might you have about protecting your online accounts? 
-Enabling 2-factor identification
-Using password managers
-Be sure to use different passcodes for each and every account
-Tip! There are lots of privacy tips to share. Create a handout with helpful resources, or tips and tricks. Here are a few sources you might look to:
-Data Privacy Project: https://dataprivacyproject.org/curriculum/
-Glassroom: https://theglassroom.org/
-Tactical Tech
-Me and My Shadow 8-Day Detox
-Security in a Box
-Electronic  Foundation 
-Security Education Companion
-Street Level Surveillance
-Providence Public Library 
-Privacy Training Workshop for Library Patrons
-Internet Society Your Digital Footprint Matters
-Our Data Bodies https://www.odbproject.org/
-Library Freedom Project: https://libraryfreedomproject.org/
-San Jose Public Library Virtual Privacy Lab https://www.sjpl.org/privacy
-Lebanon Public Library https://www.leblibrary.com/online-self-defense
-
-9. Putting It All Together -- Activity: Hacker Cards [10 minutes]
-Now let’s put our knowledge to the test!
-Give this Privacy Card Game: https://thimbleprojects.org/mozillalearning/308795/
-Tell your learners they may encounter a concept we haven’t covered in class. If they come across a card they’d like to discuss, ask them to raise their hand. Tip! If you’d prefer to accumulate questions for group discussion at the end of this activity, ask your users to jot their questions down. 
-
-10. Wrap-Up and Reflection
-Ask learners: What do you learn did you did not know before? What surprised you?
-
-11. Learning Experience Reflection
-What did you like about this activity?
-If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
+    * Analytics Tracking: I work for the website owner to see how many people are visiting the site (visits and unique visitors; new and returning), or where they're coming from. I help a website owner understand a customer's website experience. I'm a persistent, usually first party, cookie that is set the first time when you visit the website, and I remain there for the duration that the website determines, often 18 months.
+    * Session Management Tracking: I'm a cookie that is needed to make the website function technically. I'm set when you visit the site and I disappear when you leave. I'm a transient cookie, stored on the client side in temporary memory and not on your hard drive. I'm happy to date, but am not looking for a long-term relationship and I won't invade your privacy.
+    * Ecommerce Tracking: I'm used for shopping cart management and "quick checkout" options when you buy something on your favorite website. My cookies store ID values that help the website keep track of you as you add different things to your cart. Everything you add to your cart gets stored with your ID value, so that when you check out, the website knows what is in your cart. I can be a session cookie that disappears when you leave, or a persistent cookie that keeps your shopping cart items for you when you return later. Without me, online shopping would be far less convenient.
+    * Location Tracking: I'm the spy in your pocket. I'm on your computers, mobile phones, and tablets. Since I often go with you, I can record your location all the time, even when you're not connected to the Internet. I can can reveal not just where you live and work, but also where you visit. I can make your daily routine and any deviations from it clear. I can also be used to infer your relationships to other people.
+    * Third Party Tracking: I get stored on your device when you visit a website. You often won't know I'm there. The website decides how many of my friends are invited. I often have a lot of friends. There may be 60 of us or more on one page. But I'm sometimes seen alone or not seen at all. I like to track your browsing habits and tell others. I guess you could say I'm a bit of a gossip. One of my jobs is to work for companies who want to build up a profile of who you are: how old you are, where you live, what you read, and what you're interested in. The companies I work for can package and sell this information to thers: advertisers, other companies, or governments. I'm often hidden, but when I work for well known companies, you can see me as a brightly colored button.
+    * Browser Fingerprinting: I started out in banking to help prevent fraud, but now I work in lots of areas. My friends tell me things about you, like your IP address, browser history, screen size, time-zone, plug-ins, and operating system. I pull together information that alone doesn't seem identifying, but because I put all these things together, I can identify you across the Internet and can be used as an alternative to cookies. The more uniquely your system is configured, the easier it for me to identify you. Don't believe me? Try Panopticlick . EFF has been measuring me since 2010.
+* Ask your learners to take a little time to read the biography they were given. Share with your learners that they should adopt the “personality” of the tracker listed on their card. Once the activity begins, they will have two minutes to learn meet and get to know the others in the room.
+* Set a timer to 2 minute intervals. Start the timer and ask everyone to find a partner. 
+> Tip! If there are an odd number of participants, let learners know that one group of three at a time is perfectly acceptable. 
+* Tell your learners that they have two minutes to introduce themselves to each other and ask each other any of the short questions below. After the two minutes is up ask them to find another person and do the same thing. Keep going until everyone has had a chance to meet each other.
+    * What do you do?
+    * What are your friends like?
+    * How do we connect?
+    * How old are you?
+    * Where are you from?
+* After ten minutes, call your learners back to the big group. 
+* Have a discussion with your learners: 
+    * What surprised you the most when it comes to these online trackers?
+    * When learning about a new type of tracker, could you see who might be benefitting from the information that is being picked up about your browsing habits?
+    * Are you concerned about the type of information that is being shared about you? Why or why not?
+    * Now that we’ve identified the problems, let’s talk solutions!
+
+## Part 2: Your Privacy Checklist 
+[45 min-1 hour]
+* Online Activity: Changing Your Privacy Settings [20 minutes]
+* Tell learners: your browser is your portal to the internet. It’s where your steps to address your personal privacy begin. We’re going to take some steps today to clear up our browser settings. 
+* Say to learners: By show of hands, please share which browser you use. We will be getting into groups according to the browsers we commonly use to see what we can do today to make them more secure. 
+> Tip! This list assumes learners are able to bring their own device. This activity can be remixed for settings in which all participants are using a common browser. 
+> * Google Chrome
+> * Mozilla Firefox
+> * Microsoft Internet Explorer
+> * Apple Safari
+* Now let’s break into groups to work on our browser settings. 
+> Tip! Point to areas of the room where your groups should sit. 
+* Direct learners to online resources based on their groups:
+    * Google Chrome: https://myshadow.org/how-to-increase-your-privacy-on-chrome
+    * Mozilla Firefox: https://myshadow.org/how-to-increase-your-privacy-on-firefox
+    * Microsoft Internet Explorer: https://support.microsoft.com/en-us/help/17479/windows-internet-explorer-11-change-security-privacy-settings
+    * Apple Safari: https://support.apple.com/guide/safari/privacy-preferences-sfri35610/mac
+* Provide each group with the below Browser Privacy Checklist. Reminder users that, while they may see additional security tips on the web pages they have been assigned, they should plan to working on the worksheet only at this time, as we will be going through other steps as a group. 
+> Tip! Review and remix this worksheet, as settings are apt to change. 
+> Tip! Remix this worksheet to reflect settings in which everyone is using the same browser by removing the second column and adjusting tasks so that they suit the browser in question.
+* Browser Privacy Checklist
+* Use this checklist to guide you through the process of updating the privacy settings in your browser! 
+   
+# 1 IMAGE
+
+* Discussion: After 15 minutes, bring learners together to discuss.
+    * How did you find the process of adjusting your browser settings?
+    * Were the instructions you saw online easy to follow? 
+    * Were the settings easy to find on your browser?
+
+## Online Activity: Clearing Your Browsing History 
+[5 minutes]
+* Demo how to clear your browsing history on Google Chrome 
+> Tip! Sub in any browser you’d like. Google Chrome was selected for this activity because it is the most commonly used. 
+> Tip! Ask for learners to watch your demo carefully before trying themselves.
+* history → 
+* show full history →
+* clear browsing data → 
+* select the beginning of time and check: all the items you want to be cleared → 
+* clear browsing data
+
+* Point out that we can check the box for clearing cookies in the course of clearing our browsers. 
+* Tell your learners: Trackers can read your browsing history. To practice good privacy hygiene, it is important to regularly clear your browsing history. Try to make clearing your history a habit before logging off each day. 
+* Share with learners: In the case of Google, even when you're in Incognito Mode, your history and cookies will not be deleted until you close the browser completely. 
+* Ask learners to give it a shot! 
+> Tip! Demo the process a few times while learners are practicing. 
+
+## Online Activity: Browser Extensions 
+[10 minutes]
+* Explain to learners that there is a growing world of browser extensions that combat trackers. Today we’re going to explore one of them: Privacy Badger. 
+* Share with learners that Privacy Badger is available only to Google Chrome and Mozilla Firefox.  Ask learners to open either of those two browsers. 
+* Go to the webpage for Privacy Badger: https://www.eff.org/privacybadger
+* Tell your learners: Privacy Badger is a browser add-on that stops advertisers and other third-party trackers from tracking where you go and what pages you look at on the web. If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser. To the advertiser, it's like you suddenly disappeared.
+* Demonstrate to your users how to click the “install button” to install Privacy Badger. 
+> Tip! Make sure your computer does not already have Privacy Badger installed by removing it from Chrome before this activity.
+* Ask learners to review the Privacy Badger intro slides with you. Review what the different colored sliders mean. Navigate to a few community-appropriate sites to get Privacy Badger going, then check back to see what trackers have been blocked.
+* Demonstrate how Privacy Badger’s icon changes colors as it works to block trackers. 
+* Ask users to add the Privacy Badger Extension, navigate to a few pages, and try it out for themselves!
+
+## Offline Activity: Creating Strong Passwords 
+[15 minutes]
+
+# 1 IMAGE
+
+* Share the above xkcd comic strip with your learners. Share that what makes a password easily guessable by machines (and hard to remember for humans!) is the selection of common words, even if you are substituting numbers for letter.
+* Encourage your learners to try this passphrase generator. Let learners know they can also do this offline by selecting four random common words from the dictionary and putting them together. 
+* Discuss what you can do to make sure the words are really random. For example, one could try noun, verb, adjective, noun.
+> Tip! If you can make a pair of dice hand, give Diceware a try. Their word list includes 8,000 English words, preceded by 5 digit numbers. How it works: roll a pair of dice 5 times and add the corresponding word to your passphrase. Repeat several more times to add more words and make your password less crackable.
+* Have a discussion with your learners. 
+    * Which passphrases are easier to remember? Why?
+    * Which might be easier to guess? Why?
+    * What other tips might you have about protecting your online accounts? 
+        * Enabling 2-factor identification
+        * Using password managers
+* Be sure to use different passcodes for each and every account.
+> Tip! There are lots of privacy tips to share. Create a handout with helpful resources, or tips and tricks. Here are a few sources you might look to:
+> * Data Privacy Project: https://dataprivacyproject.org/curriculum/
+> * Glassroom: https://theglassroom.org/
+> * Me and My Shadow 8-Day Detox https://myshadow.org/
+> * Security in a Box https://tacticaltech.org/projects/security-in-a-box-key-project/
+> * Security Education Companion https://www.eff.org/deeplinks/2017/11/announcing-security-education-companion
+> * Street Level Surveillance https://www.eff.org/issues/street-level-surveillance
+> * Providence Public Library, Privacy Training Workshop for Library Patrons https://docs.google.com/presentation/d/1mkGJCHTYKyg2r2yQclRBvp23IfewRHZTMu8j2P0xDdg/edit?usp=sharing
+> * Internet Society Your Digital Footprint Matters https://www.internetsociety.org/tutorials/your-digital-footprint-matters/
+> * Our Data Bodies https://www.odbproject.org/
+> * Library Freedom Project: https://libraryfreedomproject.org/
+> * San Jose Public Library Virtual Privacy Lab https://www.sjpl.org/privacy
+> * Lebanon Public Library https://www.leblibrary.com/online-self-defense
+
+## Putting It All Together -- Activity: Hacker Cards 
+[10 minutes]
+* Now let’s put our knowledge to the test!
+* Give this Privacy Card Game: https://thimbleprojects.org/mozillalearning/308795/
+* Tell your learners they may encounter a concept we haven’t covered in class. If they come across a card they’d like to discuss, ask them to raise their hand. 
+> Tip! If you’d prefer to accumulate questions for group discussion at the end of this activity, ask your users to jot their questions down. 
+
+## Wrap-Up and Reflection
+[5 mins]
+* Ask learners: What do you learn did you did not know before? What surprised you?
+
+## Learning Experience Reflection
+[5 mins]
+* What did you like about this activity?
+* If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 
