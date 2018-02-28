@@ -17,9 +17,9 @@ toc:
 In this combo offline/online activity, learners explore how some digital images are made of pixels, and how those images are structured and displayed. They discuss what they’d most like to communicate online, and create their own, novel visual communication tool to do it: a pixel art image or web sticker. They create web stickers in analog form first, and then recreated them with digital tools. Learners add their stickers to their own sites (if they’ve created sites in WRITE activities), or try sending them via email or posting them on social media. 
 
 ## Learning Objectives
-* Define the term ‘pixel’ 
-* Explain how bitmaps determine screen resolution
-* Create pixel images online and offline
+* Define the term ‘pixel.’ 
+* Explain how bitmaps determine screen resolution.
+* Create pixel images online and offline.
 
 ## Time Required
 45 minutes to 1 hour depending on group size
@@ -53,7 +53,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 
 ## Introduction 
 [1 min]
-Explain: We’re going to talk about how computers create and store images using lots of tiny bits of color, and how we use those images to communicate online. And we’re going to create some very simple images of our own, both in analog and digital form. 
+* Explain: We’re going to talk about how computers create and store images using lots of tiny bits of color, and how we use those images to communicate online. And we’re going to create some very simple images of our own, both in analog and digital form. 
 
 ## Discussion: Pixels 
 [5-10 mins]
