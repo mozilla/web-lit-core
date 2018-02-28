@@ -63,13 +63,11 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Creating images with lots of tiny elements is not a new idea! Let’s look at and talk about some examples. 
 * Ask learners: what are similarities and differences in the following images? What’s the smallest element that makes up each image? *(could mention artist George Seurat’s blending of colors and layering of brush strokes, Chuck Close uses brush strokes but within a grid of sorts; the video game Space Invaders has no blending and layering, and you can see a strong grid)* 
 
-# IMAGES
-
-
-
-
-
-
+![George Seurat painting](../images/seurat.png)
+![George Seurat detail](../images/monkey.png)
+![Chuck Close Example](../images/close.png)
+![space invaders](../images/space-invaders.jpg)
+![space invaders detail](../images/invaders2.png)
 
 
 ## Discussion: Screens, Bitmaps, and Resolution
@@ -88,7 +86,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * This is true of digital photographs as well as digital artworks or images - like logos or illustrations - created from scratch.
 * Here’s an example, a image of a hedgehog, and a close up of the pixels that makes up the eye:
 
-# IMAGES
+![hedgie](../images/hedge.png)
+![eye](../images/eye.png)
 
 * Like a display screen, an image also has resolution-- the total number of pixels in the entire image. 
 * We calculate the resolution of an image by multiplying the width and the height of the bitmap
@@ -100,7 +99,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Briefly discuss visual communication online:  Are there ways that they already use images to communicate with others online?  (answers here might be: Facebook like button, emojis, avatars, etc)  What are examples? How and what do these images say? Is there something that you’ve been wanting to communicate that no image exists yet?  What might that be? What kinds of communication would you like to see more or less of online?
 * Explain the activity constraints: because we don’t have all day, we’ll probably use a smaller bitmap to create a low-resolution image-- something without too many pixels. Here’s a familiar example: 
 
-# IMAGE
+![mario](..images/mario.png)
 
 
 * To prepare, you may can assign different bitmap sizes to different groups, or invite groups to select the size-- do they want to work with 5x5 grid? A 10x10 grid? A 25 x 25 grid?  
