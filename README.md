@@ -13,13 +13,18 @@ Developing this core curriculum has truly been a community effort involving staf
 #### Spread, Grow, and Improve the Curriculum
 We need your help to spread the word on why it's important for people in their everyday lives to have these core skills. Please let us know who, how, when, and where you use and remix this curriculum, and what you learn. 
 
+[Fork](https://help.github.com/articles/fork-a-repo/a repo)this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
+
+First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
+
 We also need your help with the following:
 * resolving issues
 * translating into different languages
 * remixing for different audiences
 * continually improving the curriculum  
 
-Add to this GitHub! 
+#### Participation Guidelines
+This project adheres to a code of conduct. By participating, you are expected to uphold this code. 
 
 #### Share your Remixes
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
@@ -27,3 +32,5 @@ For anyone remixing and creating own custom version of the curriculum, we encour
 #### Earning Digital Badges
 Digitalme through their Open Badges Academy is offering digital badges for the web literacy skills.  If you are interested in earning or having your learners earn badges, see https://www.openbadgeacademy.com/mozilladirectory.  To help you with assessment of badges, we created these [guidelines](https://docs.google.com/document/d/19QAgcMiVkkAILcT8PZwohrC5A5Y-eUxEw6FUmsp7zRM/edit) to help organizations and programs that are implementing badging systems and systems for assessing their badges. 
 
+#### Maintainers
+This repository is currently maintained by @anmechung and @zee-moz. 
