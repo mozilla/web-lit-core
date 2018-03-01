@@ -45,7 +45,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
 ### Sharing, Curation, and the Web
-#### * Introduction/Discussion [10 mins]
+#### Introduction/Discussion [10 mins]
 * Start with offline activity and discussion
 * Ask learners: What’s the last thing you found on the web that you were really excited about? What made you laugh, or think differently, what inspired you?
 * Where did you find these things? What sites did you use? 
