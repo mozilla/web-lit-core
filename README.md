@@ -11,7 +11,7 @@ Developing this core curriculum has truly been a community effort involving staf
 * Other web literacy activities are here: https://learning.mozilla.org/en-US/activities
 
 #### Spread, Grow, and Improve the Curriculum
-We need your help to spread the word on why it's important for people in their everyday lives to have these core skills. Please let us know who, how, when, and where you use and remix this curriculum, and what you learn. 
+We need your help to spread the word on why it's important for people in their everyday lives to have these core skills. Please let us know who, how, when, and where you use and remix this curriculum, and what you learn. https://github.com/mozilla/web-lit-core/blob/gh-pages/spreading-curriculum.md
 
 [Fork](https://help.github.com/articles/fork-a-repo/) this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
 
