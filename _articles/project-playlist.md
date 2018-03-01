@@ -107,7 +107,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 [15 mins]
 * For this part of the activity, users need a web page. They can: 1) use the basic pages created in Building Basic Pages (even though these pages are not hosted on a server, as long as the computer is connected to the internet, the embed code will work 2) use Thimble or another Integrated Development Environment. The code will work the same way, and of course these pages created using an IDE are hosted as part of the platform. 
 > Tip! If using option 1, remind learners again that their pages are only on the client computer, and not yet hosted on the internet. In either case, the following template is suggested as a starting point. Learners can integrate their commentary about each selection into the playlist itself. 
-# IMAGE
+ 
+![code](../images/code1.png)
 
 * Explain that, as discussed in the intro, the web is designed for sharing and interconnection:. 
    * You can add a link to your webpage that directs visitors to a song on Soundcloud. When a visitor clicks on that link they leave your web page and go to the song on Soundcloud. This is typical linking behavior. 
@@ -117,21 +118,25 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Demo the embed process for your learners. If possible, invite them to follow along on their own computers using one of their chose songs. To embed a file from Soundcloud:
     * First, you click on the "Share" button underneath the song's "waveform" player.
 
-# IMAGE
+![embed step 1](../images/waveform.png)
 
     * Then you click on the "Embed" pane.
 
-# IMAGE
+![embed step 2](../images/embed-2.png)
+
 
     * Next, you choose your options - like the color and shape of your media player.
 
-# IMAGE
+![option step 1](../images/preview.png)
+![option step 2](../images/preview2.png)
+
 
     * Then copy the provided code.
 
     * Finally, you paste the code into your own webpage to embed the media there.
 
-# IMAGE
+
+![embed code](../images/code.png)
 
 * Ask learners to follow these steps to copy the embed code from one of their songs, and paste it into their web page. They should do this for all songs they’ve selected.
 
