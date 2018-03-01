@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Making Friends with your Browser"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -11,9 +10,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-# Making Friends with your Browser
-
-## Description
+#### Description
 An internet browser, also known as a web browser or simply a browser, is a software program that you use to access the internet and view web pages on your computer. You can think of your browser as your gateway to the internet. Learners will reflect on the tools they use to navigate a website and build on their existing knowledge. 
 
 #### Learning Objectives
@@ -44,9 +41,9 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Online Activity: Enter the World Wide Web
+### Online Activity: Enter the World Wide Web
 
-## Part I
+### Part I
 [10 min]
 * Connect to prior knowledge by asking learners: 
     * What is the difference between a web browser and a search engine? 
@@ -74,18 +71,13 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Ask learners to open and close new tabs. Elicit reasons for keeping several tabs open. The point is to eliminate confusion between closing the browser and closing a webpage. You may want to revisit this point after learners have several different web pages open. 
 * Learners may want to write down the words from their sticky notes and draw the icon next to each word or sketch the homepage of the browser and fill in the tools. 
 
-## Part II
+### Part II
 [15mins]
 * Learners will practice navigating a website in preparation for the search activity: Web Detective. 
 * Ask learners when to use a search engine and when we don’t. (If we know the exact web address, we don’t need to do a search). 
 * Choose a web site relevant to your learners and ask them to type the URL into the address bar. 
 * Discuss the different extensions and elicit what they tell us about the kind of business or organization: .com, .org, .edu, .gov, .net.  * You can also talk about http, https, and www as part of the URL (Uniform Resource Locator) or web address. Website typically contain a collection of web pages. 
-* Ask learners to name what they see on the web page: i.e. media, text, titles, navigation tools, or links to other pages. Elicit how they identify a link to another page or resource: 
-
-
-# IMAGE of HAND CURSOR
-
-
+* Ask learners to name what they see on the web page: i.e. media, text, titles, navigation tools, or links to other pages. Elicit how they identify a link to another page or resource. Show them an image of a hand cursor.  
 * Ask learners if they have ever been on a webpage, have clicked links to other pages and then could not get back to where they wanted to be?  
 * Ask them to think about the navigation tools at the top of the page and discuss how to use them. (back to last page,visited, forward to reverse the action, reload for updated information and home page). 
 * Next ask learners to use the horizontal scroll bar on the bottom of the page and the side scroll bar to move the page up, down, left and right. (Not all web pages will have a horizontal scroll bar). 
@@ -95,11 +87,11 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * Go to the X page and list 3 pieces of information on this page
     * What web browser are you using? 
 
-## Reflection/Review 
+### Reflection/Review 
 [5 mins]
 * Facilitator asks learners: how does what you learned today change how you think about web searches, and search results?
 
-## Learning Experience Reflection
+### Learning Experience Reflection
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
