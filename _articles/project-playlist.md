@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Project Playlist"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -12,7 +11,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-# Project Playlist
+#### Description
 In this online activity learners consider how the selective sharing or “curation” of existing online assets-- images, video, sounds, text-- is part of everyday web use, and how the web is designed to encourage this kind of sharing. In groups or individually, learners curate their own set of songs or sounds from the music sharing site Soundcloud, and embed the media files on them on their own web pages as a playlist. They include commentary and descriptions that explain their selections-- how and why they curated this particular playlist-- to anyone visiting the page. 
 
 #### Learning Objectives
@@ -45,7 +44,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Sharing, Curation, and the Web
+### Sharing, Curation, and the Web
 #### * Introduction/Discussion [10 mins]
 * Start with offline activity and discussion
 * Ask learners: What’s the last thing you found on the web that you were really excited about? What made you laugh, or think differently, what inspired you?
@@ -77,7 +76,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Explain: we’re going to do a curation activity today, where we select a set of songs to create our own playlists.  We’ll  use HTML to add these to a page on the web (either their own homepage, or using Thimble). 
 * We’ll use the music sharing site Soundcloud. 
 
-## Planning Your Playlist
+### Planning Your Playlist
 #### Discussion/Reflection 
 [5-7 mins]
 * Split learners into groups of 2 or 3. Give learners a minute or two to think about the following questions, and then ask them to share their answers with each other. 
@@ -92,7 +91,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > * WHO is this playlist for? What audience do they want to reach, and what should they know about each song our soundfile?
 > Tip! Explain to learners that as part of this activity, they will write short commentary about each song or sound-- just a line or two is fine, to explain what’s important about the song or sound, why they picked it. 
 
-## Search Soundcloud 
+### Search Soundcloud 
 [20 mins]
 * To introduce learners to the platform, the facilitator should open a browser window and navigate to Soundcloud to give everyone a sense of how the interface works. This will work best if you have a projector and screen handy, so everyone can see. Spend about 3-5 minutes here. 
 * There are a variety of possible search terms:
@@ -103,7 +102,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Search! Ask learners to bookmark selected songs or copy and paste the URLs - or Web addresses - into another document so they can get back to them easily.  Demonstrate how to bookmark. 
 * Ask learners to write their song descriptions along with the links. Suggest that learners use a simple text editor and provide a demo. * Also remind learners to include attributions, and discuss the importance of citing creators. 
 
-## Create Your Playlist Page 
+### Create Your Playlist Page 
 [15 mins]
 * For this part of the activity, users need a web page. They can: 1) use the basic pages created in Building Basic Pages (even though these pages are not hosted on a server, as long as the computer is connected to the internet, the embed code will work 2) use Thimble or another Integrated Development Environment. The code will work the same way, and of course these pages created using an IDE are hosted as part of the platform. 
 > Tip! If using option 1, remind learners again that their pages are only on the client computer, and not yet hosted on the internet. In either case, the following template is suggested as a starting point. Learners can integrate their commentary about each selection into the playlist itself. 
@@ -140,7 +139,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 
 * Ask learners to follow these steps to copy the embed code from one of their songs, and paste it into their web page. They should do this for all songs they’ve selected.
 
-## Wrap-Up and Reflection 
+### Wrap-Up and Reflection 
 [5-10 mins]
 * To wrap up, ask learners or groups to share what their playlists are about, and what it was like to do the task.  
 > Tip! Before you begin, remind learners of community norms about being welcoming and open to new ideas. Encourage them to talk about their own learning, not about other people. 
@@ -149,7 +148,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * What was it like to search for songs and sounds? Were you surprised about what you found there? 
     * Would you ever share your own music or art online for others to embed and comment on like this? Why or why not?
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
