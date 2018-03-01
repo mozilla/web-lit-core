@@ -14,10 +14,10 @@ Developing this core curriculum has truly been a community effort involving staf
 We need your help to spread the word on why it's important for people in their everyday lives to have these core skills, and very interested in how the curriculum is being utilized and forked for continuous improvement. 
 
 We need your help with the following:
-* Providing feedback, insights and learnings related to the use of the curriculum https://github.com/mozilla/web-lit-core/issues
+* Tell us [how and where you're unsing the curriculum](https://github.com/mozilla/web-lit-core/issues/7); we'd also love to know [what you've learned by using it](https://github.com/mozilla/web-lit-core/issues/8).
 * translating into different languages
 * remixing for different audiences
-* continually improving the curriculum through lists of tasks and issues. 
+* continually improving the curriculum-- see this [list of tasks and modifications](https://github.com/mozilla/web-lit-core/issues) we need help with! 
 
 [Fork](https://help.github.com/articles/fork-a-repo/) this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
 
