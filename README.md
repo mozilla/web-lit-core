@@ -2,18 +2,18 @@
 
 Project lead and contact: [An-Me](mailto:anme@mozillafoundation.org)
 
-Mozilla’s Core Web Literacy Curriculum consists of Core Activities that provide learners with a basic conceptual understanding of how to read, write, and participate on the web. 
+The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners with a basic conceptual understanding of how to read, write, and participate on the web. The 14 Core Activities were culled from new as well as remixing existing activities with the goal of aligning with the [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy). 
 
 Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Erin Davis Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, and to Matt Rogers and Digitalme for making web literacy badges a reality. 
 
-* See [CROSSWALK](https://docs.google.com/document/d/1Lu-maIqNaiCuFDC1i0gL_HhjepvuJr6gryoT0KRe2eQ/edit#) of the Web Literacy Skills with core activities. 
+* See [crosswalk](https://docs.google.com/document/d/1Lu-maIqNaiCuFDC1i0gL_HhjepvuJr6gryoT0KRe2eQ/edit#) of the Web Literacy Skills with core activities. 
 
 * Other web literacy activities are here: https://learning.mozilla.org/en-US/activities
 
 #### Spread, Grow, and Improve the Curriculum
 We need your help to spread the word on why it's important for people in their everyday lives to have these core skills. Please let us know who, how, when, and where you use and remix this curriculum, and what you learn. 
 
-[Fork](https://help.github.com/articles/fork-a-repo/a repo)this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
+[Fork](https://help.github.com/articles/fork-a-repo/a repo) this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
