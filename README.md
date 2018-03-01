@@ -1,7 +1,5 @@
 # The WebLit Core Curriculum README
 
-Project lead and contact: [An-Me](mailto:anme@mozillafoundation.org)
-
 The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners with a basic conceptual understanding of how to read, write, and participate on the web. The 14 Core Activities were culled from new as well as remixing existing activities with the goal of aligning with the [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy). 
 
 Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Erin Davis Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and Digitalme for making web literacy badges a reality. 
