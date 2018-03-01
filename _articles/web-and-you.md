@@ -39,7 +39,7 @@ This is an introductory activity to web literacy skills.
 #### Earning Digital Badges
 No Digital Badges for this activity
 
-## Introduction/Opening Circle 
+### Introduction/Opening Circle 
 [6-10 min]
 * The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 
@@ -56,7 +56,7 @@ No Digital Badges for this activity
 > * If you usually talk a lot in groups, try listening more
 > * If you usually listen, try speaking up and sharing your thoughts
 
-## Introducing the Web 
+### Introducing the Web 
 [3 to 5 mins]
 * The facilitator explains that learners will be thinking and talking about the internet and the world wide web-- the tools and technologies we use when we are “online.” 
 The facilitator asks the group to share kinds of things they do “online.”
@@ -74,7 +74,7 @@ The facilitator asks the group to share kinds of things they do “online.”
 > * shopping
 * Facilitator points out that there are many different ways to be online, many reasons people use the web. The group will be exploring these together in a storytelling exercise.
 
-## Storytelling: The Web and You 
+### Storytelling: The Web and You 
 [20-25 mins]
 * In this exercise, the facilitator splits learners into groups of 3 to 4 to tell and listen to stories. Explain that each learner will have 3-4 minutes to tell their own story of their web experience and what it means to them while other group members listen.  
 > Tip! Here are some pointers to give to the learners for the storytelling exercise.
@@ -98,7 +98,7 @@ The facilitator asks the group to share kinds of things they do “online.”
     * What is similar? 
 * Remind participants to thank each speaker for their story. 
 
-## Reflection/Review 
+### Reflection/Review 
 [10-15 mins]
 * Now that learners have shared their individual stories, the facilitator asks the group to reflect on what they heard (in their own story, and others’ stories) and document and/or discuss all the different ways the group uses the web. 
 > Tip! If time is tight, the facilitator may opt to do either the word map exercise, or pose some exploration questions.  
@@ -121,7 +121,7 @@ The facilitator asks the group to share kinds of things they do “online.”
 > Tip! Always be respectful of varied viewpoints, ideas, and perspectives when referring to content that the learners share. 
 At the end of the session, thank the learners for their participation, questions, and insights! 
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
