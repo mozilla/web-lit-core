@@ -13,7 +13,7 @@ Developing this core curriculum has truly been a community effort involving staf
 #### Spread, Grow, and Improve the Curriculum
 We need your help to spread the word on why it's important for people in their everyday lives to have these core skills. Please let us know who, how, when, and where you use and remix this curriculum, and what you learn. 
 
-[Fork](https://help.github.com/articles/fork-a-repo/a repo) this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
+[Fork](https://help.github.com/articles/fork-a-repo/) this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
