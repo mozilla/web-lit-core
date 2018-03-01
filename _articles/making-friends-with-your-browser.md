@@ -41,7 +41,8 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-### Online Activity: Enter the World Wide Web: Part I
+### Online Activity: Enter the World Wide Web
+### Part I
 [10 min]
 * Connect to prior knowledge by asking learners: 
     * What is the difference between a web browser and a search engine? 
@@ -69,7 +70,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Ask learners to open and close new tabs. Elicit reasons for keeping several tabs open. The point is to eliminate confusion between closing the browser and closing a webpage. You may want to revisit this point after learners have several different web pages open. 
 * Learners may want to write down the words from their sticky notes and draw the icon next to each word or sketch the homepage of the browser and fill in the tools. 
 
-### Online Activity: Enter the World Wide Web: Part II
+### Online Activity: Enter the World Wide Web
+### Part II
 [15mins]
 * Learners will practice navigating a website in preparation for the search activity: Web Detective. 
 * Ask learners when to use a search engine and when we don’t. (If we know the exact web address, we don’t need to do a search). 
