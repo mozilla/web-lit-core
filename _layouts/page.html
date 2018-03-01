@@ -3,15 +3,6 @@ layout: default
 ---
 
 <div class="lesson-content">
-<div class="page-header">
-  <h2>
-    {% if page.module %}{{ page.module }}.{% endif %}
-    {{ page.title }}
-  </h2>
-</div>
-<div class="details">
-  <a target="_blank" class="suggest-changes" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">Suggest changes</a>
-</div>
 {{ content }}
 
 {% if page.contents %}
