@@ -45,7 +45,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * Problem-Solving
 
 #### Earning Digital Badges
-Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
+Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
 
 ### Introduction/Opening Circle 
