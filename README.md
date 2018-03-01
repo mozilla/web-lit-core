@@ -12,7 +12,7 @@ Developing this core curriculum has truly been a community effort involving staf
 We need your help to spread the word on why it's important for people in their everyday lives to have these core skills, and very interested in how the curriculum is being utilized and forked for continuous improvement. 
 
 Here is how you can help:
-* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8); we'd also love to know [what you've learned by using it](https://github.com/mozilla/web-lit-core/issues/8).
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8); we'd also love to know [what you've learned by using it](https://github.com/mozilla/web-lit-core/issues/9).
 * translating into different languages
 * remixing for different audiences
 * continually improving the curriculum-- see this [list of tasks and modifications](https://github.com/mozilla/web-lit-core/issues) we need help with! 
