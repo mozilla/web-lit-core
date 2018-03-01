@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Web Detective"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -11,7 +10,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-# Web Detective
+#### Description
 * Learn to tell truth from fiction while using the web to investigate the existence of the kraken, a huge, dangerous tentacled sea creature, and how to spot misinformation and disinformation.  Learners will collaborate to create a set of rules to guide them in evaluating web sources to solve a research question and compare them to other checklists. 
 
 #### Learning Objectives
@@ -45,7 +44,7 @@ toc:
 #### Earning Digital Badges
 * Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction
+### Introduction
 [15-20 mins]
 * Briefly frame and connect this topic to a big idea.
 * Ask learners:
@@ -61,7 +60,7 @@ toc:
 >    * Point out that we can pay attention to what we’re noticing and feeling online, and use these responses plus a set of criteria to help us  be better web detectives.  
 > * Tip! A remix of this is to talk about advertising strategies, hype, etc. that web media is often designed to elicit specific feelings. 
 
-## Co-create a list of rules/criteria
+### Co-create a list of rules/criteria
 [10 mins]
 * Create criteria to guide you in determining reliability of information on the web. 
 * Have users think and write on sticky notes individually, and then share with the group.
@@ -73,7 +72,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 * Document shared rules on a large sheet of paper, blackboard or flip chart and post where everyone can see them. 
 * There will be a chance to add or revise the list after the activity.
 
-## Research and evaluate evidence 
+### Research and evaluate evidence 
 [20 minutes]
 * Split learners into groups of 2 or 3. Explain that each group’s challenge is to examine the following seven sources for evidence that the Kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is real.
 
@@ -117,7 +116,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 * Share results of the research question-- what are their answers? How did the list of rules help?
 * Conclusion: Given these stories, we can say that the kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is probably NOT real. In the first story, a rock island is mistaken for a kraken. In the second story, video has been shot of a giant squid, but it is much smaller and shyer than the kraken we are looking for, though it may have inspired the legends. 
 
-## Take your detecting skills into the wild 
+### Take your detecting skills into the wild 
 [15-20 mins] 
 * Explain to learners that they’ve tested their list on a set of curated resources-- news items that were picked in advance. Now, they can test out their lists on news and info sources that they find, “in the wild.” 
 * Brainstorm with learners, or assign a question that is controversial-- either from the news or pop culture.
@@ -129,7 +128,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
     * Which sources were reliable? Which sources did you decide were unreliable?
     * Is there anything you’d add or change to your list?
 
-## Check your Checklist 
+### Check your Checklist 
 [6 mins]
 * Let’s see how your list from above compares to other lists and fact-checking processes. 
 * Break up learners into groups of 3-4 and ask learners to examine: 
@@ -149,7 +148,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
     * Are they likely to? 
     * How might the assess the reliability of these site?
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
