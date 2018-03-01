@@ -23,9 +23,6 @@ We also need your help with the following:
 * remixing for different audiences
 * continually improving the curriculum  
 
-#### Participation Guidelines
-This project adheres to a code of conduct. By participating, you are expected to uphold this code. 
-
 #### Share your Remixes
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
 
