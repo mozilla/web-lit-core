@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "All the Stickerz"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -11,23 +10,21 @@ toc:
 - "Online Activity: Digital Pixel Art"
 - "Learning Experience Reflection"
 ---
-
-# All the Stickerz
-## Description
+#### Description
 In this combo offline/online activity, learners explore how some digital images are made of pixels, and how those images are structured and displayed. They discuss what they’d most like to communicate online, and create their own, novel visual communication tool to do it: a pixel art image or web sticker. They create web stickers in analog form first, and then recreated them with digital tools. Learners add their stickers to their own sites (if they’ve created sites in WRITE activities), or try sending them via email or posting them on social media. 
 
-## Learning Objectives
+#### Learning Objectives
 * Define the term ‘pixel.’ 
 * Explain how bitmaps determine screen resolution.
 * Create pixel images online and offline.
 
-## Time Required
+#### Time Required
 45 minutes to 1 hour depending on group size
 
-## Audience
+#### Audience
 Can be tailored for audiences from 13 up; with varying levels of experience with the web.
 
-## Materials
+#### Materials
 * Laptop with internet connection
 * Print out pictures within this activity or pull up on computer/project setup
 * Whiteboard, flipchart, or paper
@@ -35,7 +32,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * Pencil or pen
 * Narrow tape or string (with tape)
 
-## Web Literacy Skills
+#### Web Literacy Skills
 * Design
 * Remix
 * Share
@@ -43,19 +40,19 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * Evaluate
 * Revise
 
-## 21st Century Skills
+#### 21st Century Skills
 * Communication
 * Collaboration
 * Creativity
 
-## Earning Digital Badges
+#### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction 
+### Introduction 
 [1 min]
 * Explain: We’re going to talk about how computers create and store images using lots of tiny bits of color, and how we use those images to communicate online. And we’re going to create some very simple images of our own, both in analog and digital form. 
 
-## Discussion: Pixels 
+### Discussion: Pixels 
 [5-10 mins]
 * Ask Learners: Who has heard the term “pixel” before? What’s a pixel? What do you know about them? Tip! May have to explain the difference between pixel the computing term, and Pixel the Google smartphone product. 
 * Explain: The term “pixel” comes from the word Picture Element. It’s the smallest possible element, the smallest unit of information in a digital image. 
@@ -70,7 +67,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 ![space invaders detail](../images/invaders2.png)
 
 
-## Discussion: Screens, Bitmaps, and Resolution
+### Discussion: Screens, Bitmaps, and Resolution
 [5-10 mins]
 * Ask learners: When artists like Chuck Close and George Seurat create an image, what are they working on? What is the surface they work on? (Answers might be: paper, canvas, wood, walls for muralists etc.) 
 * Point out that in the real world these items always have measurable dimensions - whether they are teeny tiny or as big as the side of a building.
@@ -93,7 +90,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * We calculate the resolution of an image by multiplying the width and the height of the bitmap
 * Ask learners: who has heard the term “low resolution”? Or “high resolution?” What do these mean? (answers: low resolution means an image with fewer pixels, high resolution means an image with more pixels. The more pixels there are in the image, the more information and detail we get. ) 
 
-## Offline Activity: Analog Pixel Art 
+### Offline Activity: Analog Pixel Art 
 [15-20 mins]
 * Explain to learners that they’ll create some art using pixels, but in an analog way. They’ll create an image that they can later translate into digital form for use on the web. 
 * Briefly discuss visual communication online:  Are there ways that they already use images to communicate with others online?  (answers here might be: Facebook like button, emojis, avatars, etc)  What are examples? How and what do these images say? Is there something that you’ve been wanting to communicate that no image exists yet?  What might that be? What kinds of communication would you like to see more or less of online?
@@ -120,7 +117,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * Were you surprised by how much or how little you can communicate with pixels? 
     * How did resolution come into play? How did color factor in? 
 
-## Online Activity: Digital Pixel Art 
+### Online Activity: Digital Pixel Art 
 [15-20 mins]
 * Explain to learners that they will use a web-based tool to create their own digital versions of the analog pixel art they just made.  You can use technology to draw and paint, and not just use your camera to record
 * Direct them to https://make8bitart.com/
@@ -134,7 +131,7 @@ Transparent pixels are handy for a sticker, because there’s on background to t
 * Invite them to post the stickers on social media, send via email, or add the stickers to their own websites. 
 * If there’s interest, allow users to play with the software and create new stickers. 
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
