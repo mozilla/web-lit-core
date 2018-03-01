@@ -43,8 +43,6 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-![thimble screenshot](../images/thimble.png)
-
 ## Introduction 
 [10 mins]
 > Tip! Remind learners of their experience with Tags in the previous lesson (Recommend completing Tagging 101 with learners prior to this activity).
