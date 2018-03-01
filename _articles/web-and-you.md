@@ -1,6 +1,5 @@
 ---
 layout: page
-Title: "The Web and You"
 toc:
 - "Description"
 - "Earning Digital Badges"
