@@ -142,7 +142,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
     * How would you encourage others to practice good research/fact-checking techniques?
 > * Tip! Explain to learners that some of these lists are made for and by journalists, who write and publish news-- before the internet, these were the “gatekeepers” of factual information. What does it mean to be a gatekeeper? Are today’s users of social media-- you, if you use and post on social media-- also potential “gatekeepers” of factual information? 
 > * Tip! If time allows, you might consider the adding following activity, which explores how to Fake Your Own News: https://nucleus-network.github.io/missioninfo/activities/fakenews.html#overview
-* Explain to learners that there are a number of sites dedicated to fact-checking news, as well as pop culture information and urban legends. Politifact.com http://www.politifact.com/, FactCheck.org https://www.factcheck.org/  and the Washington Post’s Fact Checker Blog https://www.washingtonpost.com/news/fact-checker/?utm_term=.e09982fe3308 cover news. Snopes.com  http://snopes.com/ covers news as well as pop culture.
+* Explain to learners that there are a number of sites dedicated to fact-checking news, as well as pop culture information and urban legends. [Politifact.com](http://www.politifact.com/), [FactCheck.org](https://www.factcheck.org/)  and the Washington Post’s [Fact Checker Blog](https://www.washingtonpost.com/news/fact-checker/?utm_term=.e09982fe3308)cover news. [Snopes.com](http://snopes.com/) covers news as well as pop culture.
 * Ask learners:
     * Have they used sites like this?
     * Are they likely to? 
