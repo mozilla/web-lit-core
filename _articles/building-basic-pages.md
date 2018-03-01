@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Building Basic Pages"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -11,9 +10,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-# Building Basic Pages
-
-## Description
+#### Description
 In this activity, users will create their first web page using a basic text editor and a browser to view the results. They’ll interview each other to get content for a personal (or fictional) “About” page, organize and write up the content, and mark it up using HTML. Users can upload these files to a server (if available) and get their content on the web! 
 
 #### Learning Objectives
@@ -43,7 +40,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction 
+### Introduction 
 [10 mins]
 > Tip! Remind learners of their experience with Tags in the previous lesson (Recommend completing Tagging 101 with learners prior to this activity).
 * Explain to learners that any web page you visit is actually an HTML file, which is just a text file-- a bunch of words--with HyperText or Markup Language added to the content. HTML is the language we use to write tags.
@@ -60,7 +57,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > Tip! Here you can point to the diagram, and show that you’re making a page on a client computer, one that’s not sharing files like a server!
 * To get started, we need CONTENT-- because the web is all about communication and sharing of information and ideas. Let’s generate some content together!
 
-## Content Generation/Storytelling 
+### Content Generation/Storytelling 
 [20 mins]
 > Tip! This next part is fun and interactive, and great for creating a friendly, positive classroom community. But if you’re short on time, and if giving learners a sense that they can have their own representation on the web is NOT a priority, you can provide canned pre-typed content as a .txt file and skip to the next section-- “Get Tagging.” 
 * Write your Biography or “About” page. Have participants break into pairs and interview each other about their lives. As facilitator, keep track of time to ensure that each learner has equal time for their story. 
@@ -78,7 +75,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Save your story in the folder with .txt as the extension-- Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.txt” This is the text version of your story, the raw content.
 * Also, save your story in the folder with .html as the extension, instead of .txt-- this will be your web version. The .html tells the browser to look for html code in the file. Give it a title with no spaces or punctuation other than dashes or underscores, like “about-zm.html”
 
-## Get Tagging! 
+### Get Tagging! 
 [10 mins ]
 * Explain to users that they’ll be marking up their story-- the .html version-- with HTML, to make it ready for display in the browser. Explain that since coding HTML and thinking of and writing content are two different ways of thinking, they should always have content written before they mark it up, rather than write and mark-up at the same time. 
 > Tip! A great way to help learners do this, if you have access to an instructor’s computer and projector, is to do the activity on your own content along with learners, and project the results so everyone can see what you’re doing. 
@@ -101,14 +98,14 @@ How does it look? Are you seeing your content formatted for the web? Do you see 
 * Congratulate everyone on the pages they’ve made! They are now web designers! Remind folks that the pages are still on their local computers, and not actually on the web! But they are ready to go there. 
 * Have a brief discussion about uploading to servers, about web hosting, what it means, how it works, how much it costs, what hosting companies do. 
 
-## Go Online! 
+### Go Online! 
 [15 mins]
 * If your institution has server space and resources available, show participants how to use a file transfer application (such as fetch) to transfer their pages to a folder on the server. Talk about UPLOADING vs DOWNLOADING
 * Discuss how the URL will be constructed, ask users to figure out their own URLs -- domain name, class folder name, personal folder name, page name.
 * Once all the pages are on the server, have users point their browsers to the URL on the web to see their pages. You’re on the web for real! Woo-hoo!
 > Tip! If time, have a brief discussion of web hosting, what it means, how it works, how much it costs, what hosting companies do. 
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
