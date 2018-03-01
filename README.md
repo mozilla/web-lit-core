@@ -4,7 +4,7 @@ Project lead and contact: [An-Me](mailto:anme@mozillafoundation.org)
 
 The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners with a basic conceptual understanding of how to read, write, and participate on the web. The 14 Core Activities were culled from new as well as remixing existing activities with the goal of aligning with the [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy). 
 
-Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Erin Davis Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, Randy MacDonald, Iris Bond Gill, and to Matt Rogers and Digitalme for making web literacy badges a reality. 
+Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Erin Davis Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and Digitalme for making web literacy badges a reality. 
 
 * See [crosswalk](https://docs.google.com/document/d/1Lu-maIqNaiCuFDC1i0gL_HhjepvuJr6gryoT0KRe2eQ/edit#) of the Web Literacy Skills with core activities. 
 
@@ -13,7 +13,7 @@ Developing this core curriculum has truly been a community effort involving staf
 #### Spread, Grow, and Improve the Curriculum
 We need your help to spread the word on why it's important for people in their everyday lives to have these core skills, and very interested in how the curriculum is being utilized and forked for continuous improvement. 
 
-We need your help with the following:
+Here is how you can help:
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/7); we'd also love to know [what you've learned by using it](https://github.com/mozilla/web-lit-core/issues/8).
 * translating into different languages
 * remixing for different audiences
