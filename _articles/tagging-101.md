@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Tagging 101"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -13,8 +12,6 @@ toc:
 
 ---
 
-
-# Tagging 101
 ## Description
 In this activity, learners explore how information like text and images can be presented to be easily readable/understandable, and how this works on the web using HTML tags. This activity explores how browsers work, how web pages are structured, the relationship between HTML tags and content. 
 
@@ -37,19 +34,19 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
     * Open tags: "<clap> →" (also sing, stomp, spin, shake).
     * Close tags: "</clap> ←" (also sing, stomp, spin, shake).
 
-## Web Literacy Skills
+#### Web Literacy Skills
 * Code
 * Design
 
-## 21st Century Skills
+#### 21st Century Skills
 * Communication
 * Collaboration
 * Creativity
 
-## Earning Digital Badges
+#### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction
+### Introduction
 [3 min]
 * Review core concepts, frame and connect this topic to a big idea. Explain:
     * The Internet is a system of interconnected computers, and the world wide web is a system of interconnected pages that lives on the Internet. 
@@ -59,7 +56,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > Tip! Ask who knows some examples of web browsers.
 * We’re going to explore HTML today, specifically how we use HTML to make our content -- text, images, etc-- readable by browsers and easy for humans to read and understand.
 
-## Content & Tags 
+### Content & Tags 
 (5-7 mins)
 * For this activiy, you need two visual aids:
     * 1) the front page of a newspaper showing images, headlines, bylines, text, paragraphs, columns
@@ -89,7 +86,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * With very few exceptions, tags are ALWAYS matched with content, just like the tag examples we discussed.
 * Tell learners that now we’ll experiment with the CONCEPT of tags and tagging in offline activities, before we dive in and see how they work online
 
-## Offline Activity: Tag The World 
+### Offline Activity: Tag The World 
 [10 mins]
 > Tip! If your learners seem comfortable with the concept of opening and closing tags (or you are pressed for time), you can skip this and move on to the next section. If they need more time with this concept, do Tag the World.
 * Introduction: Explain to participants that they are going to experiment with making tags and assigning tags to real-world stuff in the room. Hand out sheets of paper, markers, and scotch tape. Explain that this is an exercise to show the CONCEPT of tagging, and opening and closing tags. 
@@ -102,7 +99,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * You can tag anything in the room-- make your own tags and hang them up!
 > Tip! To get learners started, create a sample tag and put it up in the room-- <chair> </chair> for example. Encourage people to have fun, and be creative!
 
-## Offline Activity: Tag Tag Revolution 
+### Offline Activity: Tag Tag Revolution 
 [10 mins]
 * Introduction: Explain to participants that they are about to have a fun dance party to show them how HTML tags assign instructions to content. 
 * Steps: 
@@ -118,7 +115,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * After all the tags have been used, you could have the players with tags move around one at a time to change up who is doing what. This will help help learners understand how tags are applied to content, how they open and close, in HTML.
 * Here in the real world, you have complete freedom to make their own tags names-- later we’ll see that in the coding language HTML, we use a restricted set of tags names that everyone agrees upon, that make sense for web content. But for now, make up whatever tag you want.
 
-## Offline and ONLINE activity: HTML Tags In Action! 
+### Offline and ONLINE activity: HTML Tags In Action! 
 [15 mins]
 * Introduction: Explain that we’ve seen what tags look like, and how they work with content (what’s inside the tags). Now let’s practice using some real tags that are part of the HyperText Markup Language (HTML). 
 * First, let’s check out a simple HTML document-- guess what-- from a web designer and developer, when they are building web pages, what they are working with is HTML code in a simple text file. 
@@ -136,7 +133,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Explain to users that these files are still on their local computers, and viewable only there. You haven’t yet put them “online” on a server, where others can find it, so they’re not on the web.
 > Tip! Remind users of the Map the Web activity, to help them visualize how their client computer is connected. They can access content on web servers, but other computers on the web can’t access the clients files.   
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
