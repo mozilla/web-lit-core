@@ -86,8 +86,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * This is true of digital photographs as well as digital artworks or images - like logos or illustrations - created from scratch.
 * Here’s an example, a image of a hedgehog, and a close up of the pixels that makes up the eye:
 
-![hedgie](../images/hedge.jpg)
-![eye](../images/eye.png)
+![hegehog and close-up eye](../images/pixels.png)
+
 
 * Like a display screen, an image also has resolution-- the total number of pixels in the entire image. 
 * We calculate the resolution of an image by multiplying the width and the height of the bitmap
