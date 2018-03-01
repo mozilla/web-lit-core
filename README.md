@@ -23,12 +23,6 @@ We need your help with the following:
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
-We also need your help with the following:
-* Providing feedback, insights and learnings related to the use of the curriculum https://github.com/mozilla/web-lit-core/issues
-* translating into different languages
-* remixing for different audiences
-* continually improving the curriculum through lists of tasks and issues. 
-
 #### Share your Remixes
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
 
