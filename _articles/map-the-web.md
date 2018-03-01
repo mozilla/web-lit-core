@@ -14,7 +14,6 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-
 #### Description
 In this discussion/mapping/performance activity, learners share what they already know about the web, and collaborate to fill in gaps and answer questions. They work together to organize this information into a visual and spatial “map” that shows the relationships between lots of elements of the web, from servers to websites to tweets to mobile phones. In a final section of the activity, learners “perform the net” by acting out relationships. 
 
@@ -49,7 +48,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
 
-## Introduction/Opening Circle 
+### Introduction/Opening Circle 
 [5-10 mins]
 * If group members are new to each other, the facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
 > Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
@@ -66,7 +65,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * Which metaphors work best for you? 
     * Can you propose new ones? 
 
-## Brainstorm Map Elements 
+### Brainstorm Map Elements 
 [5 mins]
 * Facilitator explains that learners can think of the internet as a system, a collection of parts that create a functional whole. Learners can work together to make a map of this system!
 * The facilitator hands out sticky notes to the group, or if the group is small enough, they can brainstorm together. 
@@ -79,12 +78,12 @@ when they are “online” what kind of technology do you use-- what’s immedia
 * What are other things that may be connected to the web that they haven’t yet mentioned? (think emerging IOT space-- self driving cars, fridges, fitness trackers, security systems, traffic lights, etc)
 > Tip! Facilitator should make sure key terms are present: client computer, server, web site, web page, smartphone, email, network, etc.
 
-## Define Web Terms  
+### Define Web Terms  
 [5 mins]
 * If some of the terms the group has generated are unfamiliar, take some time to define them together. Facilitator can refer to this Glossary for definitions and context. 
 > Tip! The [web mechanics speed dating activity](https://mozilla.github.io/curriculum-final/offline-icebreakers/session01-web-mechanics-speed-dating.html#overview) is a great way to work through some of these definitions
 
-## Assemble the Map or Model  
+### Assemble the Map or Model  
 [5 mins]
 * By placing sticky notes on a board, the group works together to create a diagram of the internet. To help them do so, use the following prompts.
 > Tip! You can also use tactile 3-D materials like pipe cleaners, play-doh, string, cardboard or construction paper to create a model 
@@ -92,7 +91,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
 * Where is information stored or kept, and how does it travel? 
 > Tip! If learners are very new to these concepts, the facilitator can set up the map herself, explaining each step, the relationships, and how information moves through the system.
 
-## Perform the Net 
+### Perform the Net 
 [15-20 mins]
 * The facilitator should review the following: 
 * We see in our map that the "Internet" is a system of networked computers and the "Web" is located on Internet. 
@@ -145,7 +144,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
 > * Do you think a packet in real life moves faster through the Internet than you did?
 * Note:  If you don’t have the physical space for this activity, learners can create their understanding of how the parts of the web interact by using objects such as play-doh, straws, strings, or other objects. 
 
-## Optional Discussion: Internet Protocol Addresses 
+### Optional Discussion: Internet Protocol Addresses 
 [5 mins]
 * Ask the group how many computers or devices are connected to the internet.
 * How do you think each computer is identified or located in the network? 
@@ -157,7 +156,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
 * If we type this into a browser, it resolves into human-friendly web address. 
 > Tip! If a computer is available, demo how entering an IP address takes you to a human friendly domain name 
 
-## Reflection/Review 
+### Reflection/Review 
 [5 mins]
 * In closing, facilitator may ask reflection questions like: 
     * What happens on the Internet when you type a Web address and hit enter?
@@ -166,7 +165,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
     * What's the difference between the Internet and the World Wide Web?
 * Be sure to thank learners for their participation, ideas, and insights. 
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
