@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "The Web and You"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -13,7 +12,7 @@ toc:
 
 # The Web and You
 
-## Description
+#### Description
 
 In this offline storytelling/discussion activity, learners reflect on and share observations, ideas, and feelings about their own web use, and what the web means to their communities. What do they love or hate about the web? What are they curious about? What kinds of things would they like to do on/with the web? Facilitators use insights from this activity to contextualize the rest of the curriculum for their group of learners. This group activity should also help learners get to know each other and feel connected. 
 
