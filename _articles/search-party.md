@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Search Party!"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -12,9 +11,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-# Search Party!
-
-## Description
+#### Description
 In this discussion/offline activity, learners consider web searching, and why it’s so important and so challenging. They learn about software programs called “web crawlers” and “search engines” that help find and deliver search results from among billions and billions of web resources. Learners also get an introduction to algorithms, and practice writing and revising algorithms. 
 
 #### Learning Objectives
@@ -48,13 +45,13 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction/Opening Circle
+### Introduction/Opening Circle
 [3-5 mins]
 * The facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
 > Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 > Tip! The facilitator should model a short intro, so learners know what this looks like, and especially, how much time they have for their introduction. 
 
-## Short discussion/Framing: Searching the Web 
+### Short discussion/Framing: Searching the Web 
 [5 mins]
 * What’s the last thing you searched for on the web? What tools do you use to when you search?  When you search, how often do you find what you are looking for? Are some searches easier than others? 
 * Facilitator connects discussion responses to a big idea
@@ -63,7 +60,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > Tip! If appropriate you can ask learners: What’s an index? Where do you usually find an index, and what’s it for? (In books, an index is an ordered list of the content that helps you find specific topics within an entire book). 
 * Explain that learners will experiment with creating an index (or ordered listing) of a collection of objects, which will help us find specific item or items in that collection. 
 
-## Offline Activity: Be the crawler!
+### Offline Activity: Be the crawler!
 [30 mins]
 * Search a collection 
 * Using a preferred method, facilitator splits learners into groups of 2-4. 
@@ -99,7 +96,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > Tip! Here, you can either have a group discussion about the algorithm and talk about the different additions to the steps that each group might add (depending on how they created their index). OR (time permitting) you can ask learners to take the basic algorithm and write a new set of steps that works with their indexed collection. Then groups can rotate around the room 
 * Be sure to highlight the idea that new algorithms are different for each group and method of indexing. Connect this to the idea that, when we use different search engines, we get different results, depending on the algorithm and how sites are indexed
 
-## Re-Frame
+### Re-Frame
 [5-10 mins]
 * Facilitator explains that, of course, web pages aren’t buttons/beads. What’s different about web pages and buttons/beads? Ask learners to discuss or you can explain the following points!
 * Web pages are a lot more complex, and full of rich information and images. 
@@ -113,7 +110,7 @@ PLUS there are billions of pages on the web-- it’s happening on a totally diff
 * Algorithms are designed by people, at companies like Google, Microsoft, Yahoo, etc, and they’re constantly tweaked and changed.
 There’s something called Search Engine Optimization-- things that web designers, developers, and content developers do to try to get their pages to come in high in the search results, by taking advantage of how the algorithm works.
 
-## Online Activity 
+### Online Activity 
 [5-10 mins]
 * Ask learners to share research or search questions they have have-- for example, how long does it take to walk to California, what’s in a special sauce, or how much money does a veterinarian make in per year. 
 * Brainstorm and list different search engines, i.e. Bing, Yahoo, Google etc. 
@@ -121,7 +118,7 @@ There’s something called Search Engine Optimization-- things that web designer
 * Discuss as a group what participants found in their search. 
 * Ask learners to again search with same question but with a different search engine, and compare the results with the first search. 
 
-## Learning Experience Reflection
+### Learning Experience Reflection
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
