@@ -11,17 +11,23 @@ Developing this core curriculum has truly been a community effort involving staf
 * Other web literacy activities are here: https://learning.mozilla.org/en-US/activities
 
 #### Spread, Grow, and Improve the Curriculum
-We need your help to spread the word on why it's important for people in their everyday lives to have these core skills. Please let us know who, how, when, and where you use and remix this curriculum, and what you learn. https://github.com/mozilla/web-lit-core/blob/gh-pages/spreading-curriculum.md
+We need your help to spread the word on why it's important for people in their everyday lives to have these core skills, and very interested in how the curriculum is being utilized and forked for continuous improvement. 
+
+We need your help with the following:
+* Providing feedback, insights and learnings related to the use of the curriculum https://github.com/mozilla/web-lit-core/issues
+* translating into different languages
+* remixing for different audiences
+* continually improving the curriculum through lists of tasks and issues. 
 
 [Fork](https://help.github.com/articles/fork-a-repo/) this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
 We also need your help with the following:
-* resolving issues
+* Providing feedback, insights and learnings related to the use of the curriculum https://github.com/mozilla/web-lit-core/issues
 * translating into different languages
 * remixing for different audiences
-* continually improving the curriculum  
+* continually improving the curriculum through lists of tasks and issues. 
 
 #### Share your Remixes
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
