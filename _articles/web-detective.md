@@ -11,18 +11,18 @@ toc:
 ---
 
 #### Description
-* Learn to tell truth from fiction while using the web to investigate the existence of the kraken, a huge, dangerous tentacled sea creature, and how to spot misinformation and disinformation.  Learners will collaborate to create a set of rules to guide them in evaluating web sources to solve a research question and compare them to other checklists. 
+Learn to tell truth from fiction while using the web to investigate the existence of the kraken, a huge, dangerous tentacled sea creature, and how to spot misinformation and disinformation.  Learners will collaborate to create a set of rules to guide them in evaluating web sources to solve a research question and compare them to other checklists. 
 
 #### Learning Objectives
-* Research and evaluate information on the web
-* Create criteria for evaluating information on the web
-* List other resources available for evaluating information on the web
+* Research and evaluate information on the web.
+* Create criteria for evaluating information on the web.
+* List other resources available for evaluating information on the web.
 
 #### Time Required
 1 hour to 1.5 hours depending on group size
 
 #### Audience
-* Can be tailored for audiences from 13 up; with varying levels of experience with the web.
+Can be tailored for audiences from 13 up; with varying levels of experience with the web.
 
 #### Materials
 * Sticky notes
@@ -42,7 +42,7 @@ toc:
 * Communication
 
 #### Earning Digital Badges
-* Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
+Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
 ### Introduction
 [15-20 mins]
