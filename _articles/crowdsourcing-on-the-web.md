@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Crowdsourcing on the Web"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -11,7 +10,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-# Crowdsourcing on the Web
+#### Description
 In this activity, learners will explore how lots of individuals can work together on the same learning or discovery project, using the web as a collaboration tool. Learners will briefly discuss how the web and other digital tools have increased the amount of information online, as well as potential human resources. They will also explore the notion of crowdsourcing and help out with a research study using the Zooniverse platform for citizen science (or other platform-- facilitator’s choice). 
 
 #### Learning Objectives
@@ -43,7 +42,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction 
+### Introduction 
 [10 mins]
 * Ask learners: How are we gathering and storing information in the digital age using the web? How is this different from what was has been done in the past? As an example, ask:
     * Who has used a film camera? What’s the difference between a film camera and a digital camera? (Digital cameras allows you to take and store lots of pictures, probably way more than you ever would with a film camera.) 
@@ -62,7 +61,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Until the web, there wasn’t an easy way to tap into that collective human resource, to bring people together to share skills or do work or learn together.
 * Today we’re going to look at some of the ways we can collaborate and work with lots of other people on the web-- and help with the challenges and possibilities of all this digital information. But let’s start with an offline experience to warm us up!
 
-## Offline Activity: Analog Crowdsourcing 
+### Offline Activity: Analog Crowdsourcing 
 [15-20 mins]
 * For this activity, you’ll need two sets of maybe 50 to 60 similar images, each printed on an individual card (you could print a grid of images and cut them up). These could be landscapes, pictures of people, pictures of animals or insects. The images should all be similar, but with some differences. Here is an example:
 
@@ -84,7 +83,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * There are larger tasks, especially in the area of scientific research, that can make use of large scale, online crowdsource power to evaluate lots and lots of data, the kind that’s collected at large scales, just as we discussed at the beginning of the session 
 * Tell learners that next they’ll use the web to see how they can participate in actual scientific research online-- they’ll become citizen scientists or researchers, part of an effort to encourage more people to experience and be part of scientific discovery.  
 
-## Online Activity- Zooniverse 
+### Online Activity- Zooniverse 
 [25-30 mins]
 * For this activity, learners will be participating in some crowdsourced science research using Zooniverse (or another platform, as selected by the facilitator.) Depending on time, there are two options here:
 * Facilitator selects one project in advance and walks users through the steps to participate (see example below) OR
@@ -118,7 +117,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Point out that they can explore community conversations under “TALK”, and learn more about the project under “ABOUT”
 * Do the activity! Give learners 15 to 20 minutes to contribute to one or more projects on Zooniverse.
 
-## Reflection/wrap up 
+### Reflection/wrap up 
 [5-10 mins]
 * Ask learners some questions about their experience, and encourage a discussion. Sample questions below: 
     * What was it like to do this task? What was surprising? What was challenging? 
@@ -129,7 +128,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
     * How many other people have contributed?
     * How do you feel about your contribution? 
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience?
