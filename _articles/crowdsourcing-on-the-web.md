@@ -101,15 +101,18 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Navigate to Zooniverse, https://www.zooniverse.org
 * Go to the project page:
 
+![zooniverse projects page](../images/projects.png)
 
 * Explain to learners that zooniverse is a platform that hosts lots of research data that participants like you can help classify or evaluate, contributing to real world research!
 * Select a project from among the options on the page and click to be taken to the project page-- For example, this is the home page of a project called Elephant Expedition. 
-# IMAGE
+
+![elephants expedition](../images/elephants.png)
 
 * Since all projects are on the Zooniverse platform, the interface is similar for each project. 
 * There is a tutorial pop-up with a number of steps. Use the arrow key to explore the steps.
+![tutorial steps](../images/2-up.png)
 * And there is a space for doing the classification work. 
-# IMAGE
+![classification interface](../images/taggingview.png)
 
 * Show the learners how you might complete a single evaluation task. 
 * Point out that they can explore community conversations under “TALK”, and learn more about the project under “ABOUT”
