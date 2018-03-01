@@ -37,7 +37,7 @@ This is an introductory activity to web literacy skills.
 * Collaboration 
 
 #### Earning Digital Badges
-No Digital Badges for this activity
+Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
 ### Introduction/Opening Circle 
 [6-10 min]
