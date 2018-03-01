@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Web Apps & Building the Web with Thimble"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -11,7 +10,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-# Web Apps & Building the Web with Thimble
+#### Description
 In this online activity, learners consider how they’d like to represent themselves on the web. They get a crash course in the Thimble web development tool and use what they’ve learned in the previous two activities on HTML and tagging to remix a template into their own personal homepage on the web. This lesson revisits the concepts of web hosting, domain names, and urls. 
 
 #### Learning Objectives
@@ -44,7 +43,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction/discussion: What are web applications? 
+### Introduction/discussion: What are web applications? 
 [5-7 min]
 * Frame the activity by explaining that some websites are quite different than others. Some are simple; others are more complex. We can divide websites we use into two broad categories:
 > Tip! It is recommended to first have users complete the “Building Basic Pages” activity. 
@@ -68,7 +67,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Explain that web apps can be much more complex, too. Thimble is a web app for creating web pages. Thimble is a coding tool for writing HTML and other web languages; it also publishes learners’ pages so they’re actually online, on the web. 
 > Tip! If learners have already done the “Building Basic Pages” activity, (which is a recommended) you can remind them that they don’t need to be online OR use a web app like Thimble to create web pages. They can use a simple text editor to write HTML and save their pages, and use any browser to view pages. These pages are offline until uploaded to a web server.
 
-## Meet Thimble, Take A Tour 
+### Meet Thimble, Take A Tour 
 [5-7 min]
 * For this section, the facilitator should project their screen so all learners can see the Thimble tour. Ideally, learners will follow along on their own computers. Learners may find it helpful to work in pairs. 
 > Tip! It’s best if users sign in/create an account so they can publish pages. However, if users don’t feel comfortable creating an account, they can play around with writing or editing HTML in the editor, and seeing how the results change in the preview window. They will not be able to publish pages.
@@ -85,7 +84,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * On top right, there’s a PUBLISH button. If a learner is signed in to Thimble and presses this button, their page will be saved on Mozilla’s servers, and be accessible on the web. Thimble will provide them with a web address that’s different from the one for the Thimble view. This publishes the address of their page, LIVE on the Web! Anyone, anywhere on the web can view their page at this address. 
 > Tip! You may need to clarify for users that people visiting this address will see just the page itself, NOT the working Thimble view with the editor window and all the options. Test it out, and compare the published address vs. the address of the Thimble view.
 
-## Make your Pages 
+### Make your Pages 
 [15-20 mins]
 * For this part of the activity, facilitators have several options for content for these pages.
 * Learners can select an existing project to remix-- Common Tags is a great one to start with. This is a good option if time to generate new content is tight.  https://thimbleprojects.org/mozillalearning/213458/
@@ -111,7 +110,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Copy-paste this raw content into the Thimble editor window and start tagging.
 * Learners who create their own personal pages in Thimble can return to them and add content, especially for the Project Playlist or All the Stickers activities in the “Participate” section. 
 
-## Wrap-up & Optional Discussion Topics 
+### Wrap-up & Optional Discussion Topics 
 [10 mins]
 * Choose one of the topics below to wrap up the activity:
 #### Sharing Code & Remixing with Thimble
@@ -142,7 +141,7 @@ Revisit/explore the difference between composing and publishing with Thimble OR 
 * What do you think the web will look like in 20 years? What would you like to be able to do on the web of the future? 
 > Tip! Facilitator can emphasize that mobile “smart” devices weren’t around 20 years ago-- what we can do on the web may change, but where and how we do it might change, too. 
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
