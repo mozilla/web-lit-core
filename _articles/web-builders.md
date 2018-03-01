@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Web Builders"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -10,7 +9,7 @@ toc:
 - "Learning Experience Reflection"
 ---
 
-## Web Builders
+#### Description
 In this activity, we introduce learners to systems-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites with lots of different pages and frequently updated content, such as blogs or shopping sites. Learners do some data collection, and use analog (pen and paper) examples to explore how web builders work.  
 
 #### Learning Objectives
@@ -49,14 +48,14 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the Open Badges Academy. 
 
-## Introduction 
+### Introduction 
 [2 mins]
 * Explain:
 * Today we’re going to talk about some software tools-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites.
 * These tools pull together HTML and CSS (Cascading Style Sheets, used to add visual styles to web sites) along with other programming languages to speed the process of website creation. 
 * But first, let’s do a quick, fun data collection activity-- we’ll use this data to model how web builders work. 
 
-## Activity: Data Collection 
+### Activity: Data Collection 
 [5 mins]
 * Facilitator hands out mini-worksheets (print 2 per page/cut to save paper). Ask learners to fill them out. Explain: 
 * It’s OK to make up the information.
@@ -73,7 +72,7 @@ Image:
 Traits:
 Available to Adopt (yes/no):
 
-## Discussion: Website Creation 
+### Discussion: Website Creation 
 [30 mins]
 * Explain: We’ve seen how to build a basic web page—we take content and mark it up in HTML. This works great, especially for sites that won’t change too much or for small sites with just 5 or 6 pages. Ask learners:     
     * Can you think of some static sites— sites that don’t have new content often, or ever? Or sites with very few pages? Examples might be a small restaurant, etc. 
@@ -161,7 +160,7 @@ Available to Adopt (yes/no):
 * This is what happens behind the scenes in any of the content management systems/ web builder platforms, like Wordpress or SquareSpace or Wix. 
 * As a user, you’d mostly be typing content into an interface, and selecting a template, and pressing a “publish” button. The code on the server side and in the browser does the rest! And now YOU know how that works!
 
-## Learning Experience Reflection 
+### Learning Experience Reflection 
 [5 mins]
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
