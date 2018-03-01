@@ -1,5 +1,6 @@
 ---
 layout: page
+Title: "The Web and You"
 toc:
 - "Description"
 - "Earning Digital Badges"
@@ -9,8 +10,6 @@ toc:
 - "Reflection/Review"
 - "Learning Experience Reflection"
 ---
-
-# The Web and You
 
 #### Description
 
