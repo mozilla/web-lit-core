@@ -65,7 +65,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 ## Offline Activity: Analog Crowdsourcing 
 [15-20 mins]
 * For this activity, you’ll need two sets of maybe 50 to 60 similar images, each printed on an individual card (you could print a grid of images and cut them up). These could be landscapes, pictures of people, pictures of animals or insects. The images should all be similar, but with some differences. Here is an example:
-# IMAGE
+
+![grid of ladybugs](../images/ladybugs.png)
 
 * Select a volunteer or pair of volunteers to be solo or partner workers (not more than 2 here). Provide that learner or learners with one set of the cards. 
 * The rest of the learners-- these should be most of those in your session-- are your crowd. Divide the second set of the images equally among all these learner-- each should get 3 or 4. 
@@ -99,7 +100,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 > Tip! Facilitator should do this and if possible have their screen projected so all learners can see. 
 * Navigate to Zooniverse, https://www.zooniverse.org
 * Go to the project page:
-# IMAGE
+
 
 * Explain to learners that zooniverse is a platform that hosts lots of research data that participants like you can help classify or evaluate, contributing to real world research!
 * Select a project from among the options on the page and click to be taken to the project page-- For example, this is the home page of a project called Elephant Expedition. 
