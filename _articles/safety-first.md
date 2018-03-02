@@ -242,7 +242,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 #### Offline Activity: Creating Strong Passwords 
 [15 minutes]
 
-![xkcd comic](../images/xkcd.jpg)
+![xkcd comic](../images/xkcd.png)
 
 
 * Share the above xkcd comic strip with your learners. Share that what makes a password easily guessable by machines (and hard to remember for humans!) is the selection of common words, even if you are substituting numbers for letter.
