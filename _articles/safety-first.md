@@ -81,13 +81,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * A sample worksheet for this activity: 
     * My Day (So Far)
     * Use this worksheet to make a list of what your activities so far today. For each item on your, answer the following questions:
-        * What did I do?
-        * When did it happen?
-        * What device did I use? 
-        * Did I visit any websites to accomplish the task?
-    * My name:
-    * Today’s date: 
-    * My journal:
+
+![worksheet](../images/worksheet.png)
  
 * After five minutes of silent reflection, ask your learners to share some of what they did today. Remind your learners that it’s okay to keep personal details private -- this worksheet is for their eyes only! 
 * Ask your learners to take a look back at their sheets, keeping the following questions in mind.
@@ -208,7 +203,7 @@ Digital badges collect evidence and are the demonstration of learned web literac
 * Browser Privacy Checklist
 * Use this checklist to guide you through the process of updating the privacy settings in your browser! 
    
-# 1 IMAGE
+![checklist](../images/worksheet2.png)
 
 * Discussion: After 15 minutes, bring learners together to discuss.
     * How did you find the process of adjusting your browser settings?
@@ -247,7 +242,8 @@ Digital badges collect evidence and are the demonstration of learned web literac
 #### Offline Activity: Creating Strong Passwords 
 [15 minutes]
 
-# 1 IMAGE
+![xkcd comic](../images/xkcd.jpg)
+
 
 * Share the above xkcd comic strip with your learners. Share that what makes a password easily guessable by machines (and hard to remember for humans!) is the selection of common words, even if you are substituting numbers for letter.
 * Encourage your learners to try this [passphrase generator](http://preshing.com/20110811/xkcd-password-generator/). Let learners know they can also do this offline by selecting four random common words from the dictionary and putting them together. 
