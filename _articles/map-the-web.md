@@ -80,7 +80,9 @@ when they are “online” what kind of technology do you use-- what’s immedia
 
 ### Define Web Terms  
 [5 mins]
-* If some of the terms the group has generated are unfamiliar, take some time to define them together. Facilitator can refer to this Glossary for definitions and context. 
+* If some of the terms the group has generated are unfamiliar, take some time to define them together. Facilitator may want to refer below or other resources for glossary of terms.
+    * https://blog.designveloper.com/2016/10/26/web-design-terms/
+    * https://blog.designveloper.com/2016/10/28/web-design-terms-part2/
 > Tip! The [web mechanics speed dating activity](https://mozilla.github.io/curriculum-final/offline-icebreakers/session01-web-mechanics-speed-dating.html#overview) is a great way to work through some of these definitions
 
 ### Assemble the Map or Model  
