@@ -8,6 +8,8 @@ Developing this core curriculum has truly been a community effort involving staf
 
 * Other web literacy activities are here: https://learning.mozilla.org/en-US/activities
 
+* Working open is one of the underlying tenants of the core curriculum, and also one of web literacy skills. One of the first steps in implementing the core curriculum is understanding what it means to work in the open. Thus, we encourage you to take this one hour, free [working in the open workshop](https://mozilla.teachable.com/p/open-leadership-101) to learn the basics of participation, collaboration, and sharing on community-driven projects. 
+
 #### Spread, Grow, and Improve the Curriculum
 We need your help to spread the word on why it's important for people in their everyday lives to have these core skills, and very interested in how the curriculum is being utilized and forked for continuous improvement. 
 
