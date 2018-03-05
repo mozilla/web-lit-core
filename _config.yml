@@ -9,7 +9,7 @@ baseurl: "/web-lit-core" # the subpath of your site, e.g. /blog
 url: "https://mozilla.github.io" # the base hostname & protocol for your site
 github:
   repo: "mozilla/web-lit-core"
-  branch: "master"
+  branch: "gh-pages"
 
 
 collections:
