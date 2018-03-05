@@ -6,6 +6,14 @@ ol li, ul li {
   margin: 10px 0;
 }
 
+ul {
+  list-style-position: inside;
+}
+
+ul ul {
+  margin-left: 40px;
+}
+
 .lesson-content blockquote {
   background: rgba(255,237,0,.25);
   list-style-position: inside;
