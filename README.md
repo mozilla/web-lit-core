@@ -4,11 +4,11 @@ The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners w
 
 Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Erin Davis Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and Digitalme for making web literacy badges a reality. 
 
-* See [crosswalk](https://docs.google.com/document/d/1MKxmLQMSyhDRCFwKcrGHZiHmPUGoFLmD5HFtHWBK7Yg/edit#) of the Web Literacy Skills with core activities. 
+See [crosswalk](https://docs.google.com/document/d/1MKxmLQMSyhDRCFwKcrGHZiHmPUGoFLmD5HFtHWBK7Yg/edit#) of the Web Literacy Skills with core activities. 
 
-* Other web literacy activities are here: https://learning.mozilla.org/en-US/activities
+Other web literacy activities are here: https://learning.mozilla.org/en-US/activities
 
-* Working open is one of the underlying tenants of the core curriculum, and also one of web literacy skills. One of the first steps in implementing the core curriculum is understanding what it means to work in the open. Thus, we encourage you to take this one hour, free [working in the open workshop](https://mozilla.teachable.com/p/open-leadership-101) to learn the basics of participation, collaboration, and sharing on community-driven projects. 
+Working open is one of the underlying tenants of the core curriculum, and also one of web literacy skills. One of the first steps in implementing the core curriculum is understanding what it means to work in the open. Thus, we encourage you to take this one hour, free [working in the open workshop](https://mozilla.teachable.com/p/open-leadership-101) to learn the basics of participation, collaboration, and sharing on community-driven projects. 
 
 #### Spread, Grow, and Improve the Curriculum
 We need your help to spread the word on why it's important for people in their everyday lives to have these core skills, and very interested in how the curriculum is being utilized and forked for continuous improvement. 
