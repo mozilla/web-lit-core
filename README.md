@@ -11,17 +11,20 @@ Other web literacy activities are here: https://learning.mozilla.org/en-US/activ
 Working open is one of the underlying tenants of the core curriculum, and also one of web literacy skills. One of the first steps in implementing the core curriculum is understanding what it means to work in the open. Thus, we encourage you to take this one hour, free [working in the open workshop](https://mozilla.teachable.com/p/open-leadership-101) to learn the basics of participation, collaboration, and sharing on community-driven projects. 
 
 #### Spread, Grow, and Improve the Curriculum
-We need your help to spread the word on why it's important for people in their everyday lives to have these core skills, and very interested in how the curriculum is being utilized and forked for continuous improvement. 
+This core curriculum is meant to catalyze communities around the world to use, spread, grow, and improve.  Thus, please spread the word on why it's important for people in their everyday lives to have these core skills, and let everyone know how the curriculum is being utilized and forked for continuous improvement. 
 
-Here is how you can help:
+Here is how you can contribute:
 * Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8); we'd also love to know [what you've learned by using it](https://github.com/mozilla/web-lit-core/issues/9).
-* translating into different languages
-* remixing for different audiences
-* continually improving the curriculum-- see this [list of tasks and modifications](https://github.com/mozilla/web-lit-core/issues) we need help with! 
+* translate into different languages
+* remix for different audiences
+* continually improve the curriculum-- see this [list of tasks and modifications](https://github.com/mozilla/web-lit-core/issues) we need help with! 
 
 [Fork](https://help.github.com/articles/fork-a-repo/) this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
+
+#### Printout Curriculum from GitHub
+The best way to do this is opening GitHub in the Chrome Browser. 
 
 #### Share your Remixes
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
