@@ -32,6 +32,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * Contribute
 * Share 
 * Evaluate
+* Connect
 * Open Practice
 
 #### 21st Century Skills
