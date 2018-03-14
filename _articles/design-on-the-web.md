@@ -36,7 +36,6 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * Design
 * Search
 * Navigate
-* Synthesize
 
 #### 21st Century Skills
 * Communication
