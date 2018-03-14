@@ -34,6 +34,8 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 * Remix
 * Code
 * Protect
+* Connect
+* Synthesize
 * Open Practice
 
 #### 21st Century Skills
