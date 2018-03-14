@@ -34,7 +34,6 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Web Literacy Skills
 * Search
 * Synthesize
-* Navigate
 * Evaluate
 
 #### 21st Century Skills
