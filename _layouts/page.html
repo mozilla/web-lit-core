@@ -12,7 +12,7 @@ layout: default
 <div class="details">
 </div>
  {{ content }}
-  
+
 {% if page.contents %}
   <h3>In This Section</h3>
 {% for path in page.contents %}
@@ -38,9 +38,4 @@ next:
 {% endif %}
 
 
-<p class="help-us">
-    <edit></edit>
-    Help us improve content and
-    <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page.
-</p>
 </div>

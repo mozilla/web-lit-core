@@ -42,6 +42,29 @@
           </div>
           <div id="content" class="col-md-9 col-xs-12">
             {{ content }}
+
+            {% if page.previous.url and page.next.url %}
+            <div class="next-prev">
+              {% if page.previous.url %}
+                <div class="wrapper">
+                  <div class="arrow">←</div>
+                  <div>Previous: <a class="prev" href="/web-lit-core{{page.previous.url}}">{{page.previous.title}}</a></div>
+                </div>
+              {% endif %}
+              {% if page.next.url %}
+                <div class="wrapper">
+                  <div>Next: <a class="next" href="/web-lit-core{{page.next.url}}">{{page.next.title}}</a></div>
+                  <div class="arrow">→</div>
+                </div>
+              {% endif %}
+            </div>
+            {% endif %}
+
+            <p class="help-us">
+                <edit></edit>
+                Help us improve content and
+                <a target="_blank" href="https://github.com/{{ site.github.repo }}/edit/{{ site.github.branch }}/{{ page.path }}">suggest changes</a> to this page.
+            </p>
           </div>
         </div>
       </div>
