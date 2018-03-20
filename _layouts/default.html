@@ -43,7 +43,7 @@
           <div id="content" class="col-md-9 col-xs-12">
             {{ content }}
 
-            {% if page.previous.url and page.next.url %}
+            {% if page.previous.url or page.next.url %}
             <div class="next-prev">
               {% if page.previous.url %}
                 <div class="wrapper">
