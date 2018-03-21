@@ -1,6 +1,6 @@
 # The WebLit Core Curriculum README
 
-The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners with a basic conceptual understanding of how to read, write, and participate on the web. The Core Activities were culled from new as well as remixing existing activities with the goal of aligning with the [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy). 
+The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners with a basic conceptual understanding of how to read, write, and participate on the web. The Core Activities were assembled from new as well as remixing existing activities with the goal of aligning with the [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy). 
 
 Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Davis Erin Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and Digitalme for making web literacy badges a reality. 
 
@@ -9,7 +9,7 @@ See [crosswalk](https://docs.google.com/document/d/1MKxmLQMSyhDRCFwKcrGHZiHmPUGo
 Other web literacy activities are here: https://learning.mozilla.org/en-US/activities
 
 #### Open Practices
-Working open is one of the underlying tenants of the core curriculum, and also one of web literacy skills. One of the first steps in implementing the core curriculum is understanding what it means to work in the open. Thus, we encourage you to take this one hour, free [working in the open workshop](https://mozilla.teachable.com/p/open-leadership-101) to learn the basics of participation, collaboration, and sharing on community-driven projects. 
+Working open is one of the underlying tenants of the core curriculum, and also one of the web literacy skills. One of the first steps in implementing the core curriculum is understanding what it means to work in the open. Thus, we encourage you to take this one hour, free [working in the open workshop](https://mozilla.teachable.com/p/open-leadership-101) to learn the basics of participation, collaboration, and sharing on community-driven projects. 
 
 #### Spread, Grow, and Improve the Curriculum
 This core curriculum is meant to catalyze communities around the world to use, spread, grow, and improve it. Thus, please spread the word on why it's important for people in their everyday lives to have these core skills, and let everyone know how the curriculum is being utilized and forked for continuous improvement. 
@@ -31,7 +31,7 @@ The best way to do this is opening GitHub in the Chrome Browser.
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
 
 #### Earning Digital Badges
-Digitalme through their Open Badges Academy is offering digital badges for the web literacy skills.  If you are interested in earning or having your learners earn badges, see https://www.openbadgeacademy.com/mozilladirectory.  To help you with assessment of badges, we created these [guidelines](https://docs.google.com/document/d/19QAgcMiVkkAILcT8PZwohrC5A5Y-eUxEw6FUmsp7zRM/edit) to help organizations and programs that are implementing badging systems and systems for assessing their badges. 
+Digitalme, through their Open Badges Academy, is offering digital badges for the web literacy skills.  If you are interested in earning badges yourself or in having your learners earn badges, see https://www.openbadgeacademy.com/mozilladirectory.  To help you with assessment of badges, we created these [guidelines](https://docs.google.com/document/d/19QAgcMiVkkAILcT8PZwohrC5A5Y-eUxEw6FUmsp7zRM/edit) to help organizations and programs that are implementing badging systems and systems for assessing their badges. 
 
 #### Maintainers
 This repository is currently maintained by @anmechung and @zee-moz. 
