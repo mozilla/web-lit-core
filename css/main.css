@@ -808,3 +808,23 @@ video {
 .mentor {
   padding-bottom: 1.5em;
 }
+
+.next-prev {
+  display: flex;
+  background: #f2f2f2;
+  padding: 20px;
+  justify-content: space-between;
+  text-transform: uppercase;
+  margin: 30px 0;
+  color: #8f8f8f;
+}
+
+.next-prev .wrapper {
+  width: 33%;
+  display: flex;
+}
+
+.next-prev .arrow {
+  color: #3bb7ef;
+  padding: 0 0.5rem;
+}
