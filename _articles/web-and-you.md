@@ -37,7 +37,7 @@ This is an introductory activity to web literacy skills.
 * Collaboration 
 
 #### Earning Digital Badges
-Digital badges collect evidence and are the demonstration of learned web literacy skills. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
+Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all 14 web literacy skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
 ### Introduction/Opening Circle 
 [6-10 min]
@@ -126,5 +126,7 @@ At the end of the session, thank the learners for their participation, questions
 * What did you like about this activity?
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
+### Feedback on Core Curriculum
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
 
 
