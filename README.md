@@ -15,7 +15,7 @@ Working open is one of the underlying tenants of the core curriculum, and also o
 This core curriculum is meant to be self-sufficient and catalyze communities around the world to use, spread, grow, and improve it. Thus, please spread the word on why it's important for people in their everyday lives to have these core skills, and let everyone know how the curriculum is being utilized and forked for continuous improvement. 
 
 Here is how you can contribute:
-* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8); we'd also love to know [what you've learned by using it](https://github.com/mozilla/web-lit-core/issues/9).
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8); we'd also like to know [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
 * translate into different languages
 * remix for different audiences
 * continually improve the curriculum-- see this [list of tasks and modifications](https://github.com/mozilla/web-lit-core/issues) we need help with! 
