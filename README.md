@@ -20,7 +20,7 @@ Here is how you can contribute:
 * remix for different audiences
 * continually improve the curriculum-- see this [list of tasks and modifications](https://github.com/mozilla/web-lit-core/issues) we need help with! 
 
-[Fork](https://help.github.com/articles/fork-a-repo/) this repository. This makes your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
+[Fork](https://help.github.com/articles/fork-a-repo/) this repository. Forking is making a copy and creating your own version of this project you can edit and use. Here is also another resource for [forking](https://guides.github.com/activities/forking/#making-changes). 
 
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
