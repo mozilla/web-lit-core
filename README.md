@@ -1,21 +1,21 @@
-# The WebLit Core Curriculum README
+# The WebLit Core Curriculum Overview README
 
-The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners with a basic conceptual understanding of how to read, write, and participate on the web. The Core Activities were assembled from new as well as remixing existing activities with the goal of aligning with the [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy). 
+The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners with a basic conceptual understanding of how to read, write, and participate on the web. The Core Activities were written to be self-sufficient and assembled from new as well as remixing existing activities with the goal of aligning with the [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy). 
 
-Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Davis Erin Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and Digitalme for making web literacy badges a reality. 
+Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Davis Erin Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and [Digitalme](https://digitalme.co.uk/) for making web literacy badges a reality. 
 
 See [crosswalk](https://docs.google.com/document/d/1MKxmLQMSyhDRCFwKcrGHZiHmPUGoFLmD5HFtHWBK7Yg/edit#) of the Web Literacy Skills with core activities. 
 
-Other web literacy activities are here: https://learning.mozilla.org/en-US/activities
+Other web literacy activities: https://learning.mozilla.org/en-US/activities
 
 #### Open Practices
 Working open is one of the underlying tenants of the core curriculum, and also one of the web literacy skills. One of the first steps in implementing the core curriculum is understanding what it means to work in the open. Thus, we encourage you to take this one hour, free [working in the open workshop](https://mozilla.teachable.com/p/open-leadership-101) to learn the basics of participation, collaboration, and sharing on community-driven projects. 
 
 #### Spread, Grow, and Improve the Curriculum
-This core curriculum is meant to catalyze communities around the world to use, spread, grow, and improve it. Thus, please spread the word on why it's important for people in their everyday lives to have these core skills, and let everyone know how the curriculum is being utilized and forked for continuous improvement. 
+This core curriculum is meant to be self-sufficient and catalyze communities around the world to use, spread, grow, and improve it. Thus, please spread the word on why it's important for people in their everyday lives to have these core skills, and let everyone know how the curriculum is being utilized and forked for continuous improvement. 
 
 Here is how you can contribute:
-* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8); we'd also love to know [what you've learned by using it](https://github.com/mozilla/web-lit-core/issues/9).
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8); we'd also like to know [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
 * translate into different languages
 * remix for different audiences
 * continually improve the curriculum-- see this [list of tasks and modifications](https://github.com/mozilla/web-lit-core/issues) we need help with! 
