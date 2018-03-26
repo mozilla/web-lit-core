@@ -1,4 +1,4 @@
-# The WebLit Core Curriculum README
+# The WebLit Core Curriculum Overview README
 
 The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners with a basic conceptual understanding of how to read, write, and participate on the web. The Core Activities were written to be self-sufficient and culled from new as well as remixing existing activities with the goal of aligning with the [Web Literacy Map](https://learning.mozilla.org/en-US/web-literacy). 
 
