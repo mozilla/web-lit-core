@@ -5,7 +5,7 @@ The purpose of Mozilla’s Core Web Literacy Curriculum is to provide learners w
 Web literacy for example helps people:
 * Understand how the Internet works and connects different parts of the web.
 * Share information with others in ways that make sense and protect their privacy and security.
-* Helps people evaluate information, and spot misinformation and disinformation. 
+* Evaluate information, and spot misinformation and disinformation. 
 * Empower themselves and their communities to participate online as citizens, learners, workers, creators, consumers, and people.
 
 Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Davis Erin Anderson, Joanna Milner, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and [Digitalme](https://digitalme.co.uk/) for making web literacy badges a reality. 
