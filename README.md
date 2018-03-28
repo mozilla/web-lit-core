@@ -37,7 +37,7 @@ The best way to do this is opening GitHub in the Chrome Browser.
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
 
 #### Earning Digital Badges
-Digitalme through their Open Badges Academy is offering digital badges for the web literacy skills.  If you are interested in earning or having your learners earn badges, see https://www.openbadgeacademy.com/mozilladirectory.  To help you with assessment of badges, we created these [guidelines](https://docs.google.com/document/d/19QAgcMiVkkAILcT8PZwohrC5A5Y-eUxEw6FUmsp7zRM/edit) to help organizations and programs that are implementing badging systems and systems for assessing their badges. 
+Digitalme through their [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory) is offering digital badges for the web literacy skills if you are interested in earning or having your learners earn badges. To help you with assessment of badges, we created these [guidelines](https://docs.google.com/document/d/19QAgcMiVkkAILcT8PZwohrC5A5Y-eUxEw6FUmsp7zRM/edit) to help organizations and programs that are implementing badging systems and systems for assessing their badges. 
 
 #### Maintainers
 This repository is currently maintained by @anmechung and @zee-moz. 
