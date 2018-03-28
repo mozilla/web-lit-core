@@ -31,7 +31,7 @@ Here is how you can contribute:
 First time contributing to open source? Check out this free series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
 #### Printout Curriculum from GitHub
-The best way to do this is opening GitHub in the Chrome Browser. 
+The best way to do this is opening GitHub in the Chrome browser. 
 
 #### Share your Remixes
 For anyone remixing and creating own custom version of the curriculum, we encourage you to add your remixes to https://www.mozillapulse.org/issues/web-literacy.
