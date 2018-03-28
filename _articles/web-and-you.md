@@ -9,7 +9,7 @@ toc:
 - "Reflection/Review"
 - "Learning Experience Reflection"
 ---
-![Kraken attacks ship](../images/kraken.jpg)
+![Internet image](../images/background-2462434_640.jpg)
 
 #### Description
 
