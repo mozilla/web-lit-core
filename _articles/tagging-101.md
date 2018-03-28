@@ -11,6 +11,7 @@ toc:
 - "Learning Experience Reflection"
 
 ---
+![tagging](../images/code-3078609_640.jpg)
 
 #### Description
 In this activity, learners explore how information like text and images can be presented to be easily readable/understandable, and how this works on the web using HTML tags. This activity explores how browsers work, how web pages are structured, the relationship between HTML tags and content. 
