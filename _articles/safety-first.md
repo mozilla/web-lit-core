@@ -10,7 +10,7 @@ toc:
 - "Wrap-Up and Reflection"
 - "Learning Experience Reflection"
 ---
-![safety](../images/castle-2688940_640.png)
+![safety](../images/security-2168233_640.jpg)
 
 #### Description
 In this mix of online and offline activities, Safety First, Part 1 unpacks the ways in which our everyday online activities can be tracked. Learners will first work on a privacy audit, during which they will uncover the ways in which their personal activities can be viewed by external parties. Learners will learn about metadata and what it can reveal about us. Finally, learners will develop an awareness of the mechanisms in place for tracking our activities online. 
