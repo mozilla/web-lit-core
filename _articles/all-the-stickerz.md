@@ -10,6 +10,8 @@ toc:
 - "Online Activity: Digital Pixel Art"
 - "Learning Experience Reflection"
 ---
+![stickers](../images/luggage-1149289_640.jpg)
+
 #### Description
 In this combo offline/online activity, learners explore how some digital images are made of pixels, and how those images are structured and displayed. They discuss what they’d most like to communicate online, and create their own, novel visual communication tool to do it: a pixel art image or web sticker. They create web stickers in analog form first, and then recreated them with digital tools. Learners add their stickers to their own sites (if they’ve created sites in WRITE activities), or try sending them via email or posting them on social media. 
 
