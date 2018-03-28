@@ -9,6 +9,7 @@ toc:
 - "Reflection/Review"
 - "Learning Experience Reflection"
 ---
+![Firefox](../images/firefox.jpg)
 
 #### Description
 An internet browser, also known as a web browser or simply a browser, is a software program that you use to access the internet and view web pages on your computer. You can think of your browser as your gateway to the internet. Learners will reflect on the tools they use to navigate a website and build on their existing knowledge. 
