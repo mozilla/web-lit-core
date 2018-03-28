@@ -10,7 +10,7 @@ toc:
 - "Wrap-Up and Reflection"
 - "Learning Experience Reflection"
 ---
-![lists](../images/laptop-3233643_640.jpg)
+![lists](../images/syndicate-1207270_640.jpg)
 
 #### Description
 In this online activity learners consider how the selective sharing or “curation” of existing online assets-- images, video, sounds, text-- is part of everyday web use, and how the web is designed to encourage this kind of sharing. In groups or individually, learners curate their own set of songs or sounds from the music sharing site Soundcloud, and embed the media files on them on their own web pages as a playlist. They include commentary and descriptions that explain their selections-- how and why they curated this particular playlist-- to anyone visiting the page. 
