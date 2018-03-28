@@ -8,6 +8,7 @@ toc:
 - "Discussion: Website Creation"
 - "Learning Experience Reflection"
 ---
+![web builders](../images/adult-1822559_640.jpg)
 
 #### Description
 In this activity, we introduce learners to systems-- called website builders or content management systems-- that many people (designers, developers, as well as web newcomers who are non-experts) use to create websites with lots of different pages and frequently updated content, such as blogs or shopping sites. Learners do some data collection, and use analog (pen and paper) examples to explore how web builders work.  
