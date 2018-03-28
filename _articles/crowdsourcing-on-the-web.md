@@ -9,7 +9,7 @@ toc:
 - "Reflection/wrap up"
 - "Learning Experience Reflection"
 ---
-![lists](../images/syndicate-1207270_640.jpg)
+![lists](../images/people-2608316_640.jpg)
 
 #### Description
 In this activity, learners will explore how lots of individuals can work together on the same learning or discovery project, using the web as a collaboration tool. Learners will briefly discuss how the web and other digital tools have increased the amount of information online, as well as potential human resources. They will also explore the notion of crowdsourcing and help out with a research study using the Zooniverse platform for citizen science (or other platform-- facilitator’s choice). 
