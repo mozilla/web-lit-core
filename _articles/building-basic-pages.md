@@ -9,6 +9,7 @@ toc:
 - "Go Online!"
 - "Learning Experience Reflection"
 ---
+![building blocks](../images/building-blocks-4...640.jpg)
 
 #### Description
 In this activity, users will create their first web page using a basic text editor and a browser to view the results. They’ll interview each other to get content for a personal (or fictional) “About” page, organize and write up the content, and mark it up using HTML. Users can upload these files to a server (if available) and get their content on the web! 
