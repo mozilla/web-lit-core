@@ -13,7 +13,7 @@ toc:
 - "Reflection/Review"
 - "Learning Experience Reflection"
 ---
-
+![World Wide Web}(
 #### Description
 In this discussion/mapping/performance activity, learners share what they already know about the web, and collaborate to fill in gaps and answer questions. They work together to organize this information into a visual and spatial “map” that shows the relationships between lots of elements of the web, from servers to websites to tweets to mobile phones. In a final section of the activity, learners “perform the net” by acting out relationships. 
 
