@@ -10,6 +10,7 @@ toc:
 - "Online Activity"
 - "Learning Experience Reflection"
 ---
+![search](../images/lost-16055-1_640.jpg)
 
 #### Description
 In this discussion/offline activity, learners consider web searching, and why it’s so important and so challenging. They learn about software programs called “web crawlers” and “search engines” that help find and deliver search results from among billions and billions of web resources. Learners also get an introduction to algorithms, and practice writing and revising algorithms. 
