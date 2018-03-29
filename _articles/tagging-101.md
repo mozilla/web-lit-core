@@ -1,7 +1,7 @@
 ---
 layout: page
+following: _articles/building-basic-pages.md
 toc:
-
 - "Introduction"
 - "Content & Tags"
 - "Offline: Tag The World"
