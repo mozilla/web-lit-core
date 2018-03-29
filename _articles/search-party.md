@@ -2,7 +2,7 @@
 layout: page
 toc:
 - "Introduction/Opening Circle"
-- "Short discussion/Framing: Searching the Web"
+- "Framing: Searching the Web"
 - "Offline Activity: Be the crawler!"
 - "Re-Frame"
 - "Online Activity"
@@ -49,7 +49,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 > Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 > Tip! The facilitator should model a short intro, so learners know what this looks like, and especially, how much time they have for their introduction. 
 
-### Short discussion/Framing: Searching the Web 
+### Framing: Searching the Web 
 [5 mins]
 * What’s the last thing you searched for on the web? What tools do you use to when you search?  When you search, how often do you find what you are looking for? Are some searches easier than others? 
 * Facilitator connects discussion responses to a big idea
