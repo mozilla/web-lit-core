@@ -10,7 +10,7 @@ toc:
 - "Learning Experience Reflection"
 
 ---
-![web design](../images/spider-web-2732245_640.jpg)
+![web design](../images/abstract-2829965_640.png)
 
 #### Description
 In this discussion and online activity, learners explore and experience how visual design works on the web, and how web designers use their skills to encourage certain behaviors. Learners compare and contrast the visual and interactive elements of different pages and platforms. In pairs, they narrate and document “user journeys” through a website-- a process that real-life web designers use to test and improve sites.  
