@@ -3,7 +3,7 @@ layout: page
 toc:
 - "Introduction"
 - "Pixels"
-- "Screens, Bitmaps, and Resolution"
+- "Screens, Bitmaps, Resolution"
 - "Offline: Analog Pixel Art"
 - "Online: Digital Pixel Art"
 - "Learning Experience Reflection"
@@ -66,7 +66,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 ![space invaders detail](../images/invaders2.png)
 
 
-### Screens, Bitmaps, and Resolution
+### Screens, Bitmaps, Resolution
 [5-10 mins]
 * Ask learners: When artists like Chuck Close and George Seurat create an image, what are they working on? What is the surface they work on? (Answers might be: paper, canvas, wood, walls for muralists etc.) 
 * Point out that in the real world these items always have measurable dimensions - whether they are teeny tiny or as big as the side of a building.
