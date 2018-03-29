@@ -1,6 +1,6 @@
 ---
 layout: page
-following: _articles/{web-detective}.md
+following: _articles/web-detective.md
 toc:
 - "Introduction"
 - "Framing: Searching the Web"
