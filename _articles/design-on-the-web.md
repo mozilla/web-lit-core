@@ -5,7 +5,7 @@ toc:
 - "Visual Design Elements"
 - "Interactive Design Elements"
 - "User Goals, Site Goals"
-- "Activity: Site investigations/User Journeys"
+- "Activity: Investigations and Journeys"
 - "Reflection and Review"
 - "Learning Experience Reflection"
 
@@ -138,7 +138,7 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * What happens when user and site goals are in conflict?
 * Explain to learners that by documenting their experience with sites, they can see how the design of the site works to meet sites’ goals and user’s goals… or not!
 
-### Activity: Site investigations/User Journeys 
+### Activity: investigations and Journeys 
 [15 minutes]
 * In this activity, learners will pair up and work together to document their own user journeys with a specific site. The aim is to notice how they’re interacting with the site’s design. Ideally each pair of learners should have a computer to work on. 
 * Facilitator splits group into pairs. Facilitator can select sites for learners to work with, or users can select their own sites. 
