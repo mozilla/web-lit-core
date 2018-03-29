@@ -1,6 +1,6 @@
 ---
 layout: page
-following: _articles/map-the-web.md
++ following: _articles/map-the-web.md
 toc:
 - "Introduction"
 - "Introducing the Web"
