@@ -6,7 +6,7 @@ toc:
 - "Content & Tags"
 - "Offline: Tag The World"
 - "Offline: Tag Tag Revolution"
-- "Offline and Online: HTML Tags In Action!"
+- "Offline and Online: Tags In Action!"
 - "Learning Experience Reflection"
 
 ---
