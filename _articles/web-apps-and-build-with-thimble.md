@@ -1,5 +1,6 @@
 ---
 layout: page
+following: _articles/web-builders.md
 toc:
 - "Introduction"
 - "Meet Thimble, Take A Tour "
