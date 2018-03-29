@@ -1,14 +1,12 @@
 ---
 layout: page
 toc:
-- "Description"
-- "Earning Digital Badges"
 - "Introduction/Discussion"
 - "Visual Design Elements"
 - "Interactive Design Elements"
 - "User Goals, Site Goals"
 - "Activity: Site investigations/User Journeys"
-- "Reflection/Review"
+- "Reflection and Review"
 - "Learning Experience Reflection"
 
 ---
@@ -161,7 +159,7 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * Each learner should take about 5-7 minutes browsing a site as a user, and 5-7 minutes documenting their partner’s experience as the listener/note taker.
 > Tip! Offline version of above activity: Facilitators could print out a web page for learners to mark up. Both an internal page and the site's home page could be provided (in order to investigate whether the internal page effectively helps a user navigate the rest of the site).  As a follow-on, learners could use a blank sheet of paper to create a prototype of a web page that effectively addresses any issues they see in the handouts provided.
 
-### Reflection/Review
+### Reflection and Review
 [5 mins]
 * Facilitator leads a short discussion/reflection session about user journeys. 
 * Facilitator explains that user journeys are a tool that designers use when they test out sites and applications-- they might get users to try using the site and document what they do at each step of the process, to help refine the design.
@@ -178,4 +176,4 @@ Links, forms, search bars, “like” buttons, buy now buttons, comment boxes, s
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
-* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
