@@ -1,5 +1,6 @@
 ---
 layout: page
+following: _articles/safety-first.md
 toc:
 - "Introduction"
 - "Activity: Data Collection"
