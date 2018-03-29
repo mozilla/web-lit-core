@@ -1,8 +1,6 @@
 ---
 layout: page
 toc:
-- "Description"
-- "Earning Digital Badges"
 - "Introduction"
 - "Offline: Analog Crowdsourcing"
 - "Online: Zooniverse"
