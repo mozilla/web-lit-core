@@ -1,7 +1,6 @@
 ---
 layout: page
 toc:
-- "Description"
 - "Introduction/Opening Circle"
 - "Introducing the Web"
 - "Storytelling: The Web and You"
