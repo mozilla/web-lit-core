@@ -1,13 +1,12 @@
 ---
 layout: page
 toc:
-- "Description"
-- "Earning Digital Badges"
+
 - "Introduction"
 - "Content & Tags"
-- "Offline Activity: Tag The World"
-- "Offline Activity: Tag Tag Revolution"
-- "Offline and ONLINE activity: HTML Tags In Action!"
+- "Offline: Tag The World"
+- "Offline: Tag Tag Revolution"
+- "Offline and Online: HTML Tags In Action!"
 - "Learning Experience Reflection"
 
 ---
@@ -87,7 +86,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * With very few exceptions, tags are ALWAYS matched with content, just like the tag examples we discussed.
 * Tell learners that now we’ll experiment with the CONCEPT of tags and tagging in offline activities, before we dive in and see how they work online
 
-### Offline Activity: Tag The World 
+### Offline: Tag The World 
 [10 mins]
 > Tip! If your learners seem comfortable with the concept of opening and closing tags (or you are pressed for time), you can skip this and move on to the next section. If they need more time with this concept, do Tag the World.
 * Introduction: Explain to participants that they are going to experiment with making tags and assigning tags to real-world stuff in the room. Hand out sheets of paper, markers, and scotch tape. Explain that this is an exercise to show the CONCEPT of tagging, and opening and closing tags. 
@@ -100,7 +99,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * You can tag anything in the room-- make your own tags and hang them up!
 > Tip! To get learners started, create a sample tag and put it up in the room-- <chair> </chair> for example. Encourage people to have fun, and be creative!
 
-### Offline Activity: Tag Tag Revolution 
+### Offline: Tag Tag Revolution 
 [10 mins]
 * Introduction: Explain to participants that they are about to have a fun dance party to show them how HTML tags assign instructions to content. 
 * Steps: 
@@ -116,7 +115,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * After all the tags have been used, you could have the players with tags move around one at a time to change up who is doing what. This will help help learners understand how tags are applied to content, how they open and close, in HTML.
 * Here in the real world, you have complete freedom to make their own tags names-- later we’ll see that in the coding language HTML, we use a restricted set of tags names that everyone agrees upon, that make sense for web content. But for now, make up whatever tag you want.
 
-### Offline and ONLINE activity: HTML Tags In Action! 
+### Offline and Online: HTML Tags In Action! 
 [15 mins]
 * Introduction: Explain that we’ve seen what tags look like, and how they work with content (what’s inside the tags). Now let’s practice using some real tags that are part of the HyperText Markup Language (HTML). 
 * First, let’s check out a simple HTML document-- guess what-- from a web designer and developer, when they are building web pages, what they are working with is HTML code in a simple text file. 
@@ -140,4 +139,4 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
-* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
