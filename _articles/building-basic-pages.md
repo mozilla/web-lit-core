@@ -1,6 +1,6 @@
 ---
 layout: page
-following: _articles/web-apps-and-build-with-thimble.md
+following: _articles/make-friends-with-your-browser.md
 toc:
 - "Introduction"
 - "Content and Storytelling"
