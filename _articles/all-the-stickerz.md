@@ -1,5 +1,6 @@
 ---
 layout: page
+following: _articles/crowdsourcing-on-the-web.md
 toc:
 - "Introduction"
 - "Pixels"
