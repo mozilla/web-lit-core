@@ -1,5 +1,6 @@
 ---
 layout: page
+following: _articles/building-basic-pages.md
 toc:
 - "Introduction"
 - "Content and Storytelling"
