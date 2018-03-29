@@ -1,5 +1,6 @@
 ---
 layout: page
+following: _articles/all-the-stickerz.md
 toc:
 - "Introduction"
 - "Part 1: Defining Privacy"
