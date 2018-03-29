@@ -5,7 +5,7 @@ toc:
 - "Introduction/Opening Circle"
 - "Introducing the Web"
 - "Storytelling: The Web and You"
-- "Reflection/Review"
+- "Reflection and Review"
 - "Learning Experience Reflection"
 ---
 ![Internet image](../images/background-2462434_640.jpg)
@@ -98,7 +98,7 @@ The facilitator asks the group to share kinds of things they do “online.”
     * What is similar? 
 * Remind participants to thank each speaker for their story. 
 
-### Reflection/Review 
+### Reflection and Review 
 [10-15 mins]
 * Now that learners have shared their individual stories, the facilitator asks the group to reflect on what they heard (in their own story, and others’ stories) and document and/or discuss all the different ways the group uses the web. 
 > Tip! If time is tight, the facilitator may opt to do either the word map exercise, or pose some exploration questions.  
