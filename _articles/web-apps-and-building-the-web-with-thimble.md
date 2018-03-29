@@ -1,9 +1,7 @@
 ---
 layout: page
 toc:
-- "Description"
-- "Earning Digital Badges"
-- "Introduction/discussion: What are web applications?"
+- "Introduction/discussion"
 - "Meet Thimble, Take A Tour "
 - "Make your Pages"
 - "Wrap-up & Optional Discussion Topics"
@@ -44,7 +42,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all web literacy plus 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
-### Introduction/discussion: What are web applications? 
+### Introduction/discussion
 [5-7 min]
 * Frame the activity by explaining that some websites are quite different than others. Some are simple; others are more complex. We can divide websites we use into two broad categories:
 > Tip! It is recommended to first have users complete the “Building Basic Pages” activity. 
@@ -151,7 +149,7 @@ Revisit/explore the difference between composing and publishing with Thimble OR 
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
-* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
 
 
 
