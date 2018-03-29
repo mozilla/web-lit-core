@@ -7,7 +7,7 @@ toc:
 - "Define Web Terms"
 - "Assemble the Map or Model" 
 - "Perform the Net"
-- "Optional Discussion: Internet Protocol Addresses"
+- "Optional: Internet Protocol Addresses"
 - "Reflection and Review"
 - "Learning Experience Reflection"
 ---
@@ -144,7 +144,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
 > * Do you think a packet in real life moves faster through the Internet than you did?
 * Note:  If you don’t have the physical space for this activity, learners can create their understanding of how the parts of the web interact by using objects such as play-doh, straws, strings, or other objects. 
 
-### Optional Discussion: Internet Protocol Addresses 
+### Optional: Internet Protocol Addresses 
 [5 mins]
 * Ask the group how many computers or devices are connected to the internet.
 * How do you think each computer is identified or located in the network? 
