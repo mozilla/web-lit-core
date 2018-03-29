@@ -2,15 +2,13 @@
 layout: page
 
 toc:
-- "Description"
-- "Earning Digital Badges"
 - "Introduction/Opening Circle"
 - "Brainstorm Map Elements"
 - "Define Web Terms"
 - "Assemble the Map or Model" 
 - "Perform the Net"
 - "Optional Discussion: Internet Protocol Addresses"
-- "Reflection/Review"
+- "Reflection and Review"
 - "Learning Experience Reflection"
 ---
 ![World Wide Web](../images/earth-216834_640.jpg)
@@ -158,7 +156,7 @@ when they are “online” what kind of technology do you use-- what’s immedia
 * If we type this into a browser, it resolves into human-friendly web address. 
 > Tip! If a computer is available, demo how entering an IP address takes you to a human friendly domain name 
 
-### Reflection/Review 
+### Reflection and Review 
 [5 mins]
 * In closing, facilitator may ask reflection questions like: 
     * What happens on the Internet when you type a Web address and hit enter?
