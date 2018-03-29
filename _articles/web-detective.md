@@ -4,7 +4,7 @@ toc:
 - "Introduction"
 - "Co-create a list of rules/criteria"
 - "Research and evaluate evidence"
-- "Take your detecting skills into the wild"
+- "Detecting skills in the wild"
 - "Learning Experience Reflection"
 ---
 ![detective](../images/detective-788592_640.jpg)
@@ -114,7 +114,7 @@ sources, authors-- backgrounds, capabilities, freshness/date, familiarity of sit
 * Share results of the research question-- what are their answers? How did the list of rules help?
 * Conclusion: Given these stories, we can say that the kraken, a 100- to 120-foot tentacled sea creature that attacks and sink ships, is probably NOT real. In the first story, a rock island is mistaken for a kraken. In the second story, video has been shot of a giant squid, but it is much smaller and shyer than the kraken we are looking for, though it may have inspired the legends. 
 
-### Take your detecting skills into the wild 
+### Detecting skills in the wild 
 [15-20 mins] 
 * Explain to learners that they’ve tested their list on a set of curated resources-- news items that were picked in advance. Now, they can test out their lists on news and info sources that they find, “in the wild.” 
 * Brainstorm with learners, or assign a question that is controversial-- either from the news or pop culture.
