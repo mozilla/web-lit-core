@@ -4,7 +4,7 @@ toc:
 - "Introduction"
 - "Part 1: Defining Privacy"
 - "Part 2: Your Privacy Checklist"
-- "Putting It All Together: Hacker Cards"
+- "Hacker Cards"
 - "Wrap-Up and Reflection"
 - "Learning Experience Reflection"
 ---
@@ -269,7 +269,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 > * San Jose Public Library Virtual Privacy Lab https://www.sjpl.org/privacy
 > * Lebanon Public Library https://www.leblibrary.com/online-self-defense
 
-### Putting It All Together: Hacker Cards 
+### Hacker Cards 
 [10 minutes]
 * Now let’s put our knowledge to the test!
 * Give this Privacy Card Game: https://thimbleprojects.org/mozillalearning/308795/
