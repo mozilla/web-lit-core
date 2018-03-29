@@ -4,7 +4,7 @@ toc:
 - "Introduction/discussion"
 - "Meet Thimble, Take A Tour "
 - "Make your Pages"
-- "Wrap-up & Optional Discussion Topics"
+- "Wrap-up & Optional Discussion"
 - "Learning Experience Reflection"
 ---
 ![web apps](../images/human-3175027_640.jpg)
@@ -109,7 +109,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Copy-paste this raw content into the Thimble editor window and start tagging.
 * Learners who create their own personal pages in Thimble can return to them and add content, especially for the Project Playlist or All the Stickers activities in the “Participate” section. 
 
-### Wrap-up & Optional Discussion Topics 
+### Wrap-up & Optional Discussion 
 [10 mins]
 * Choose one of the topics below to wrap up the activity:
 
