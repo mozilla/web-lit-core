@@ -4,8 +4,8 @@ toc:
 - "Description"
 - "Earning Digital Badges"
 - "Introduction"
-- "Offline Activity: Analog Crowdsourcing"
-- "Online Activity- Zooniverse"
+- "Offline: Analog Crowdsourcing"
+- "Online: Zooniverse"
 - "Reflection/wrap up"
 - "Learning Experience Reflection"
 ---
@@ -63,7 +63,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Until the web, there wasn’t an easy way to tap into that collective human resource, to bring people together to share skills or do work or learn together.
 * Today we’re going to look at some of the ways we can collaborate and work with lots of other people on the web-- and help with the challenges and possibilities of all this digital information. But let’s start with an offline experience to warm us up!
 
-### Offline Activity: Analog Crowdsourcing 
+### Offline: Analog Crowdsourcing 
 [15-20 mins]
 * For this activity, you’ll need two sets of maybe 50 to 60 similar images, each printed on an individual card (you could print a grid of images and cut them up). These could be landscapes, pictures of people, pictures of animals or insects. The images should all be similar, but with some differences. Here is an example:
 
@@ -85,7 +85,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * There are larger tasks, especially in the area of scientific research, that can make use of large scale, online crowdsource power to evaluate lots and lots of data, the kind that’s collected at large scales, just as we discussed at the beginning of the session 
 * Tell learners that next they’ll use the web to see how they can participate in actual scientific research online-- they’ll become citizen scientists or researchers, part of an effort to encourage more people to experience and be part of scientific discovery.  
 
-### Online Activity- Zooniverse 
+### Online: Zooniverse 
 [25-30 mins]
 * For this activity, learners will be participating in some crowdsourced science research using Zooniverse (or another platform, as selected by the facilitator.) Depending on time, there are two options here:
 * Facilitator selects one project in advance and walks users through the steps to participate (see example below) OR
@@ -136,4 +136,4 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience?
 
 ### Feedback on Core Curriculum
-* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
