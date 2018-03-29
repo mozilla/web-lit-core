@@ -4,7 +4,7 @@ toc:
 - "Introduction"
 - "Offline: Analog Crowdsourcing"
 - "Online: Zooniverse"
-- "Reflection/wrap up"
+- "Reflection and Wrap Up"
 - "Learning Experience Reflection"
 ---
 ![lists](../images/people-2608316_640.jpg)
@@ -117,7 +117,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * Point out that they can explore community conversations under “TALK”, and learn more about the project under “ABOUT”
 * Do the activity! Give learners 15 to 20 minutes to contribute to one or more projects on Zooniverse.
 
-### Reflection/wrap up 
+### Reflection and Wrap Up 
 [5-10 mins]
 * Ask learners some questions about their experience, and encourage a discussion. Sample questions below: 
     * What was it like to do this task? What was surprising? What was challenging? 
