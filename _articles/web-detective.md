@@ -2,7 +2,7 @@
 layout: page
 toc:
 - "Introduction"
-- "Co-create a list of rules/criteria"
+- "Co-create a list of criteria"
 - "Research and evaluate evidence"
 - "Detecting skills in the wild"
 - "Learning Experience Reflection"
@@ -58,7 +58,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 >    * Point out that we can pay attention to what we’re noticing and feeling online, and use these responses plus a set of criteria to help us  be better web detectives.  
 > * Tip! A remix of this is to talk about advertising strategies, hype, etc. that web media is often designed to elicit specific feelings. 
 
-### Co-create a list of rules/criteria
+### Co-create a list of criteria
 [10 mins]
 * Create criteria to guide you in determining reliability of information on the web. 
 * Have users think and write on sticky notes individually, and then share with the group.
