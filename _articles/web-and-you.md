@@ -2,7 +2,6 @@
 layout: page
 toc:
 - "Description"
-- "Earning Digital Badges"
 - "Introduction/Opening Circle"
 - "Introducing the Web"
 - "Storytelling: The Web and You"
