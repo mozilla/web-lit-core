@@ -1,7 +1,7 @@
 ---
 layout: page
 toc:
-- "Introduction/Opening Circle"
+- "Introduction and Opening Circle"
 - "Introducing the Web"
 - "Storytelling: The Web and You"
 - "Reflection and Review"
@@ -38,7 +38,7 @@ This is an introductory activity to web literacy skills.
 #### Earning Digital Badges
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all the web literacy plus 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
-### Introduction/Opening Circle 
+### Introduction and Opening Circle 
 [6-10 min]
 * The facilitator asks each participant to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
 
