@@ -1,6 +1,6 @@
 ---
 layout: page
-following: _articles/building-basic-pages.md
+following: _articles/web-apps-and-build-with-thimble.md
 toc:
 - "Introduction"
 - "Content and Storytelling"
