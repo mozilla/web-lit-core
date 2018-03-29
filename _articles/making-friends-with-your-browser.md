@@ -1,12 +1,10 @@
 ---
 layout: page
 toc:
-- "Description"
-- "Earning Digital Badges"
 - "Enter the World Wide Web"
 - "Part I"
 - "Part II"
-- "Reflection/Review"
+- "Reflection and Review"
 - "Learning Experience Reflection"
 ---
 ![Firefox](../images/Firefox.jpg)
@@ -88,7 +86,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * Go to the X page and list 3 pieces of information on this page
     * What web browser are you using? 
 
-### Reflection/Review 
+### Reflectio and Review 
 [5 mins]
 * Facilitator asks learners: how does what you learned today change how you think about web searches, and search results?
 
@@ -98,7 +96,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * If you might teach this activity to a particular audience, what might you change about the process, structure, or content to better meet the needs of that audience? 
 
 ### Feedback on Core Curriculum
-* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what might you change](https://github.com/mozilla/web-lit-core/issues/9).
+* Tell us [how and where you're using the curriculum](https://github.com/mozilla/web-lit-core/issues/8) and [what you've learned and what you might change](https://github.com/mozilla/web-lit-core/issues/9).
 
 
 
