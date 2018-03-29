@@ -1,5 +1,6 @@
 ---
 layout: page
+following: _articles/design-on-the-web.md
 toc:
 - "Introduction"
 - "Co-create a list of criteria"
