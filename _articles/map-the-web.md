@@ -2,7 +2,7 @@
 layout: page
 
 toc:
-- "Introduction/Opening Circle"
+- "Introduction"
 - "Brainstorm Map Elements"
 - "Define Web Terms"
 - "Assemble the Map or Model" 
@@ -46,7 +46,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all the web literacy and 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
-### Introduction/Opening Circle 
+### Introduction
 [5-10 mins]
 * If group members are new to each other, the facilitator asks each member of the group to introduce themselves and answer an icebreaker question (such as favorite food, favorite game, what muppet or cartoon character you most resemble). 
 > Tip! The icebreaker question helps learners get to know others in the group and feel more comfortable during the discussion; it can-- but does not have to be-- web literacy related. 
