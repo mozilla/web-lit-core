@@ -2,10 +2,10 @@
 layout: page
 toc:
 - "Introduction"
-- "Discussion: Pixels"
-- "Discussion: Screens, Bitmaps, and Resolution"
-- "Offline Activity: Analog Pixel Art"
-- "Online Activity: Digital Pixel Art"
+- "Pixels"
+- "Screens, Bitmaps, and Resolution"
+- "Offline: Analog Pixel Art"
+- "Online: Digital Pixel Art"
 - "Learning Experience Reflection"
 ---
 ![stickers](../images/luggage-1149289_640.jpg)
@@ -51,7 +51,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 [1 min]
 * Explain: We’re going to talk about how computers create and store images using lots of tiny bits of color, and how we use those images to communicate online. And we’re going to create some very simple images of our own, both in analog and digital form. 
 
-### Discussion: Pixels 
+### Pixels 
 [5-10 mins]
 * Ask Learners: Who has heard the term “pixel” before? What’s a pixel? What do you know about them? Tip! May have to explain the difference between pixel the computing term, and Pixel the Google smartphone product. 
 * Explain: The term “pixel” comes from the word Picture Element. It’s the smallest possible element, the smallest unit of information in a digital image. 
@@ -66,7 +66,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 ![space invaders detail](../images/invaders2.png)
 
 
-### Discussion: Screens, Bitmaps, and Resolution
+### Screens, Bitmaps, and Resolution
 [5-10 mins]
 * Ask learners: When artists like Chuck Close and George Seurat create an image, what are they working on? What is the surface they work on? (Answers might be: paper, canvas, wood, walls for muralists etc.) 
 * Point out that in the real world these items always have measurable dimensions - whether they are teeny tiny or as big as the side of a building.
@@ -89,7 +89,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 * We calculate the resolution of an image by multiplying the width and the height of the bitmap
 * Ask learners: who has heard the term “low resolution”? Or “high resolution?” What do these mean? (answers: low resolution means an image with fewer pixels, high resolution means an image with more pixels. The more pixels there are in the image, the more information and detail we get. ) 
 
-### Offline Activity: Analog Pixel Art 
+### Offline: Analog Pixel Art 
 [15-20 mins]
 * Explain to learners that they’ll create some art using pixels, but in an analog way. They’ll create an image that they can later translate into digital form for use on the web. 
 * Briefly discuss visual communication online:  Are there ways that they already use images to communicate with others online?  (answers here might be: Facebook like button, emojis, avatars, etc)  What are examples? How and what do these images say? Is there something that you’ve been wanting to communicate that no image exists yet?  What might that be? What kinds of communication would you like to see more or less of online?
@@ -116,7 +116,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * Were you surprised by how much or how little you can communicate with pixels? 
     * How did resolution come into play? How did color factor in? 
 
-### Online Activity: Digital Pixel Art 
+### Online: Digital Pixel Art 
 [15-20 mins]
 * Explain to learners that they will use a web-based tool to create their own digital versions of the analog pixel art they just made.  You can use technology to draw and paint, and not just use your camera to record
 * Direct them to https://make8bitart.com/
