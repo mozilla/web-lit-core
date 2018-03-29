@@ -2,7 +2,7 @@
 layout: page
 toc:
 - "Introduction"
-- "Content Generation/Storytelling"
+- "Generate Content/Storytelling"
 - "Get Tagging!"
 - "Go Online!"
 - "Learning Experience Reflection"
@@ -56,7 +56,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 > Tip! Here you can point to the diagram, and show that you’re making a page on a client computer, one that’s not sharing files like a server!
 * To get started, we need CONTENT-- because the web is all about communication and sharing of information and ideas. Let’s generate some content together!
 
-### Content Generation/Storytelling 
+### Generate Content/Storytelling 
 [20 mins]
 > Tip! This next part is fun and interactive, and great for creating a friendly, positive classroom community. But if you’re short on time, and if giving learners a sense that they can have their own representation on the web is NOT a priority, you can provide canned pre-typed content as a .txt file and skip to the next section-- “Get Tagging.” 
 * Write your Biography or “About” page. Have participants break into pairs and interview each other about their lives. As facilitator, keep track of time to ensure that each learner has equal time for their story. 
