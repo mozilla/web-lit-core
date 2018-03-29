@@ -86,7 +86,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * Go to the X page and list 3 pieces of information on this page
     * What web browser are you using? 
 
-### Reflectio and Review 
+### Reflection and Review 
 [5 mins]
 * Facilitator asks learners: how does what you learned today change how you think about web searches, and search results?
 
