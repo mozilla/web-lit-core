@@ -1,7 +1,7 @@
 ---
 layout: page
 toc:
-- "Enter the World Wide Web"
+- "Enter The World Wide Web"
 - "Part I"
 - "Part II"
 - "Reflection and Review"
@@ -40,7 +40,7 @@ Can be tailored for audiences from 13 up; with varying levels of experience with
 #### Earning Digital Badges
 Digital badges capture the evidence and are the demonstration knowledge and achievement. Each Core Activity encompasses multiple web literacy skills. Completion of all Core Activities will enable anyone to earn all the web literacy and 21C skills badges. Thus, we encourage you to complete all the Core Activities, and earn badges to capture what you've learned. Digitalme is offering web literacy badges through the [Open Badges Academy](https://www.openbadgeacademy.com/mozilladirectory). 
 
-### Online Activity: Enter the World Wide Web
+### Enter the World Wide Web
 ### Part I
 [10 min]
 * Connect to prior knowledge by asking learners: 
