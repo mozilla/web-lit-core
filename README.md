@@ -8,7 +8,7 @@ Web literacy for example helps people:
 * Evaluate information, and spot misinformation and disinformation. 
 * Empower themselves and their communities to participate online as citizens, learners, workers, creators, consumers, and people.
 
-Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to our web literacy leaders and their respective public library staff: Sherry Lehane, Davis Erin Anderson, Joanna Milner, Liz Dyer, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and [Digitalme](https://digitalme.co.uk/) for making web literacy badges a reality. 
+Developing this core curriculum has truly been a community effort involving staff, volunteer contributors, and allied organizations from around the world. A special shout-out to the [library pilots](https://learning.mozilla.org/blog/mozilla-imls-web-literacy-for-library-staff-pilots-kick-off-meeting) our web literacy leaders and their respective public library staff: Sherry Lehane, Davis Erin Anderson, Joanna Milner, Liz Dyer, Melanie Wilson, and Matthew Kopel for all their contributions, as well as Randy MacDonald and Iris Bond Gill. A big thank you to Matt Rogers and [Digitalme](https://digitalme.co.uk/) for making web literacy badges a reality. 
 
 See [crosswalk](https://docs.google.com/document/d/1MKxmLQMSyhDRCFwKcrGHZiHmPUGoFLmD5HFtHWBK7Yg/edit#) of the Web Literacy Skills with core activities. 
 
