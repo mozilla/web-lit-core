@@ -8,7 +8,7 @@ toc:
 - "Wrap-up and Discussion"
 - "Learning Experience Reflection"
 ---
-![web apps](../images/apps-cellphone-cellular-telephone-833337.jpg)
+![web apps](../images/ipad-820272_640.jpg)
 
 #### Description
 In this online activity, learners consider how they’d like to represent themselves on the web. They get a crash course in the Thimble web development tool and use what they’ve learned in the previous two activities on HTML and tagging to remix a template into their own personal homepage on the web. This lesson revisits the concepts of web hosting, domain names, and urls. 
