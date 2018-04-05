@@ -8,7 +8,7 @@ toc:
 - "Detecting skills in the wild"
 - "Learning Experience Reflection"
 ---
-![detective](../images/detective-788592_640.jpg)
+![detective](../images/olloweb-solution...plash.jpg)
 
 #### Description
 Learn to tell truth from fiction while using the web to investigate the existence of the kraken, a huge, dangerous tentacled sea creature, and how to spot misinformation and disinformation.  Learners will collaborate to create a set of rules to guide them in evaluating web sources to solve a research question and compare them to other checklists. 
