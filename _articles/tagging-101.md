@@ -67,7 +67,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
 > Tip! Keep a list of the design elements that come up in discussion--map these to HTML tags later on in the lesson.  
 * Key Concept! Explain that this is how web designers use HyperText Markup Language: to add formatting to content on the web, so browser can display it in a way that’s easy to read, and interesting. 
 * Web designers use HTML “tags” to tell the browser what to do with content. 
-    * Ask learners, what’s a tag? Where do you have tags? What do they do
+    * Ask learners, what’s a tag? Where do you have tags? What do they do?
 > Tip! If learners are struggling, explain: You have tags on your clothes or your luggage, people tag you on social media, you might tag a blog post… A tag is a little bit of information you attach to something, to identify it in some way, or add special instructions.
 
 * Explain: When web designers write HTML, they take chunks of content and “mark them up” with tags to tell the browser how to show that content. They put a tag at the beginning of the content (the opening tag), and a tag at the end (the closing tag), so the browser knows when to start and stop. 
