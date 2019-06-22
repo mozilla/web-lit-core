@@ -85,7 +85,7 @@ Digital badges capture the evidence and are the demonstration knowledge and achi
     * defines a title in the browser tab
     * provides a title for the page when it is added to favorites
     * displays a title for the page in search engine results. 
-* Next, add the tags-- these should be around the entire text for the page. 
+* Next, add the tags <body> </body>-- these should be around the entire text for the page. 
 * Use h1 for your page’s top headline, the on-screen title for your story (different from the title tag)
 * Use h2 or h3 tags for section headings
 * Use p tags for paragraphs
