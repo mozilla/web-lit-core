@@ -6,15 +6,26 @@ As contributors to the Mozilla Privacy Arcade project, we agree to review and ab
 
 ## Participation Guidelines
 
-Moreover, to promote a safe space for all, we agree to:
+These guidelines aim to support a community where all people should feel safe to participate, introduce new ideas and inspire others, regardless of:
+- Background
+- Family status
+- Gender
+- Gender identity or expression
+- Marital status
+- Sex
+- Sexual orientation
+- Native language
+- Age
+- Ability
+- Race and/or ethnicity
+- Caste
+- National origin
+- Socioeconomic status
+- Religion
+- Geographic location
+-Any other dimension of diversity
 
-- Bring our best selves to the work and assume best intentions from others.
-- Respect one another’s space online and off.
-- Work intentionally to make this project a safe and inviting space for all contributors and for contributors from all backgrounds.
-- Refrain from all destructive, harassing, negative, threatening and otherwise harmful behavior. 
-- Report conduct issues to the project lead in a timely fashion.
-- Abide by the project lead's decisions about conduct issues or use direct, but non-harmful ways to question and improve them.
-- Support community members victimized by harmful interactions.
+Openness, collaboration and participation are core aspects of our work — from development on Firefox to collaboratively designing curriculum. We gain strength from diversity and actively seek participation from those who enhance it. These guidelines exist to enable diverse individuals and groups to interact and collaborate to mutual advantage. This document outlines both expected and prohibited behavior.
 
 To work together in an open and efficient way, we also commit to:
 
